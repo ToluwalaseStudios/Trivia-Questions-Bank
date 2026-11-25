@@ -1,0 +1,2279 @@
+{
+  "questions": [
+    {
+      "subject": "Physics",
+      "subcategory": "Measurement",
+      "question": "A student measures the length of a metal rod as 25.0 cm. If the measurement has an uncertainty of 0.1 cm, the percentage uncertainty is approximately",
+      "options": {
+        "A": "0.04%",
+        "B": "0.4%",
+        "C": "4.0%",
+        "D": "40%"
+      },
+      "answer": "B",
+      "explanation": "Percentage uncertainty = (uncertainty ÷ measured value) × 100 = (0.1 ÷ 25.0) × 100 = 0.4%."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Thermal Physics",
+      "question": "Which of the following has the dimensions of pressure?",
+      "options": {
+        "A": "MLT⁻²",
+        "B": "ML⁻¹T⁻²",
+        "C": "ML²T⁻²",
+        "D": "ML⁻²T⁻¹"
+      },
+      "answer": "B",
+      "explanation": "Pressure = Force ÷ Area. Force has dimensions MLT⁻², and area has dimensions L². Dividing gives ML⁻¹T⁻²."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mixed Topic",
+      "question": "Which pair consists entirely of vector quantities?",
+      "options": {
+        "A": "Distance and speed",
+        "B": "Mass and displacement",
+        "C": "Velocity and acceleration",
+        "D": "Work and momentum"
+      },
+      "answer": "C",
+      "explanation": "Velocity and acceleration both have magnitude and direction, so both are vectors. Distance, speed, mass, and work are scalars, so the other options don't qualify as \"entirely\" vectors."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mixed Topic",
+      "question": "A car starts from rest and accelerates uniformly at 4 m/s² for 5 s. What distance does it cover?",
+      "options": {
+        "A": "20 m",
+        "B": "40 m",
+        "C": "50 m",
+        "D": "100 m"
+      },
+      "answer": "C",
+      "explanation": "Using s = ut + ½at², with u = 0: s = ½ × 4 × 5² = ½ × 4 × 25 = 50 m."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Modern Physics",
+      "question": "A particle moving at 20 m/s is uniformly decelerated at 5 m/s². How long does it take to stop?",
+      "options": {
+        "A": "2 s",
+        "B": "4 s",
+        "C": "5 s",
+        "D": "10 s"
+      },
+      "answer": "B",
+      "explanation": "Using v = u + at, with final velocity v = 0: 0 = 20 − 5t, so t = 20 ÷ 5 = 4 s."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A ball is projected horizontally from the top of a 20 m high cliff. Neglecting air resistance, which quantity remains constant throughout its motion?",
+      "options": {
+        "A": "Vertical velocity",
+        "B": "Horizontal velocity",
+        "C": "Resultant velocity",
+        "D": "Vertical displacement"
+      },
+      "answer": "B",
+      "explanation": "With air resistance ignored, there is no horizontal force acting on the ball, so its horizontal velocity stays the same throughout the flight. Its vertical velocity keeps increasing because gravity still acts downward."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A projectile has a maximum range when projected at an angle of",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "answer": "B",
+      "explanation": "Range R = u²sin(2θ) ÷ g. This is greatest when sin(2θ) = 1, which happens when 2θ = 90°, meaning θ = 45°."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A body moves in a circle of radius 2 m at 4 m/s. Its centripetal acceleration is",
+      "options": {
+        "A": "2 m/s²",
+        "B": "4 m/s²",
+        "C": "8 m/s²",
+        "D": "16 m/s²"
+      },
+      "answer": "C",
+      "explanation": "Centripetal acceleration a = v² ÷ r = 4² ÷ 2 = 16 ÷ 2 = 8 m/s²."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "If the distance between two masses is doubled, the gravitational force between them becomes",
+      "options": {
+        "A": "twice as large",
+        "B": "four times as large",
+        "C": "half as large",
+        "D": "one-quarter as large"
+      },
+      "answer": "D",
+      "explanation": "Gravitational force follows F ∝ 1/r² (inverse square law). Doubling the distance divides the force by 2² = 4, so the new force is one-quarter of the original."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A body is in translational equilibrium when",
+      "options": {
+        "A": "its velocity is zero",
+        "B": "its acceleration is maximum",
+        "C": "the resultant force acting on it is zero",
+        "D": "its kinetic energy is zero"
+      },
+      "answer": "C",
+      "explanation": "By Newton's second law (F = ma), if the resultant force on a body is zero, its acceleration is also zero. The body may still be moving, just at constant velocity — that's the condition for equilibrium."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A force of 20 N acts perpendicular to a spanner at a distance of 0.5 m from the pivot. The moment is",
+      "options": {
+        "A": "10 Nm",
+        "B": "20 Nm",
+        "C": "40 Nm",
+        "D": "100 Nm"
+      },
+      "answer": "A",
+      "explanation": "Moment = Force × perpendicular distance from the pivot = 20 × 0.5 = 10 Nm."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A force of 50 N moves an object through 4 m in the direction of the force. The work done is",
+      "options": {
+        "A": "12.5 J",
+        "B": "46 J",
+        "C": "200 J",
+        "D": "400 J"
+      },
+      "answer": "C",
+      "explanation": "Work done = Force × distance = 50 × 4 = 200 J."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A machine does 6000 J of work in 20 s. Its power is",
+      "options": {
+        "A": "30 W",
+        "B": "300 W",
+        "C": "1200 W",
+        "D": "120,000 W"
+      },
+      "answer": "B",
+      "explanation": "Power = Work ÷ time = 6000 ÷ 20 = 300 W."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A body of mass 2 kg moves at 10 m/s. Its kinetic energy is",
+      "options": {
+        "A": "20 J",
+        "B": "50 J",
+        "C": "100 J",
+        "D": "200 J"
+      },
+      "answer": "C",
+      "explanation": "Kinetic energy = ½mv² = ½ × 2 × 10² = ½ × 2 × 100 = 100 J."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Thermal Physics",
+      "question": "A 2 kg metal has specific heat capacity 500 J/kg·K. How much heat is required to raise its temperature by 20 K?",
+      "options": {
+        "A": "5,000 J",
+        "B": "10,000 J",
+        "C": "20,000 J",
+        "D": "50,000 J"
+      },
+      "answer": "C",
+      "explanation": "Heat required Q = mass × specific heat capacity × temperature change = 2 × 500 × 20 = 20,000 J."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Thermal Physics",
+      "question": "During the melting of a pure solid at its melting point, the temperature remains constant because the supplied heat is mainly used to",
+      "options": {
+        "A": "increase the kinetic energy of molecules",
+        "B": "break intermolecular bonds",
+        "C": "increase the mass of the substance",
+        "D": "increase atmospheric pressure"
+      },
+      "answer": "B",
+      "explanation": "At the melting point, the heat supplied (latent heat of fusion) goes into overcoming the forces holding the molecules in a fixed structure, not into raising their kinetic energy. That's why temperature stays constant while melting is happening."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Thermal Physics",
+      "question": "A gas occupies 4 L at 300 K. At constant pressure, what volume will it occupy at 450 K?",
+      "options": {
+        "A": "2.67 L",
+        "B": "4 L",
+        "C": "6 L",
+        "D": "8 L"
+      },
+      "answer": "C",
+      "explanation": "By Charles' law, V₁/T₁ = V₂/T₂. So V₂ = (4 × 450) ÷ 300 = 6 L."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Waves and Sound",
+      "question": "Which of the following waves cannot travel through a vacuum?",
+      "options": {
+        "A": "Light",
+        "B": "Radio waves",
+        "C": "X-rays",
+        "D": "Sound"
+      },
+      "answer": "D",
+      "explanation": "Sound is a mechanical wave, so it needs particles of a medium (solid, liquid, or gas) to travel through. Light, radio waves, and X-rays are electromagnetic waves, so they can travel through a vacuum."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Waves and Sound",
+      "question": "A wave has frequency 500 Hz and wavelength 0.68 m. Its speed is",
+      "options": {
+        "A": "340 m/s",
+        "B": "735 m/s",
+        "C": "500 m/s",
+        "D": "0.00136 m/s"
+      },
+      "answer": "A",
+      "explanation": "Wave speed = frequency × wavelength = 500 × 0.68 = 340 m/s."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "The phenomenon responsible for the apparent change in frequency of a sound due to relative motion between source and observer is",
+      "options": {
+        "A": "resonance",
+        "B": "diffraction",
+        "C": "Doppler effect",
+        "D": "polarization"
+      },
+      "answer": "C",
+      "explanation": "This apparent change in pitch caused by relative motion between a sound source and a listener is called the Doppler effect — for example, how a siren sounds higher-pitched as it approaches and lower as it moves away."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Optics",
+      "question": "An object is placed beyond 2F of a converging lens. The image formed is",
+      "options": {
+        "A": "virtual, erect and magnified",
+        "B": "real, inverted and diminished",
+        "C": "virtual, inverted and diminished",
+        "D": "real, erect and magnified"
+      },
+      "answer": "B",
+      "explanation": "When an object sits beyond 2F of a converging lens, the image forms between F and 2F on the other side of the lens. That image is real, inverted, and smaller than the object."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Optics",
+      "question": "When light travels from air into glass, it generally",
+      "options": {
+        "A": "speeds up and bends away from the normal",
+        "B": "slows down and bends towards the normal",
+        "C": "speeds up and bends towards the normal",
+        "D": "maintains its speed"
+      },
+      "answer": "B",
+      "explanation": "Glass is optically denser than air, so light slows down as it enters. Because it slows down while entering the denser medium, it also bends towards the normal."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Optics",
+      "question": "Total internal reflection can occur only when light travels",
+      "options": {
+        "A": "from a rarer to a denser medium",
+        "B": "from a denser to a rarer medium",
+        "C": "between two equally dense media",
+        "D": "through a vacuum only"
+      },
+      "answer": "B",
+      "explanation": "Total internal reflection happens when light tries to pass from a denser medium (like glass or water) into a rarer medium (like air) at an angle greater than the critical angle. It cannot happen the other way round."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Electricity",
+      "question": "A current of 3 A flows through a 4 Ω resistor. The potential difference is",
+      "options": {
+        "A": "0.75 V",
+        "B": "7 V",
+        "C": "12 V",
+        "D": "16 V"
+      },
+      "answer": "C",
+      "explanation": "By Ohm's law, V = IR = 3 × 4 = 12 V."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Thermal Physics",
+      "question": "An electric heater rated 1000 W operates for 2 minutes. The electrical energy consumed is",
+      "options": {
+        "A": "500 J",
+        "B": "2,000 J",
+        "C": "60,000 J",
+        "D": "120,000 J"
+      },
+      "answer": "D",
+      "explanation": "2 minutes = 120 seconds. Energy = Power × time = 1000 × 120 = 120,000 J."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Electricity",
+      "question": "Two 6 Ω resistors are connected in parallel. Their effective resistance is",
+      "options": {
+        "A": "12 Ω",
+        "B": "6 Ω",
+        "C": "3 Ω",
+        "D": "1.5 Ω"
+      },
+      "answer": "C",
+      "explanation": "For two equal resistors in parallel, the combined resistance is half of one resistor's value: 6 ÷ 2 = 3 Ω."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Electricity",
+      "question": "In a series circuit, which quantity is the same through every resistor?",
+      "options": {
+        "A": "Potential difference",
+        "B": "Current",
+        "C": "Resistance",
+        "D": "Power"
+      },
+      "answer": "B",
+      "explanation": "A series circuit has only one path for charge to flow, so the same current passes through every component. Potential difference is instead shared out and can differ across each resistor."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "The direction of force on a current-carrying conductor placed in a magnetic field is determined by",
+      "options": {
+        "A": "Fleming's left-hand rule",
+        "B": "Fleming's right-hand rule",
+        "C": "Lenz's law only",
+        "D": "Ohm's law"
+      },
+      "answer": "A",
+      "explanation": "Fleming's left-hand rule gives the direction of the force (the motor effect) on a current-carrying conductor in a magnetic field. Fleming's right-hand rule is instead used for the induced current in generators."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Electricity",
+      "question": "The production of an emf due to a change in magnetic flux through a circuit is called",
+      "options": {
+        "A": "electrolysis",
+        "B": "electromagnetic induction",
+        "C": "rectification",
+        "D": "magnetization"
+      },
+      "answer": "B",
+      "explanation": "This is the definition of electromagnetic induction — a changing magnetic flux through a circuit induces an electromotive force (emf) in it."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Magnetism and Electromagnetism",
+      "question": "A transformer has 500 turns in its primary coil and 100 turns in its secondary coil. If the primary voltage is 240 V, the secondary voltage is",
+      "options": {
+        "A": "24 V",
+        "B": "48 V",
+        "C": "480 V",
+        "D": "1200 V"
+      },
+      "answer": "B",
+      "explanation": "Secondary voltage ÷ Primary voltage = Secondary turns ÷ Primary turns. So secondary voltage = 240 × (100 ÷ 500) = 48 V."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Modern Physics",
+      "question": "Which particle has no electric charge?",
+      "options": {
+        "A": "Proton",
+        "B": "Electron",
+        "C": "Neutron",
+        "D": "Positron"
+      },
+      "answer": "C",
+      "explanation": "A neutron carries no electric charge, unlike the proton (positive), electron (negative), and positron (positive)."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Modern Physics",
+      "question": "A radioactive sample has a half-life of 6 hours. What fraction remains after 18 hours?",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "1/6",
+        "D": "1/8"
+      },
+      "answer": "D",
+      "explanation": "18 hours ÷ 6 hours = 3 half-lives. Each half-life halves the amount remaining, so the fraction left is ½ × ½ × ½ = 1/8."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Magnetism and Electromagnetism",
+      "question": "The photoelectric effect provides evidence that electromagnetic radiation can behave as",
+      "options": {
+        "A": "only a wave",
+        "B": "particles",
+        "C": "sound",
+        "D": "matter waves only"
+      },
+      "answer": "B",
+      "explanation": "In the photoelectric effect, light knocks electrons out of a metal surface in discrete packets of energy. This behaviour can only be explained by treating light as particles (photons), not purely as a wave."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Electricity",
+      "question": "A diode is mainly used in a circuit to",
+      "options": {
+        "A": "amplify current",
+        "B": "allow current predominantly in one direction",
+        "C": "store electrical charge",
+        "D": "increase resistance indefinitely"
+      },
+      "answer": "B",
+      "explanation": "A diode lets current flow easily in one direction while blocking (or heavily resisting) it in the reverse direction — this is why diodes are used for rectification."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Modern Physics",
+      "question": "A pure semiconductor is called",
+      "options": {
+        "A": "extrinsic",
+        "B": "intrinsic",
+        "C": "metallic",
+        "D": "electrolytic"
+      },
+      "answer": "B",
+      "explanation": "A semiconductor in its pure form, with no added impurities, is called intrinsic. Once impurities are deliberately added (doping), it becomes extrinsic."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A force of 200 N acts over an area of 0.5 m². The pressure is",
+      "options": {
+        "A": "100 Pa",
+        "B": "200 Pa",
+        "C": "400 Pa",
+        "D": "1000 Pa"
+      },
+      "answer": "C",
+      "explanation": "Pressure = Force ÷ Area = 200 ÷ 0.5 = 400 Pa."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mixed Topic",
+      "question": "A machine has an input work of 500 J and useful output work of 400 J. Its efficiency is",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "80%",
+        "D": "125%"
+      },
+      "answer": "C",
+      "explanation": "Efficiency = (output work ÷ input work) × 100 = (400 ÷ 500) × 100 = 80%."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "Within the elastic limit, Hooke's law states that",
+      "options": {
+        "A": "extension is inversely proportional to force",
+        "B": "extension is proportional to force",
+        "C": "force is independent of extension",
+        "D": "stress is always zero"
+      },
+      "answer": "B",
+      "explanation": "Hooke's law states that, within the elastic limit, the extension of a spring is directly proportional to the force (load) applied to it."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "The resistance offered by a fluid to the relative motion between its layers is called",
+      "options": {
+        "A": "density",
+        "B": "viscosity",
+        "C": "elasticity",
+        "D": "surface tension"
+      },
+      "answer": "B",
+      "explanation": "This internal friction between layers of a moving fluid is called viscosity — it's why thick liquids like honey flow more slowly than water."
+    },
+    {
+      "subject": "Physics",
+      "subcategory": "Mechanics",
+      "question": "A 2 kg body is lifted vertically through 5 m. Taking g = 10 m/s², its gain in gravitational potential energy is",
+      "options": {
+        "A": "10 J",
+        "B": "25 J",
+        "C": "50 J",
+        "D": "100 J"
+      },
+      "answer": "D",
+      "explanation": "Gravitational potential energy gained = mass × g × height = 2 × 10 × 5 = 100 J."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Separation Techniques",
+      "question": "Which method is most suitable for separating ethanol from water?",
+      "options": {
+        "A": "Filtration",
+        "B": "Sublimation",
+        "C": "Fractional distillation",
+        "D": "Decantation"
+      },
+      "answer": "C",
+      "explanation": "Ethanol and water are miscible liquids (they mix completely) with different boiling points — ethanol boils at about 78°C and water at 100°C. Fractional distillation separates such liquids by gently heating the mixture so the liquid with the lower boiling point vaporizes first and is collected separately."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Separation Techniques",
+      "question": "The separation of components in paper chromatography is primarily based on differences in their",
+      "options": {
+        "A": "nuclear masses",
+        "B": "solubility and attraction to the stationary phase",
+        "C": "melting points only",
+        "D": "densities only"
+      },
+      "answer": "B",
+      "explanation": "In paper chromatography, different substances in a mixture travel at different speeds up the paper because they differ in how soluble they are in the solvent (the mobile phase) and how strongly they are attracted to the paper (the stationary phase)."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Separation Techniques",
+      "question": "Which observation provides the strongest evidence that a liquid is pure?",
+      "options": {
+        "A": "It is colourless",
+        "B": "It has a constant boiling point",
+        "C": "It has no smell",
+        "D": "It evaporates rapidly"
+      },
+      "answer": "B",
+      "explanation": "A pure liquid boils at one fixed, sharp temperature. If a liquid contains impurities, its boiling point tends to rise and spread over a range instead of staying constant, so a constant boiling point is the reliable test for purity."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Stoichiometry",
+      "question": "How many moles are present in 18 g of water? (H = 1, O = 16)",
+      "options": {
+        "A": "0.5 mol",
+        "B": "1 mol",
+        "C": "2 mol",
+        "D": "18 mol"
+      },
+      "answer": "B",
+      "explanation": "Molar mass of water (H2O) = (2 × 1) + 16 = 18 g/mol. Number of moles = mass ÷ molar mass = 18 ÷ 18 = 1 mol."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Stoichiometry",
+      "question": "What mass of CO2 is produced when 12 g of carbon burns completely in oxygen? C + O2 → CO2 (C = 12, O = 16)",
+      "options": {
+        "A": "12 g",
+        "B": "22 g",
+        "C": "32 g",
+        "D": "44 g"
+      },
+      "answer": "D",
+      "explanation": "12 g of carbon = 12 ÷ 12 = 1 mole of carbon. From the balanced equation, 1 mole of carbon produces 1 mole of CO2. Molar mass of CO2 = 12 + (2 × 16) = 44 g/mol, so 1 mole of CO2 has a mass of 44 g."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Stoichiometry",
+      "question": "A compound contains 40% carbon, 6.67% hydrogen and 53.33% oxygen. Its empirical formula is",
+      "options": {
+        "A": "CHO",
+        "B": "CH2O",
+        "C": "C2H4O",
+        "D": "C6H12O6"
+      },
+      "answer": "B",
+      "explanation": "Assume 100 g of compound, so the percentages become masses in grams. Divide each mass by its atomic mass to get moles: carbon = 40 ÷ 12 = 3.33, hydrogen = 6.67 ÷ 1 = 6.67, oxygen = 53.33 ÷ 16 = 3.33. Dividing all three by the smallest value (3.33) gives a ratio of C:H:O = 1:2:1, so the empirical formula is CH2O."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Mixed Topic",
+      "question": "At constant temperature, reducing the volume of a gas causes its pressure to",
+      "options": {
+        "A": "decrease",
+        "B": "increase",
+        "C": "remain constant",
+        "D": "become zero"
+      },
+      "answer": "B",
+      "explanation": "This is Boyle's law — at constant temperature, pressure is inversely proportional to volume. Squeezing a gas into a smaller volume forces its particles to collide with the container walls more often, raising the pressure."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Atomic Structure",
+      "question": "An atom has atomic number 17 and mass number 37. The number of neutrons is",
+      "options": {
+        "A": "17",
+        "B": "20",
+        "C": "37",
+        "D": "54"
+      },
+      "answer": "B",
+      "explanation": "Number of neutrons = mass number − atomic number = 37 − 17 = 20."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Atomic Structure",
+      "question": "Isotopes are atoms of the same element having the same",
+      "options": {
+        "A": "mass number but different atomic numbers",
+        "B": "atomic number but different mass numbers",
+        "C": "number of neutrons only",
+        "D": "number of nucleons only"
+      },
+      "answer": "B",
+      "explanation": "Isotopes are atoms of the same element (same number of protons, so the same atomic number) but with different numbers of neutrons, which gives them different mass numbers."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Periodic Chemistry",
+      "question": "Elements in the same group generally have the same number of",
+      "options": {
+        "A": "electron shells",
+        "B": "neutrons",
+        "C": "valence electrons",
+        "D": "nucleons"
+      },
+      "answer": "C",
+      "explanation": "Elements in the same group of the periodic table have the same number of electrons in their outermost shell (valence electrons), which is why they show similar chemical behaviour."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Atomic Structure",
+      "question": "Across a period from left to right, atomic radius generally",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains constant",
+        "D": "becomes infinite"
+      },
+      "answer": "B",
+      "explanation": "Moving across a period, protons are added to the nucleus, increasing its positive charge. This pulls the electron shells in more tightly, so atomic radius decreases from left to right."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Chemical Bonding",
+      "question": "Which compound contains predominantly ionic bonding?",
+      "options": {
+        "A": "CH4",
+        "B": "CO2",
+        "C": "NaCl",
+        "D": "NH3"
+      },
+      "answer": "C",
+      "explanation": "NaCl forms when sodium (a metal) transfers an electron to chlorine (a non-metal), producing Na⁺ and Cl⁻ ions held together by strong electrostatic attraction — this is ionic bonding. The other options are covalent compounds formed between non-metal atoms sharing electrons."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Atomic Structure",
+      "question": "The bond formed when two atoms share electrons is",
+      "options": {
+        "A": "ionic",
+        "B": "covalent",
+        "C": "metallic",
+        "D": "coordinate only"
+      },
+      "answer": "B",
+      "explanation": "A covalent bond forms when two atoms share one or more pairs of electrons, typically between two non-metal atoms."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Acids, Bases and Salts",
+      "question": "Which substance turns blue litmus paper red?",
+      "options": {
+        "A": "Alkali",
+        "B": "Acid",
+        "C": "Salt only",
+        "D": "Water"
+      },
+      "answer": "B",
+      "explanation": "Acids turn blue litmus paper red, while alkalis (bases) turn red litmus paper blue. This simple colour-change test is used to identify acids and bases."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Acids, Bases and Salts",
+      "question": "A solution with pH 2 is",
+      "options": {
+        "A": "strongly acidic",
+        "B": "weakly acidic",
+        "C": "neutral",
+        "D": "alkaline"
+      },
+      "answer": "A",
+      "explanation": "The pH scale runs from 0 to 14, with 7 as neutral. Values well below 7, such as pH 2, indicate a strongly acidic solution."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Acids, Bases and Salts",
+      "question": "The products of an acid-base neutralization reaction are generally",
+      "options": {
+        "A": "salt and hydrogen",
+        "B": "salt and water",
+        "C": "water and oxygen",
+        "D": "acid and salt"
+      },
+      "answer": "B",
+      "explanation": "In neutralization, an acid reacts with a base to produce a salt and water — for example, hydrochloric acid + sodium hydroxide → sodium chloride + water."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Redox and Electrochemistry",
+      "question": "Oxidation can be described as",
+      "options": {
+        "A": "gain of electrons",
+        "B": "loss of electrons",
+        "C": "gain of protons only",
+        "D": "loss of neutrons"
+      },
+      "answer": "B",
+      "explanation": "In terms of electron transfer, oxidation is the loss of electrons by a substance. A simple way to remember this is \"OIL RIG\" — Oxidation Is Loss, Reduction Is Gain (of electrons)."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Mixed Topic",
+      "question": "In the reaction Zn + CuSO4 → ZnSO4 + Cu, the substance oxidized is",
+      "options": {
+        "A": "Cu",
+        "B": "CuSO4",
+        "C": "Zn",
+        "D": "SO4²⁻"
+      },
+      "answer": "C",
+      "explanation": "Zinc loses two electrons to become Zn²⁺, forming ZnSO4 — losing electrons means zinc is oxidized. At the same time, Cu²⁺ ions gain those electrons to form solid copper, so copper is reduced."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Redox and Electrochemistry",
+      "question": "During electrolysis, positively charged ions move towards the",
+      "options": {
+        "A": "anode",
+        "B": "cathode",
+        "C": "electrolyte surface only",
+        "D": "salt bridge"
+      },
+      "answer": "B",
+      "explanation": "Positive ions (cations) are attracted to the negatively charged electrode, called the cathode, where they gain electrons. Negative ions (anions) move to the positive electrode, the anode."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Stoichiometry",
+      "question": "The quantity of electricity required to deposit one mole of a singly charged ion is approximately",
+      "options": {
+        "A": "one electron charge",
+        "B": "one Faraday",
+        "C": "one mole of water",
+        "D": "one volt"
+      },
+      "answer": "B",
+      "explanation": "One Faraday (about 96,500 coulombs) is the charge carried by one mole of electrons — exactly the amount of charge needed to deposit one mole of a singly charged ion during electrolysis."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Periodic Chemistry",
+      "question": "The functional group characteristic of alcohols is",
+      "options": {
+        "A": "−COOH",
+        "B": "−OH",
+        "C": "−CHO",
+        "D": "−COO−"
+      },
+      "answer": "B",
+      "explanation": "Alcohols are identified by the hydroxyl group, −OH, attached to a carbon chain. −COOH is the carboxylic acid group, and −CHO is the aldehyde group."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Organic Chemistry",
+      "question": "Successive members of a homologous series differ by",
+      "options": {
+        "A": "CH",
+        "B": "CH2",
+        "C": "C2H2",
+        "D": "H2"
+      },
+      "answer": "B",
+      "explanation": "Each member of a homologous series differs from the next by one CH2 unit (which adds 14 to the relative molecular mass), while all members share the same general formula and similar chemical properties."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Organic Chemistry",
+      "question": "The general formula of an acyclic alkene is",
+      "options": {
+        "A": "CnH2n+2",
+        "B": "CnH2n",
+        "C": "CnH2n-2",
+        "D": "CnHn"
+      },
+      "answer": "B",
+      "explanation": "Alkenes contain one carbon-to-carbon double bond and follow the general formula CnH2n. Alkanes (all single bonds) follow CnH2n+2, and alkynes (triple bonds) follow CnH2n-2."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Organic Chemistry",
+      "question": "Which compound is unsaturated?",
+      "options": {
+        "A": "Methane",
+        "B": "Ethane",
+        "C": "Propane",
+        "D": "Ethene"
+      },
+      "answer": "D",
+      "explanation": "Ethene contains a carbon-to-carbon double bond, making it unsaturated. Methane, ethane, and propane are alkanes, which contain only single bonds and are saturated."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Organic Chemistry",
+      "question": "Ethene reacts with bromine water mainly by",
+      "options": {
+        "A": "substitution",
+        "B": "addition",
+        "C": "neutralization",
+        "D": "condensation"
+      },
+      "answer": "B",
+      "explanation": "Ethene's double bond opens up so that bromine atoms can add directly across it, decolourising the bromine water. This is a typical addition reaction, characteristic of unsaturated compounds."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Organic Chemistry",
+      "question": "Polyethene is formed from",
+      "options": {
+        "A": "ethane",
+        "B": "ethene",
+        "C": "ethanol",
+        "D": "ethanoic acid"
+      },
+      "answer": "B",
+      "explanation": "Polyethene (polythene) is made by joining many ethene molecules together through addition polymerization, where the double bonds open up and the molecules link into a long chain."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Stoichiometry",
+      "question": "Compounds having the same molecular formula but different structural arrangements are called",
+      "options": {
+        "A": "isotopes",
+        "B": "isomers",
+        "C": "allotropes",
+        "D": "homologues"
+      },
+      "answer": "B",
+      "explanation": "Isomers are compounds with the same molecular formula (the same numbers and types of atoms) but arranged differently, which often gives them different physical or chemical properties."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Separation Techniques",
+      "question": "Fractional distillation of crude petroleum separates components mainly according to differences in their",
+      "options": {
+        "A": "density",
+        "B": "colour",
+        "C": "boiling points",
+        "D": "viscosity only"
+      },
+      "answer": "C",
+      "explanation": "Crude oil is a mixture of hydrocarbons with different boiling points. Fractional distillation heats the mixture and collects each fraction as it condenses at its own characteristic boiling point."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Chemical Kinetics and Equilibrium",
+      "question": "A catalyst increases the rate of a reaction by",
+      "options": {
+        "A": "increasing the enthalpy change",
+        "B": "lowering activation energy",
+        "C": "increasing product concentration permanently",
+        "D": "changing the equilibrium constant"
+      },
+      "answer": "B",
+      "explanation": "A catalyst provides an alternative reaction pathway with a lower activation energy. This allows more particles to react successfully per unit time, speeding up the reaction, while the catalyst itself is not used up."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Chemical Kinetics and Equilibrium",
+      "question": "For a reversible reaction at equilibrium,",
+      "options": {
+        "A": "the reaction stops completely",
+        "B": "reactants disappear",
+        "C": "forward and backward reaction rates are equal",
+        "D": "only products remain"
+      },
+      "answer": "C",
+      "explanation": "At chemical equilibrium, the forward and reverse reactions are both still happening, but at exactly the same rate, so the concentrations of reactants and products stay constant over time even though the reaction hasn't stopped."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Chemical Kinetics and Equilibrium",
+      "question": "For an exothermic equilibrium reaction, increasing temperature generally shifts equilibrium towards the",
+      "options": {
+        "A": "products",
+        "B": "reactants",
+        "C": "catalyst",
+        "D": "solvent"
+      },
+      "answer": "B",
+      "explanation": "In an exothermic reaction, heat is released, almost like an extra \"product.\" Raising the temperature pushes the equilibrium in the direction that absorbs the added heat — the reverse (endothermic) direction — which favours the reactants."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Mixed Topic",
+      "question": "Which factor generally increases the rate of reaction between a solid and a liquid?",
+      "options": {
+        "A": "Decreasing surface area",
+        "B": "Increasing particle size",
+        "C": "Increasing surface area",
+        "D": "Lowering temperature"
+      },
+      "answer": "C",
+      "explanation": "Breaking a solid into smaller pieces increases its surface area, exposing more particles to the liquid at once. This raises the frequency of collisions between reacting particles, which speeds up the reaction."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Periodic Chemistry",
+      "question": "Which element is most likely to form a 2- ion?",
+      "options": {
+        "A": "Sodium",
+        "B": "Magnesium",
+        "C": "Oxygen",
+        "D": "Aluminium"
+      },
+      "answer": "C",
+      "explanation": "Oxygen has 6 electrons in its outer shell and needs 2 more to complete a stable octet, so it readily gains 2 electrons to form the O²⁻ ion. Sodium, magnesium, and aluminium are metals that typically lose electrons to form positive ions instead."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Redox and Electrochemistry",
+      "question": "A white precipitate formed when silver nitrate solution is added to a solution containing chloride ions is",
+      "options": {
+        "A": "AgCl",
+        "B": "AgBr",
+        "C": "AgI",
+        "D": "Ag2O"
+      },
+      "answer": "A",
+      "explanation": "Silver ions react with chloride ions to form silver chloride, an insoluble white precipitate. This reaction is the standard laboratory test for chloride ions."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Industrial and Environmental Chemistry",
+      "question": "Temporary hardness of water is mainly caused by",
+      "options": {
+        "A": "sodium chloride",
+        "B": "calcium and magnesium hydrogencarbonates",
+        "C": "potassium nitrate",
+        "D": "sodium hydroxide"
+      },
+      "answer": "B",
+      "explanation": "Temporary hardness comes from dissolved calcium and magnesium hydrogencarbonates. It's called \"temporary\" because boiling the water decomposes these compounds into insoluble carbonates, removing the hardness."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Industrial and Environmental Chemistry",
+      "question": "The Haber process is used industrially to manufacture",
+      "options": {
+        "A": "sulfuric acid",
+        "B": "ammonia",
+        "C": "ethanol",
+        "D": "sodium carbonate"
+      },
+      "answer": "B",
+      "explanation": "The Haber process combines nitrogen and hydrogen gases, under high pressure and with an iron catalyst, to produce ammonia (NH3), which is used mainly to make fertilizers."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Industrial and Environmental Chemistry",
+      "question": "The Contact process is used to manufacture",
+      "options": {
+        "A": "nitric acid",
+        "B": "sulfuric acid",
+        "C": "hydrochloric acid",
+        "D": "ethanoic acid"
+      },
+      "answer": "B",
+      "explanation": "The Contact process converts sulfur dioxide into sulfur trioxide, using a vanadium(V) oxide catalyst. The sulfur trioxide is then used to manufacture sulfuric acid."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Acids, Bases and Salts",
+      "question": "Acid rain is mainly associated with atmospheric oxides of",
+      "options": {
+        "A": "sodium and potassium",
+        "B": "sulfur and nitrogen",
+        "C": "calcium and magnesium",
+        "D": "hydrogen and helium"
+      },
+      "answer": "B",
+      "explanation": "Sulfur dioxide and nitrogen oxides, released mainly from burning fossil fuels, dissolve in atmospheric moisture to form sulfuric and nitric acids, which fall as acid rain."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Acids, Bases and Salts",
+      "question": "The emission of an alpha particle causes the mass number of a nucleus to decrease by",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "8"
+      },
+      "answer": "C",
+      "explanation": "An alpha particle is made up of 2 protons and 2 neutrons (essentially a helium nucleus). Emitting one reduces the parent nucleus's mass number by 4 and its atomic number by 2."
+    },
+    {
+      "subject": "Chemistry",
+      "subcategory": "Stoichiometry",
+      "question": "What volume of oxygen at STP is required for the complete combustion of 2 moles of methane? CH4 + 2O2 → CO2 + 2H2O (molar gas volume at STP = 22.4 dm³)",
+      "options": {
+        "A": "22.4 dm³",
+        "B": "44.8 dm³",
+        "C": "67.2 dm³",
+        "D": "89.6 dm³"
+      },
+      "answer": "D",
+      "explanation": "From the balanced equation, 1 mole of methane needs 2 moles of oxygen. So 2 moles of methane needs 2 × 2 = 4 moles of oxygen. Volume of oxygen = 4 × 22.4 = 89.6 dm³."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Cell Biology",
+      "question": "The organelle primarily responsible for aerobic respiration is the",
+      "options": {
+        "A": "ribosome",
+        "B": "mitochondrion",
+        "C": "lysosome",
+        "D": "Golgi apparatus"
+      },
+      "answer": "B",
+      "explanation": "Mitochondria contain the enzymes and electron transport systems used in aerobic respiration, which is why they are often called the \"powerhouse of the cell.\""
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Cell Biology",
+      "question": "Which structure is present in plant cells but absent in animal cells?",
+      "options": {
+        "A": "Cell membrane",
+        "B": "Ribosome",
+        "C": "Cell wall",
+        "D": "Mitochondrion"
+      },
+      "answer": "C",
+      "explanation": "Plant cells have a rigid cell wall, made mainly of cellulose, surrounding the cell membrane, giving the cell shape and support. Animal cells lack this structure — they have only a cell membrane."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Cell Biology",
+      "question": "Osmosis is the movement of",
+      "options": {
+        "A": "solute molecules from high to low concentration",
+        "B": "water molecules through a selectively permeable membrane",
+        "C": "gases against their concentration gradient",
+        "D": "proteins across a cell wall"
+      },
+      "answer": "B",
+      "explanation": "Osmosis is specifically the movement of water molecules from a region of higher water concentration to a region of lower water concentration, through a selectively (partially) permeable membrane."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Cell Biology",
+      "question": "A major difference between diffusion and active transport is that active transport",
+      "options": {
+        "A": "never involves membranes",
+        "B": "requires energy",
+        "C": "always involves water",
+        "D": "occurs only in dead cells"
+      },
+      "answer": "B",
+      "explanation": "Diffusion is a passive process that happens naturally down a concentration gradient and needs no energy. Active transport moves substances against their concentration gradient (from low to high), which requires the cell to spend energy, usually from ATP."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Enzymes and Nutrition",
+      "question": "Enzymes increase reaction rate mainly by",
+      "options": {
+        "A": "increasing activation energy",
+        "B": "lowering activation energy",
+        "C": "becoming permanent products",
+        "D": "increasing temperature indefinitely"
+      },
+      "answer": "B",
+      "explanation": "Enzymes are biological catalysts. They speed up reactions by lowering the activation energy needed for the reaction to proceed, without being used up themselves in the process."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Photosynthesis and Respiration",
+      "question": "The mineral element essential for chlorophyll formation is",
+      "options": {
+        "A": "magnesium",
+        "B": "sodium",
+        "C": "chlorine",
+        "D": "iodine"
+      },
+      "answer": "A",
+      "explanation": "Magnesium is a central component of the chlorophyll molecule. Without enough magnesium, plants cannot make chlorophyll properly, which leads to yellowing of leaves (chlorosis)."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Photosynthesis and Respiration",
+      "question": "The oxygen released during photosynthesis comes directly from",
+      "options": {
+        "A": "carbon dioxide",
+        "B": "glucose",
+        "C": "water",
+        "D": "chlorophyll"
+      },
+      "answer": "C",
+      "explanation": "During the light-dependent stage of photosynthesis, water molecules are split apart (photolysis), releasing oxygen gas as a by-product — the oxygen does not come from carbon dioxide."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Photosynthesis and Respiration",
+      "question": "The end products of aerobic respiration are",
+      "options": {
+        "A": "ethanol and carbon dioxide",
+        "B": "lactic acid only",
+        "C": "carbon dioxide, water and energy",
+        "D": "glucose and oxygen"
+      },
+      "answer": "C",
+      "explanation": "Aerobic respiration fully breaks down glucose using oxygen, releasing carbon dioxide, water, and energy (as ATP) as the end products."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Photosynthesis and Respiration",
+      "question": "In yeast, anaerobic respiration produces",
+      "options": {
+        "A": "lactic acid only",
+        "B": "ethanol and carbon dioxide",
+        "C": "glucose and oxygen",
+        "D": "water and oxygen"
+      },
+      "answer": "B",
+      "explanation": "In the absence of oxygen, yeast cells carry out alcoholic fermentation, breaking down glucose into ethanol and carbon dioxide — this is the process used in brewing and baking."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Mixed Topic",
+      "question": "Water is mainly transported through the",
+      "options": {
+        "A": "phloem",
+        "B": "xylem",
+        "C": "cortex",
+        "D": "epidermis"
+      },
+      "answer": "B",
+      "explanation": "Xylem tissue is made of hollow, dead cells forming continuous tubes that carry water and dissolved minerals upward from the roots to the rest of the plant. Phloem, by contrast, transports manufactured food such as sugars."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Transport in Plants",
+      "question": "Which condition generally increases the rate of transpiration?",
+      "options": {
+        "A": "High humidity",
+        "B": "Still air",
+        "C": "High temperature",
+        "D": "Low temperature"
+      },
+      "answer": "C",
+      "explanation": "Higher temperature gives water molecules more energy to evaporate from the leaf surface, and speeds up the rate at which water vapour diffuses out through the stomata, increasing transpiration."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The blood vessel carrying oxygenated blood from the lungs to the heart is the",
+      "options": {
+        "A": "pulmonary artery",
+        "B": "pulmonary vein",
+        "C": "vena cava",
+        "D": "aorta"
+      },
+      "answer": "B",
+      "explanation": "The pulmonary vein carries oxygenated blood from the lungs back to the heart. This is an exception to the usual rule that veins carry deoxygenated blood — the pulmonary vein is one of the few veins that carries oxygen-rich blood."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The blood cells mainly responsible for antibody production are",
+      "options": {
+        "A": "red blood cells",
+        "B": "platelets",
+        "C": "lymphocytes",
+        "D": "neutrophils only"
+      },
+      "answer": "C",
+      "explanation": "Lymphocytes, a type of white blood cell, produce antibodies that help the body recognize and fight specific pathogens as part of the immune response."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "Vaccination protects against disease primarily by",
+      "options": {
+        "A": "immediately killing every pathogen",
+        "B": "stimulating immune memory",
+        "C": "increasing blood pressure",
+        "D": "destroying red blood cells"
+      },
+      "answer": "B",
+      "explanation": "A vaccine exposes the body to a harmless form (or part) of a pathogen, prompting the immune system to produce memory cells. If the real pathogen is encountered later, these memory cells allow a much faster and stronger immune response."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Enzymes and Nutrition",
+      "question": "The enzyme that begins protein digestion in the stomach is",
+      "options": {
+        "A": "amylase",
+        "B": "pepsin",
+        "C": "lipase",
+        "D": "maltase"
+      },
+      "answer": "B",
+      "explanation": "Pepsin is secreted in the stomach and begins breaking down proteins into smaller polypeptides, working best in the acidic environment created by hydrochloric acid."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Enzymes and Nutrition",
+      "question": "Bile aids digestion mainly by",
+      "options": {
+        "A": "digesting proteins",
+        "B": "emulsifying fats",
+        "C": "converting glucose to glycogen",
+        "D": "digesting starch directly"
+      },
+      "answer": "B",
+      "explanation": "Bile contains no digestive enzymes. Instead, it emulsifies fats — breaking large fat globules into smaller droplets — which increases the surface area available for lipase to act on."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The functional unit of the kidney is the",
+      "options": {
+        "A": "nephron",
+        "B": "neuron",
+        "C": "alveolus",
+        "D": "villus"
+      },
+      "answer": "A",
+      "explanation": "Each kidney contains thousands of tiny structures called nephrons, which filter the blood and form urine."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The hormone mainly responsible for lowering blood glucose concentration is",
+      "options": {
+        "A": "glucagon",
+        "B": "insulin",
+        "C": "adrenaline",
+        "D": "thyroxine"
+      },
+      "answer": "B",
+      "explanation": "Insulin, released by the pancreas, lowers blood glucose by encouraging cells to take up glucose from the blood and by promoting its storage as glycogen in the liver. Glucagon does the opposite — it raises blood glucose levels."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The part of the brain responsible mainly for balance and coordination is the",
+      "options": {
+        "A": "cerebrum",
+        "B": "medulla",
+        "C": "cerebellum",
+        "D": "hypothalamus"
+      },
+      "answer": "C",
+      "explanation": "The cerebellum coordinates muscle movement and helps maintain balance and posture."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The integration centre for many simple reflex actions is the",
+      "options": {
+        "A": "spinal cord",
+        "B": "cerebrum",
+        "C": "cerebellum",
+        "D": "retina"
+      },
+      "answer": "A",
+      "explanation": "Many simple reflexes are processed in the spinal cord rather than the brain. This allows for a very fast response (the reflex arc) without waiting for the brain to consciously process the stimulus."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Reproduction",
+      "question": "The fusion of male and female gametes is called",
+      "options": {
+        "A": "pollination",
+        "B": "fertilization",
+        "C": "germination",
+        "D": "budding"
+      },
+      "answer": "B",
+      "explanation": "Fertilization is the fusion of a male gamete (such as sperm or a pollen nucleus) with a female gamete (the egg cell) to form a zygote."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Genetics and Variation",
+      "question": "If T represents tallness and t represents dwarfness, the genotype Tt is",
+      "options": {
+        "A": "homozygous dominant",
+        "B": "homozygous recessive",
+        "C": "heterozygous",
+        "D": "haploid"
+      },
+      "answer": "C",
+      "explanation": "A genotype is heterozygous when it carries two different alleles for a gene — here, one dominant allele (T) and one recessive allele (t). Homozygous genotypes would instead have two identical alleles, either TT (dominant) or tt (recessive)."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Genetics and Variation",
+      "question": "A cross between Tt and Tt produces what proportion of offspring expected to be homozygous recessive?",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "3/4",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Crossing Tt × Tt produces offspring in the ratio 1 TT : 2 Tt : 1 tt. Only the tt genotype is homozygous recessive, which makes up 1 out of every 4 offspring — that is, 1/4."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Genetics and Variation",
+      "question": "Which of the following is an example of continuous variation?",
+      "options": {
+        "A": "ABO blood group",
+        "B": "Ability to roll the tongue",
+        "C": "Human height",
+        "D": "Sex"
+      },
+      "answer": "C",
+      "explanation": "Continuous variation shows a smooth range of values with no sharp breaks between them, like human height, which can fall almost anywhere along a range. Blood group, tongue-rolling ability, and sex are examples of discontinuous variation, where individuals fall into distinct, separate categories."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Evolution",
+      "question": "Natural selection favours organisms that",
+      "options": {
+        "A": "are always physically larger",
+        "B": "possess advantageous heritable characteristics",
+        "C": "never undergo mutation",
+        "D": "cannot reproduce"
+      },
+      "answer": "B",
+      "explanation": "Natural selection favours individuals with heritable traits that give them an advantage in surviving and reproducing in their environment, allowing those traits to become more common in the population over successive generations."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Classification",
+      "question": "Which kingdom contains organisms such as mushrooms?",
+      "options": {
+        "A": "Plantae",
+        "B": "Fungi",
+        "C": "Animalia",
+        "D": "Monera"
+      },
+      "answer": "B",
+      "explanation": "Mushrooms belong to the kingdom Fungi, along with yeasts and moulds. Unlike plants, fungi obtain their nutrients by absorption rather than photosynthesis."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Classification",
+      "question": "The scientific name of an organism consists primarily of its",
+      "options": {
+        "A": "family and order",
+        "B": "genus and species",
+        "C": "kingdom and phylum",
+        "D": "class and family"
+      },
+      "answer": "B",
+      "explanation": "Scientific names follow the binomial naming system, made up of the genus name followed by the species name — for example, Homo sapiens."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Mixed Topic",
+      "question": "Which organism is responsible for malaria?",
+      "options": {
+        "A": "Plasmodium",
+        "B": "Trypanosoma",
+        "C": "Salmonella",
+        "D": "Rhizopus"
+      },
+      "answer": "A",
+      "explanation": "Malaria is caused by parasites of the genus Plasmodium, which are transmitted to humans through the bite of an infected female Anopheles mosquito."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Mixed Topic",
+      "question": "The vector of malaria is the",
+      "options": {
+        "A": "housefly",
+        "B": "female Anopheles mosquito",
+        "C": "tsetse fly",
+        "D": "cockroach"
+      },
+      "answer": "B",
+      "explanation": "The female Anopheles mosquito is the vector (carrier) that transmits the Plasmodium parasite from an infected person to a healthy person when it bites to feed on blood."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Ecology",
+      "question": "The ultimate source of energy for most ecosystems is",
+      "options": {
+        "A": "soil",
+        "B": "decomposers",
+        "C": "sunlight",
+        "D": "water"
+      },
+      "answer": "C",
+      "explanation": "Sunlight is captured by producers (green plants) during photosynthesis and converted into chemical energy, which then flows through the food chain to all other organisms in the ecosystem."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Ecology",
+      "question": "In the food chain grass → grasshopper → frog → snake, the frog is a",
+      "options": {
+        "A": "producer",
+        "B": "primary consumer",
+        "C": "secondary consumer",
+        "D": "decomposer"
+      },
+      "answer": "C",
+      "explanation": "Grass is the producer, the grasshopper (which eats grass) is the primary consumer, and the frog (which eats the grasshopper) is the secondary consumer, since it feeds on a primary consumer."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Ecology",
+      "question": "The gradual replacement of one community by another over time is called",
+      "options": {
+        "A": "succession",
+        "B": "mutation",
+        "C": "competition",
+        "D": "predation"
+      },
+      "answer": "A",
+      "explanation": "Ecological succession is the gradual, step-by-step change in the species that dominate an area over time — for example, bare land slowly developing into grassland, then shrubland, and eventually forest."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Ecology",
+      "question": "The maximum population size that an environment can sustainably support is its",
+      "options": {
+        "A": "natality",
+        "B": "carrying capacity",
+        "C": "mortality",
+        "D": "population density"
+      },
+      "answer": "B",
+      "explanation": "Carrying capacity is the largest population size that a given environment's resources — food, water, space, and so on — can support over the long term without being used up faster than they can be replaced."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Ecology",
+      "question": "The thick fur of animals living in very cold regions is primarily an adaptation for",
+      "options": {
+        "A": "increasing water loss",
+        "B": "reducing heat loss",
+        "C": "increasing digestion",
+        "D": "preventing reproduction"
+      },
+      "answer": "B",
+      "explanation": "Thick fur traps a layer of insulating air close to the animal's skin, which reduces the rate at which body heat escapes into the cold surroundings."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Reproduction",
+      "question": "The transfer of pollen grains from anther to stigma is",
+      "options": {
+        "A": "fertilization",
+        "B": "pollination",
+        "C": "germination",
+        "D": "dispersal"
+      },
+      "answer": "B",
+      "explanation": "Pollination is the transfer of pollen grains from the anther (the male part of a flower) to the stigma (the female part). This must happen before fertilization can occur."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Plant Hormones",
+      "question": "Auxins are strongly associated with",
+      "options": {
+        "A": "phototropic growth",
+        "B": "blood clotting",
+        "C": "digestion",
+        "D": "antibody production"
+      },
+      "answer": "A",
+      "explanation": "Auxins are plant hormones that control growth responses to light (phototropism), causing plant shoots to bend and grow towards a light source."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The joint between the skull and the first vertebra is an example of a",
+      "options": {
+        "A": "hinge joint",
+        "B": "pivot joint",
+        "C": "ball-and-socket joint",
+        "D": "gliding joint"
+      },
+      "answer": "B",
+      "explanation": "The joint between the skull and the first vertebra (the atlas) is a pivot joint, allowing rotational movement — this is what lets you turn your head from side to side."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Human Physiology",
+      "question": "The biceps and triceps operate as",
+      "options": {
+        "A": "synergistic muscles only",
+        "B": "antagonistic muscles",
+        "C": "involuntary muscles",
+        "D": "cardiac muscles"
+      },
+      "answer": "B",
+      "explanation": "The biceps and triceps work as an antagonistic pair — when the biceps contracts to bend the arm, the triceps relaxes, and when the triceps contracts to straighten the arm, the biceps relaxes. Muscles that work in opposite directions like this are called antagonistic muscles."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Ecology",
+      "question": "Which process removes carbon dioxide from the atmosphere?",
+      "options": {
+        "A": "Respiration",
+        "B": "Combustion",
+        "C": "Photosynthesis",
+        "D": "Decomposition"
+      },
+      "answer": "C",
+      "explanation": "During photosynthesis, plants absorb carbon dioxide from the atmosphere and use it, along with water and sunlight, to produce glucose and oxygen. Respiration, combustion, and decomposition all release carbon dioxide instead of removing it."
+    },
+    {
+      "subject": "Biology",
+      "subcategory": "Genetics and Variation",
+      "question": "A man with blood group A whose genotype is IAi marries a woman with blood group B whose genotype is IBi. What proportion of their children could have blood group O?",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%"
+      },
+      "answer": "B",
+      "explanation": "Crossing IAi × IBi gives possible offspring genotypes IAIB, IAi, IBi, and ii, each with an equal 1-in-4 chance of occurring. Only the ii genotype produces blood group O, so the proportion is 1 out of 4, or 25%."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "When the chairman said the proposal was a tall order, he meant that the proposal was",
+      "options": {
+        "A": "very expensive",
+        "B": "difficult to accomplish",
+        "C": "unnecessary",
+        "D": "poorly written"
+      },
+      "answer": "B",
+      "explanation": "\"A tall order\" means something difficult or demanding to accomplish."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "The principal turned a deaf ear to the students' complaints. This means that he",
+      "options": {
+        "A": "could not hear them",
+        "B": "ignored their complaints",
+        "C": "punished them",
+        "D": "agreed with them"
+      },
+      "answer": "B",
+      "explanation": "To \"turn a deaf ear\" to something means to deliberately ignore it or refuse to listen to it — the principal chose not to pay attention to the complaints."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "If a politician sits on the fence, he",
+      "options": {
+        "A": "refuses to take a definite position",
+        "B": "supports everyone equally",
+        "C": "has resigned",
+        "D": "has won an election"
+      },
+      "answer": "A",
+      "explanation": "Someone who \"sits on the fence\" avoids committing to either side of an issue — they refuse to take a clear, definite position."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "The manager said that the new employee had a chip on his shoulder. This means the employee",
+      "options": {
+        "A": "was extremely intelligent",
+        "B": "was unnecessarily resentful",
+        "C": "was physically injured",
+        "D": "was very generous"
+      },
+      "answer": "B",
+      "explanation": "To have \"a chip on one's shoulder\" means to carry a lingering feeling of resentment or grievance, often over feeling unfairly treated — it describes someone who is unnecessarily resentful, not someone who is injured or generous."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "The scientist's explanation left no stone unturned. This means that the scientist",
+      "options": {
+        "A": "searched thoroughly",
+        "B": "made a mistake",
+        "C": "refused to investigate",
+        "D": "changed the subject"
+      },
+      "answer": "A",
+      "explanation": "This idiom means to try every possible way or method to achieve something — it describes a very thorough effort, not carelessness."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The man's audacious behaviour shocked everyone.",
+      "options": {
+        "A": "timid",
+        "B": "bold",
+        "C": "careless",
+        "D": "dishonest"
+      },
+      "answer": "B",
+      "explanation": "\"Audacious\" describes behaviour that is bold and daring, often in a way that surprises or shocks others."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The teacher was meticulous in marking the scripts.",
+      "options": {
+        "A": "careless",
+        "B": "thorough",
+        "C": "impatient",
+        "D": "quick"
+      },
+      "answer": "B",
+      "explanation": "\"Meticulous\" describes someone who pays very careful, close attention to detail — being thorough rather than careless or quick."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The witness gave a plausible explanation.",
+      "options": {
+        "A": "believable",
+        "B": "ridiculous",
+        "C": "confusing",
+        "D": "false"
+      },
+      "answer": "A",
+      "explanation": "\"Plausible\" means something seems reasonable or likely to be true — in other words, believable."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The minister's speech was concise.",
+      "options": {
+        "A": "lengthy",
+        "B": "brief",
+        "C": "complicated",
+        "D": "emotional"
+      },
+      "answer": "B",
+      "explanation": "\"Concise\" means expressing something clearly using few words — in other words, brief."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The student's answer was ambiguous.",
+      "options": {
+        "A": "clear",
+        "B": "uncertain in meaning",
+        "C": "correct",
+        "D": "irrelevant"
+      },
+      "answer": "B",
+      "explanation": "\"Ambiguous\" describes something that can be understood in more than one way, making its meaning unclear."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The government plans to curtail unnecessary expenditure.",
+      "options": {
+        "A": "increase",
+        "B": "reduce",
+        "C": "calculate",
+        "D": "publish"
+      },
+      "answer": "B",
+      "explanation": "\"Curtail\" means to cut short or reduce something, especially spending, rights, or activities."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The man's benevolent actions were praised.",
+      "options": {
+        "A": "cruel",
+        "B": "charitable",
+        "C": "selfish",
+        "D": "suspicious"
+      },
+      "answer": "B",
+      "explanation": "\"Benevolent\" describes actions or a person that are kind, generous, and well-meaning — in other words, charitable."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The chairman's decision was arbitrary.",
+      "options": {
+        "A": "deliberate",
+        "B": "systematic",
+        "C": "random",
+        "D": "sudden"
+      },
+      "answer": "C",
+      "explanation": "\"Arbitrary\" means based on random choice or personal whim rather than a consistent rule or reason. \"Random\" is therefore the closest meaning."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The witness gave a credible account.",
+      "options": {
+        "A": "believable",
+        "B": "doubtful",
+        "C": "convincing",
+        "D": "reliable"
+      },
+      "answer": "B",
+      "explanation": "\"Credible\" means believable or trustworthy. Its opposite is \"doubtful,\" which suggests something is uncertain or hard to believe."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The medicine had an adverse effect.",
+      "options": {
+        "A": "harmful",
+        "B": "beneficial",
+        "C": "negative",
+        "D": "dangerous"
+      },
+      "answer": "B",
+      "explanation": "\"Adverse\" means harmful or unfavourable. Its opposite is \"beneficial,\" meaning helpful or advantageous."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "His argument was coherent.",
+      "options": {
+        "A": "logical",
+        "B": "organized",
+        "C": "confused",
+        "D": "persuasive"
+      },
+      "answer": "C",
+      "explanation": "\"Coherent\" describes something that is logical, clear, and easy to follow. Its opposite is \"confused,\" describing something disorganized or hard to understand."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "The candidate was reluctant to accept the offer.",
+      "options": {
+        "A": "unwilling",
+        "B": "hesitant",
+        "C": "eager",
+        "D": "doubtful"
+      },
+      "answer": "C",
+      "explanation": "\"Reluctant\" means unwilling or hesitant to do something. Its opposite is \"eager,\" which means enthusiastic and willing."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "Neither the students nor their teacher ______ aware of the change.",
+      "options": {
+        "A": "were",
+        "B": "are",
+        "C": "was",
+        "D": "have been"
+      },
+      "answer": "C",
+      "explanation": "With \"neither...nor,\" the verb agrees with the nearer subject. The nearer subject here is \"teacher,\" which is singular, so the verb must be singular: \"was.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "If I ______ you, I would reconsider the decision.",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "C",
+      "explanation": "This is the subjunctive mood, used for hypothetical or unreal situations. In formal English, \"were\" is used with \"I\" in statements like this (\"If I were you...\"), even though \"I\" would normally take \"was\" elsewhere."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "By the time we arrived, the lecture ______.",
+      "options": {
+        "A": "begins",
+        "B": "has begun",
+        "C": "had begun",
+        "D": "will begin"
+      },
+      "answer": "C",
+      "explanation": "The lecture had already started before the group arrived, so the past perfect tense (\"had begun\") is needed to show that one past action happened before another past action."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "The committee ______ divided in its opinion.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "have",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "\"Committee\" is a collective noun. Since the sentence uses the singular possessive \"its,\" the committee is being treated as one single unit here, so it takes the singular verb \"is.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "She prefers reading ______ watching television.",
+      "options": {
+        "A": "than",
+        "B": "from",
+        "C": "to",
+        "D": "over than"
+      },
+      "answer": "C",
+      "explanation": "The correct construction is \"prefer something TO something else\" (not \"than\"), so \"to\" is the correct word to complete this comparison."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Mixed Topic",
+      "question": "He has lived in Ibadan ______ 2022.",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "during",
+        "D": "from"
+      },
+      "answer": "B",
+      "explanation": "\"Since\" is used with a specific point in time (like a year or date) to show when an ongoing action started. \"For\" would instead be used to state a duration, such as \"for three years.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "The students arrived ______ the examination had started.",
+      "options": {
+        "A": "before",
+        "B": "after",
+        "C": "until",
+        "D": "while"
+      },
+      "answer": "B",
+      "explanation": "The examination had already begun (shown by the past perfect \"had started\") before the students arrived, so \"after\" correctly shows that their arrival happened later than the start of the exam."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "I would rather you ______ here tonight.",
+      "options": {
+        "A": "stay",
+        "B": "stayed",
+        "C": "staying",
+        "D": "have stayed"
+      },
+      "answer": "B",
+      "explanation": "After \"would rather\" when talking about someone else's action, English uses a past tense form even though the meaning is present or future — this subjunctive-like structure makes \"stayed\" the correct choice here."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "The news ______ shocking.",
+      "options": {
+        "A": "were",
+        "B": "are",
+        "C": "have",
+        "D": "was"
+      },
+      "answer": "D",
+      "explanation": "\"News\" looks plural because it ends in \"-s,\" but it is grammatically singular, so it takes the singular verb \"was.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "One of my friends ______ going to Lagos tomorrow.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have"
+      },
+      "answer": "C",
+      "explanation": "The subject of the sentence is \"one\" (singular), not \"friends,\" so the verb must be singular: \"is.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "Hardly had the teacher entered ______ the students became silent.",
+      "options": {
+        "A": "than",
+        "B": "when",
+        "C": "then",
+        "D": "and"
+      },
+      "answer": "B",
+      "explanation": "\"Hardly...when\" is a fixed idiomatic pairing used to show that one event happened immediately after another. It is not paired with \"than,\" which instead pairs with \"no sooner.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "No sooner had he arrived ______ it began to rain.",
+      "options": {
+        "A": "when",
+        "B": "than",
+        "C": "and",
+        "D": "while"
+      },
+      "answer": "B",
+      "explanation": "\"No sooner...than\" is the fixed idiomatic pairing used to show that one event happened immediately after another."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "The woman, together with her children, ______ arrived.",
+      "options": {
+        "A": "have",
+        "B": "are",
+        "C": "has",
+        "D": "were"
+      },
+      "answer": "C",
+      "explanation": "The main subject of the sentence is \"woman\" (singular); the phrase \"together with her children\" is a parenthetical addition and does not change the number of the subject, so the verb stays singular: \"has.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "In the sentence, \"The boy ran quickly,\" the word \"quickly\" is a/an",
+      "options": {
+        "A": "adjective",
+        "B": "adverb",
+        "C": "noun",
+        "D": "conjunction"
+      },
+      "answer": "B",
+      "explanation": "\"Quickly\" describes how the boy ran — it modifies the verb \"ran\" — which is exactly what an adverb does."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "In \"The book on the table is mine,\" the expression \"on the table\" functions as",
+      "options": {
+        "A": "a noun phrase",
+        "B": "an adjective phrase",
+        "C": "a prepositional phrase",
+        "D": "an adverb clause"
+      },
+      "answer": "C",
+      "explanation": "\"On the table\" begins with the preposition \"on,\" followed by its object \"the table.\" A phrase built this way, starting with a preposition, is called a prepositional phrase."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Punctuation and Spelling",
+      "question": "Which sentence is correctly punctuated?",
+      "options": {
+        "A": "However we continued the journey.",
+        "B": "However, we continued the journey.",
+        "C": "However we, continued the journey.",
+        "D": "However; we continued the journey."
+      },
+      "answer": "B",
+      "explanation": "When \"however\" starts a sentence as a linking word meaning \"nevertheless,\" it should be followed by a comma to separate it from the rest of the sentence."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word is correctly spelt?",
+      "options": {
+        "A": "Priviledge",
+        "B": "Privilege",
+        "C": "Privelege",
+        "D": "Privillage"
+      },
+      "answer": "B",
+      "explanation": "The correct spelling is \"privilege\" — note there is no \"d\" before the \"g,\" unlike the common misspelling \"priviledge.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Choose the correctly spelt word.",
+      "options": {
+        "A": "Accomodation",
+        "B": "Acommodation",
+        "C": "Accommodation",
+        "D": "Accommmodation"
+      },
+      "answer": "C",
+      "explanation": "The correct spelling is \"accommodation,\" with two c's and two m's — a commonly misspelled word."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Mixed Topic",
+      "question": "The quality of the products ______ excellent.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have"
+      },
+      "answer": "C",
+      "explanation": "The subject of the sentence is \"quality\" (singular), not \"products,\" so the verb must be singular: \"is.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "Each of the boys ______ a book.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are having",
+        "D": "were having"
+      },
+      "answer": "B",
+      "explanation": "\"Each\" is always treated as singular, even when followed by a plural phrase like \"of the boys,\" so the verb must be singular: \"has.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "The police ______ investigating the matter.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "are",
+        "D": "has"
+      },
+      "answer": "C",
+      "explanation": "\"Police\" is one of a small group of nouns that are always treated as plural in standard English, so it takes the plural verb \"are.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "Mathematics ______ one of his favourite subjects.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have"
+      },
+      "answer": "C",
+      "explanation": "Although \"Mathematics\" ends in \"-s,\" it refers to a single subject and is treated as a singular noun, so it takes the singular verb \"is.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "The pair of shoes ______ under the bed.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have"
+      },
+      "answer": "C",
+      "explanation": "The subject of the sentence is \"pair,\" which is treated as a single unit here, so it takes the singular verb \"is.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Choose the word that has the same vowel sound as \"seat.\"",
+      "options": {
+        "A": "sit",
+        "B": "beat",
+        "C": "set",
+        "D": "said"
+      },
+      "answer": "B",
+      "explanation": "\"Seat\" and \"beat\" both contain the long vowel sound /iː/. \"Sit,\" \"set,\" and \"said\" all have different, shorter vowel sounds."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Choose the word that has the same vowel sound as \"cup.\"",
+      "options": {
+        "A": "put",
+        "B": "food",
+        "C": "luck",
+        "D": "boot"
+      },
+      "answer": "C",
+      "explanation": "\"Cup\" and \"luck\" both contain the short vowel sound /ʌ/, as in \"cut\" or \"much.\" The other options have different vowel sounds — \"put\" and \"boot\" have rounded vowel sounds, and \"food\" has a long /uː/ sound."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word has a different vowel sound?",
+      "options": {
+        "A": "beat",
+        "B": "seat",
+        "C": "meat",
+        "D": "great"
+      },
+      "answer": "D",
+      "explanation": "\"Beat,\" \"seat,\" and \"meat\" all contain the vowel sound /iː/, but \"great\" is pronounced with /eɪ/ instead, making it the odd one out."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word rhymes with \"light\"?",
+      "options": {
+        "A": "late",
+        "B": "height",
+        "C": "heat",
+        "D": "hit"
+      },
+      "answer": "B",
+      "explanation": "\"Light\" is pronounced /laɪt/, and \"height\" is pronounced /haɪt/ — both share the same ending vowel and consonant sounds, which is what makes them rhyme."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word has the same initial consonant sound as \"chair\"?",
+      "options": {
+        "A": "chemist",
+        "B": "church",
+        "C": "character",
+        "D": "chorus"
+      },
+      "answer": "B",
+      "explanation": "\"Chair\" and \"church\" both begin with the /tʃ/ sound. \"Chemist,\" \"character,\" and \"chorus\" all begin with a /k/ sound instead, even though they're all spelled with \"ch.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word contains a silent \"k\"?",
+      "options": {
+        "A": "knee",
+        "B": "king",
+        "C": "keep",
+        "D": "kind"
+      },
+      "answer": "A",
+      "explanation": "In English, the letter \"k\" is silent when it comes before \"n\" at the start of a word, as in \"knee,\" \"knife,\" and \"know.\" In \"king,\" \"keep,\" and \"kind,\" the \"k\" is pronounced normally."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word has the stress on the second syllable?",
+      "options": {
+        "A": "TAble",
+        "B": "DOCtor",
+        "C": "reLAX",
+        "D": "PREsent"
+      },
+      "answer": "C",
+      "explanation": "\"Relax\" is stressed on its second syllable (re-LAX). \"Table,\" \"doctor,\" and \"present\" (as used here) are all stressed on their first syllable."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word has the stress on the first syllable?",
+      "options": {
+        "A": "begin",
+        "B": "about",
+        "C": "teacher",
+        "D": "allow"
+      },
+      "answer": "C",
+      "explanation": "\"Teacher\" is stressed on its first syllable (TEACH-er). \"Begin,\" \"about,\" and \"allow\" are all stressed on their second syllable instead."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word has a different consonant sound for the underlined letter combination \"ch\"?",
+      "options": {
+        "A": "chair",
+        "B": "church",
+        "C": "machine",
+        "D": "child"
+      },
+      "answer": "C",
+      "explanation": "\"Ch\" in \"machine\" is pronounced /ʃ/, unlike the /tʃ/ sound heard in \"chair,\" \"church,\" and \"child.\""
+    },
+    {
+      "subject": "English",
+      "subcategory": "Vocabulary",
+      "question": "Which word contains the /θ/ sound?",
+      "options": {
+        "A": "then",
+        "B": "this",
+        "C": "thin",
+        "D": "those"
+      },
+      "answer": "C",
+      "explanation": "\"Thin\" contains the unvoiced \"th\" sound /θ/, as in \"think\" or \"three.\" \"Then,\" \"this,\" and \"those\" all contain the voiced \"th\" sound /ð/ instead."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "The expression \"to spill the beans\" means to",
+      "options": {
+        "A": "waste food",
+        "B": "reveal a secret",
+        "C": "cause trouble",
+        "D": "make a mistake"
+      },
+      "answer": "B",
+      "explanation": "\"To spill the beans\" means to reveal secret or private information, often accidentally or before it was meant to be known."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "If someone \"hit the nail on the head,\" the person",
+      "options": {
+        "A": "caused an accident",
+        "B": "said exactly the right thing",
+        "C": "became angry",
+        "D": "worked carelessly"
+      },
+      "answer": "B",
+      "explanation": "This idiom describes doing or saying something with complete accuracy, getting to the exact point of a matter — much like a hammer striking a nail precisely on its head."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "The expression \"once in a blue moon\" means",
+      "options": {
+        "A": "regularly",
+        "B": "immediately",
+        "C": "very rarely",
+        "D": "unexpectedly"
+      },
+      "answer": "C",
+      "explanation": "\"Once in a blue moon\" describes something that happens very rarely or almost never, since a \"blue moon\" — a second full moon in one calendar month — is itself an uncommon event."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Idioms and Expressions",
+      "question": "The student's success was attributed to hard work. The expression means that his success was",
+      "options": {
+        "A": "blamed on hard work",
+        "B": "caused by hard work",
+        "C": "prevented by hard work",
+        "D": "unrelated to hard work"
+      },
+      "answer": "B",
+      "explanation": "To say something is \"attributed to\" a cause means that cause is credited with being responsible for it — his success was said to be the result of his hard work."
+    },
+    {
+      "subject": "English",
+      "subcategory": "Grammar",
+      "question": "The sentence \"The manager had the report typed\" means that",
+      "options": {
+        "A": "the manager typed the report personally",
+        "B": "someone typed the report for the manager",
+        "C": "the report typed the manager",
+        "D": "the manager refused to type the report"
+      },
+      "answer": "B",
+      "explanation": "This is the causative structure \"have + object + past participle.\" \"Had the report typed\" means the manager arranged for somebody else to type it, not that he typed it himself."
+    }
+  ]
+}
