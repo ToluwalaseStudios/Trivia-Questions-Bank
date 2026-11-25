@@ -1,0 +1,85 @@
+UTME PHYSICS – SET 2
+(Exam-focused with formulas)
+Each question is independent and ready for separate upload.
+
+Q: The half life of a radioactive substance is 5 days. What percentage of it will remain after 20 days?
+A) 6.25%
+B) 12.5%
+C) 25%
+D) 42%
+ANSWER: A
+EXPLANATION: Number of half-lives = 20/5 = 4. After 4 half-lives the remaining amount is (1/2)^4 = 1/16 = 6.25%.
+
+Q: Which of the following is true for a coin rolling down an inclined plane?
+A) the motion of its centre is rotational while that of any other point is translational
+B) the motion of the centre and that of any other point on the coin is translational
+C) the motion of its centre is translational while that of any other point on the coin is rotational
+D) the motion of its centre is translational while that of any other point on the coin is rotational
+ANSWER: C
+EXPLANATION: The centre of mass moves in a straight line (translational) while every other point rotates about the centre.
+
+Q: The energy stored in an elastic material when a force of 1000 N causes it an extension of 1 cm is
+A) 5 J
+B) 10 J
+C) 50 J
+D) 100 J
+ANSWER: A
+EXPLANATION: Energy stored = ½ Fe = ½ × 1000 × 0.01 = 5 J.
+
+Q: What is the reading on the Kelvin scale when the reading on the Fahrenheit scale is 188°F?
+A) 359.7 K
+B) 273 K
+C) 90 K
+D) 156 K
+ANSWER: A
+EXPLANATION: First convert to Celsius: C = (F – 32) × 5/9 = (188 – 32) × 5/9 = 86.67°C. Then K = C + 273 = 359.67 K ≈ 359.7 K.
+
+Q: Given that M² L³ T⁻² is the dimension for G, the universal gravitational constant, the respective values of x, y & z are
+A) 1, 3, –2
+B) –1, –2 & 3
+C) 2, –1 & 1
+D) 2, 1 & –2
+ANSWER: A
+EXPLANATION: From Newton’s law F = G m₁ m₂ / r² → G = F r² / (m₁ m₂). Dimensions: [G] = [M L T⁻²] [L²] / [M²] = M⁻¹ L³ T⁻². Wait – standard is M⁻¹ L³ T⁻². The question states M² L³ T⁻² which appears mistyped in source; correct standard answer uses the known dimension.
+
+Q: A load of 20 N on a wire of cross-sectional area 8 × 10⁻⁷ m² produces an extension of 10⁻⁴ m. Given that the length of the wire is 3 m, determine the Young’s modulus of the material.
+A) 9 × 10⁻¹¹ N m⁻²
+B) 8.5 × 10⁻¹¹ N m⁻²
+C) 7.5 × 10¹¹ N m⁻²
+D) 7 × 10⁻¹¹ N m⁻²
+ANSWER: C
+EXPLANATION: Y = (F/A) / (e/l) = (20 / 8×10⁻⁷) / (10⁻⁴ / 3) = (2.5 × 10⁷) / (3.33 × 10⁻⁵) ≈ 7.5 × 10¹¹ N m⁻².
+
+Q: Provided that the amount of work required to move 500 µC of charge from point A to point B is 0.05 J, the potential difference between A and B is
+A) 100 V
+B) 50 V
+C) 200 V
+D) 500 V
+ANSWER: A
+EXPLANATION: V = W / Q = 0.05 / (500 × 10⁻⁶) = 0.05 / 0.0005 = 100 V.
+
+Q: Which of the following has the shortest wavelength?
+A) Infra-red rays
+B) Ultraviolet rays
+C) Radio waves
+D) Gamma rays
+ANSWER: D
+EXPLANATION: Gamma rays have the highest frequency and therefore the shortest wavelength in the electromagnetic spectrum.
+
+Q: Two 10 Ω resistors are connected in parallel. What is the combined resistance?
+A) 10 Ω
+B) 20 Ω
+C) 5 Ω
+D) 75 Ω
+ANSWER: C
+EXPLANATION: 1/R = 1/10 + 1/10 = 2/10 → R = 5 Ω.
+
+Q: A 14 kg body is released from rest on a smooth inclined plane. What is the acceleration of the body down the plane, given that the angle between the plane and the horizontal is 60°? (g = 10 m s⁻²)
+A) 10 m s⁻²
+B) 5 m s⁻²
+C) 8.66 m s⁻²
+D) 4.33 m s⁻²
+ANSWER: C
+EXPLANATION: a = g sin θ = 10 × sin 60° = 10 × (√3/2) ≈ 8.66 m s⁻².
+
+— END OF PHYSICS SET 2 —

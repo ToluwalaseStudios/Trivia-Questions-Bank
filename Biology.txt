@@ -1,0 +1,88 @@
+BIOLOGY – 10 QUESTIONS WITH DETAILED EXPLANATIONS
+
+Q1: Enzymes are
+A) Inorganic catalysts
+B) Non-sensitive to pH
+C) Non-sensitive to temperature
+D) Proteins
+ANSWER: D
+EXPLANATION: Enzymes are biological catalysts and are almost exclusively proteins (or RNA in the case of ribozymes). They are highly sensitive to both pH and temperature; extreme values denature them. Option A is therefore incorrect because enzymes are organic, not inorganic.
+
+Q2: Which of the following undergoes Fehling’s test?
+A) Starch
+B) Protein
+C) Glucose
+D) Sucrose
+ANSWER: C
+EXPLANATION: Fehling’s test detects reducing sugars. Glucose is a reducing monosaccharide and gives a positive brick-red precipitate. Starch and sucrose are non-reducing; proteins do not contain free aldehyde or ketone groups that react with Fehling’s reagent.
+
+Q3: Which of the following is the most advanced plant group?
+A) Gymnosperm
+B) Bryophytes
+C) Thallophytes
+D) Pteridophytes
+ANSWER: A
+EXPLANATION: Gymnosperms are seed-bearing vascular plants and are more advanced than the seedless vascular pteridophytes, the non-vascular bryophytes, and the simple thallophytes (algae and fungi). The presence of seeds and well-developed vascular tissue places gymnosperms at the highest evolutionary level among the given options.
+
+Q4: Which of the following indicates a wide and narrow fluctuation in salinity respectively?
+I. Eurybaric
+II. Stenohaline
+III. Euryhaline
+A) I and II
+B) II and III
+C) III and II
+D) III and I
+ANSWER: C
+EXPLANATION: Euryhaline organisms tolerate a wide range of salinity; stenohaline organisms tolerate only a narrow range. Eurybaric refers to pressure tolerance, not salinity. Therefore the correct pair for wide then narrow salinity fluctuation is III (euryhaline) and II (stenohaline).
+
+Q5: BCG vaccine is used to treat ___
+A) Tuberculosis
+B) Asthma
+C) Fibroid
+D) Malaria
+ANSWER: A
+EXPLANATION: BCG (Bacillus Calmette–Guérin) is a live attenuated vaccine prepared from Mycobacterium bovis and is administered to protect against tuberculosis, especially severe forms in children. It has no therapeutic role in asthma, fibroids or malaria.
+
+Q6: Which of the following is an abiotic instrument?
+I. Thermometer
+II. Secchi Disc
+III. Wind vane
+IV. Anemometer
+A) I–IV
+B) II–IV
+C) I, II and IV
+D) I only
+ANSWER: A
+EXPLANATION: All four instruments measure non-living (abiotic) environmental factors: temperature (thermometer), water transparency (Secchi disc), wind direction (wind vane) and wind speed (anemometer). None of them measure biotic components.
+
+Q7: A plant growing on another plant without causing any harm is called?
+A) Epiphyte
+B) Xerophyte
+C) Parasite
+D) Holophyte
+ANSWER: A
+EXPLANATION: An epiphyte grows on another plant solely for physical support and obtains moisture and nutrients from the air or rain; it does not harm the host. A parasite derives nutrients at the host’s expense; a xerophyte is adapted to dry habitats; “holophyte” is not a standard ecological term.
+
+Q8: The kind of competition that occurs between organisms of the same species is
+A) Inter-specific competition
+B) Intra-specific competition
+C) Exploitation competition
+D) Interference competition
+ANSWER: B
+EXPLANATION: Competition among individuals of the same species is called intra-specific competition. Inter-specific competition occurs between different species. Exploitation and interference are mechanisms of competition, not the taxonomic level at which it occurs.
+
+Q9: The three domains of living organisms are?
+A) Bacteria, fungi, eukaryotes
+B) Archaea, fungi, bacteria
+C) Prokaryotes, fungi, algae
+D) Bacteria, Archaea, Eukaryota
+ANSWER: D
+EXPLANATION: The three-domain system of classification (Woese) divides all cellular life into Bacteria, Archaea and Eukaryota (Eukarya). Fungi and algae belong inside the domain Eukaryota; “prokaryotes” is a descriptive term, not a domain.
+
+Q10: The pyrimidine found in RNA is
+A) Uracil
+B) Thymine
+C) Cytosine
+D) Adenine
+ANSWER: A
+EXPLANATION: RNA contains the pyrimidine bases cytosine and uracil. Thymine is the pyrimidine characteristic of DNA; adenine is a purine. Among the single options listed, uracil is the base that uniquely identifies RNA.

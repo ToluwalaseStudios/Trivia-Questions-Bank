@@ -1,0 +1,79 @@
+Q: Which organelle is primarily responsible for the production of ATP during aerobic respiration?
+A) Ribosome
+B) Lysosome
+C) Mitochondrion
+D) Golgi apparatus
+ANSWER: C
+EXPLANATION: The mitochondrion is the site of aerobic respiration, where the Krebs cycle and electron transport chain generate most of the cell's ATP.
+
+Q: A plant cell placed in a concentrated sugar solution loses water and its cell membrane pulls away from the cell wall. This process is known as:
+A) Diffusion
+B) Turgidity
+C) Plasmolysis
+D) Active transport
+ANSWER: C
+EXPLANATION: Plasmolysis occurs when a plant cell in a hypertonic solution loses water by osmosis, causing the cell membrane to shrink away from the rigid cell wall.
+
+Q: Which structure controls the movement of substances into and out of a cell?
+A) Cell wall
+B) Plasma membrane
+C) Cytoplasm
+D) Nucleus
+ANSWER: B
+EXPLANATION: The plasma membrane is selectively permeable and regulates which substances enter or leave the cell.
+
+Q: The main significance of mitosis in multicellular organisms is:
+A) Production of gametes
+B) Reduction of chromosome number
+C) Growth and replacement of damaged cells
+D) Production of genetically different cells
+ANSWER: C
+EXPLANATION: Mitosis produces genetically identical daughter cells, which enables growth and the replacement of worn-out or damaged tissue.
+
+Q: If a human body cell contains 46 chromosomes, how many chromosomes would normally be present in each daughter cell after mitosis?
+A) 23
+B) 46
+C) 69
+D) 92
+ANSWER: B
+EXPLANATION: Mitosis produces daughter cells that are genetically identical to the parent cell, so the chromosome number (46) stays the same.
+
+Q: Which taxonomic group contains organisms that have a true nucleus and membrane-bound organelles?
+A) Prokaryotae
+B) Eukaryotae
+C) Viruses
+D) Bacteria only
+ANSWER: B
+EXPLANATION: Eukaryotae comprises organisms whose cells possess a true, membrane-bound nucleus and other membrane-bound organelles.
+
+Q: Which sequence correctly represents the major taxonomic hierarchy from the broadest to the most specific?
+A) Kingdom → Class → Phylum → Order → Family → Genus → Species
+B) Kingdom → Phylum → Class → Order → Family → Genus → Species
+C) Species → Genus → Family → Order → Class → Phylum → Kingdom
+D) Kingdom → Order → Class → Family → Phylum → Genus → Species
+ANSWER: B
+EXPLANATION: The standard biological classification hierarchy, from broadest to most specific, is Kingdom, Phylum, Class, Order, Family, Genus, Species.
+
+Q: Which characteristic is most useful in distinguishing mammals from other vertebrates?
+A) Presence of a backbone
+B) Presence of lungs
+C) Presence of hair and mammary glands
+D) Ability to reproduce sexually
+ANSWER: C
+EXPLANATION: Hair and mammary glands (for producing milk) are unique defining features of mammals not shared by other vertebrate classes.
+
+Q: An organism possesses chlorophyll, has cellulose cell walls and stores carbohydrates mainly as starch. It is most likely a:
+A) Fungus
+B) Plant
+C) Bacterium
+D) Protozoan
+ANSWER: B
+EXPLANATION: Chlorophyll for photosynthesis, cellulose cell walls, and starch as a storage carbohydrate are characteristic features of plants.
+
+Q: Which of the following organisms belongs to the kingdom Fungi?
+A) Amoeba
+B) Mushroom
+C) Euglena
+D) Spirogyra
+ANSWER: B
+EXPLANATION: A mushroom is a fungus; Amoeba and Euglena are protists/protozoans, and Spirogyra is an alga.

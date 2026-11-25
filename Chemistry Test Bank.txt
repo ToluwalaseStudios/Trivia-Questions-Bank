@@ -1,0 +1,359 @@
+Q1.
+Question: What is the main product formed during the complete combustion of a hydrocarbon in an ample supply of oxygen?
+A. Carbon monoxide and water
+B. Carbon dioxide and water
+C. Carbon dioxide and hydrogen gas
+D. Carbon monoxide and hydrogen gas
+Correct Answer: B
+Explanation: Complete combustion of any hydrocarbon yields carbon dioxide ($CO_2$) and water ($H_2O$) as the primary products when sufficient oxygen is available.
+
+Q2.
+Question: Which subatomic particle determines the atomic number of an element?
+A. Neutron
+B. Electron
+C. Proton
+D. Positron
+Correct Answer: C
+Explanation: The atomic number ($Z$) of an element is strictly defined by the number of protons found in the nucleus of its atoms.
+
+Q3.
+Question: What type of chemical bond involves the equal sharing of electron pairs between atoms?
+A. Ionic bond
+B. Polar covalent bond
+C. Nonpolar covalent bond
+D. Metallic bond
+Correct Answer: C
+Explanation: Nonpolar covalent bonds occur when two atoms share electrons equally due to having identical or very similar electronegativities.
+
+Q4.
+Question: What is the pH of a neutral aqueous solution at 25 °C?
+A. 0
+B. 7
+C. 14
+D. 1
+Correct Answer: B
+Explanation: At 25 °C, a neutral solution has equal concentrations of hydrogen ions $[H^+]$ and hydroxide ions $[OH^-]$, resulting in a pH of exactly 7.
+
+Q5.
+Question: Which law states that at constant temperature, the volume of a fixed mass of gas is inversely proportional to its pressure?
+A. Charles's Law
+B. Gay-Lussac's Law
+C. Boyle's Law
+D. Avogadro's Law
+Correct Answer: C
+Explanation: Boyle's Law specifies that $P_1 V_1 = P_2 V_2$ for a fixed amount of gas at constant temperature, showing an inverse relation between pressure and volume.
+
+Q6.
+Question: What is the oxidation state of sulfur in sulfuric acid ($H_2SO_4$)?
+A. +2
+B. +4
+C. +6
+D. +8
+Correct Answer: C
+Explanation: Hydrogen has an oxidation state of +1 (total +2 for two H) and oxygen has -2 (total -8 for four O). To maintain electrical neutrality, sulfur must be +6.
+
+Q7.
+Question: Which functional group characterizes alcohols?
+A. -COOH
+B. -CHO
+C. -OH
+D. -NH2
+Correct Answer: C
+Explanation: Alcohols contain a hydroxyl functional group (-OH) attached to a saturated carbon atom.
+
+Q8.
+Question: What element has the highest electronegativity on the Pauling scale?
+A. Oxygen
+B. Chlorine
+C. Fluorine
+D. Nitrogen
+Correct Answer: C
+Explanation: Fluorine is the most electronegative element, assigned a value of approximately 3.98 on the Pauling scale.
+
+Q9.
+Question: Which state of matter has a definite volume but no definite shape?
+A. Solid
+B. Liquid
+C. Gas
+D. Plasma
+Correct Answer: B
+Explanation: Liquids take the shape of their containers while maintaining a fixed, definite volume.
+
+Q10.
+Question: What is the molar mass of water ($H_2O$) rounded to two decimal places?
+A. 16.00 g/mol
+B. 18.02 g/mol
+C. 20.02 g/mol
+D. 17.01 g/mol
+Correct Answer: B
+Explanation: Molar mass of $H_2O = 2 \times (1.008 \text{ g/mol}) + 1 \times (15.999 \text{ g/mol}) \approx 18.02 \text{ g/mol}$.
+
+Q11.
+Question: In a redox reaction, what happens to the substance that undergoes reduction?
+A. It gains electrons and its oxidation number increases.
+B. It loses electrons and its oxidation number increases.
+C. It gains electrons and its oxidation number decreases.
+D. It loses electrons and its oxidation number decreases.
+Correct Answer: C
+Explanation: Reduction corresponds to the gain of electrons (OIL RIG: Oxidation Is Loss, Reduction Is Gain), which lowers (reduces) the oxidation state.
+
+Q12.
+Question: What principle states that no two electrons in an atom can have the same set of four quantum numbers?
+A. Hund's Rule
+B. Aufbau Principle
+C. Pauli Exclusion Principle
+D. Heisenberg Uncertainty Principle
+Correct Answer: C
+Explanation: The Pauli Exclusion Principle asserts that an orbital can hold a maximum of two electrons, and they must have opposite spins.
+
+Q13.
+Question: Which of the following is an intensive property of matter?
+A. Mass
+B. Density
+C. Volume
+D. Enthalpy
+Correct Answer: B
+Explanation: Density is an intensive property because it does not depend on the amount of matter present, unlike mass, volume, or enthalpy.
+
+Q14.
+Question: What phase change occurs when a substance transitions directly from a gas to a solid?
+A. Sublimation
+B. Deposition
+C. Condensation
+D. Freezing
+Correct Answer: B
+Explanation: Deposition is the thermodynamic process in which gas transforms directly into a solid without passing through the liquid phase.
+
+Q15.
+Question: What is the SI unit for measuring the amount of a substance?
+A. Gram
+B. Liter
+C. Mole
+D. Dalton
+Correct Answer: C
+Explanation: The mole (mol) is the official SI base unit used to measure the quantity of chemical entities (atoms, molecules, ions).
+
+Q16.
+Question: According to Le Chatelier's principle, what happens if pressure is increased in a gaseous equilibrium system?
+A. The reaction shifts toward the side with fewer moles of gas.
+B. The reaction shifts toward the side with more moles of gas.
+C. The equilibrium constant increases.
+D. No change occurs in system position.
+Correct Answer: A
+Explanation: Increasing pressure forces the equilibrium to shift in the direction that produces fewer gas molecules to relieve the applied pressure.
+
+Q17.
+Question: What is the conjugate base of the acid $HCO_3^-$?
+A. $H_2CO_3$
+B. $CO_3^{2-}$
+C. $OH^-$
+D. $H_3O^+$
+Correct Answer: B
+Explanation: A conjugate base is formed when an acid loses a proton ($H^+$). Removing $H^+$ from $HCO_3^-$ yields the carbonate ion, $CO_3^{2-}$.
+
+Q18.
+Question: What type of reaction is $2Mg + O_2 \rightarrow 2MgO$?
+A. Decomposition
+B. Single replacement
+C. Synthesis
+D. Double replacement
+Correct Answer: C
+Explanation: A synthesis (or combination) reaction occurs when two or more simple reactants combine to form a single complex product.
+
+Q19.
+Question: Which subatomic particle has a relative charge of -1 and negligible mass compared to nucleons?
+A. Proton
+B. Neutron
+C. Electron
+D. Alpha particle
+Correct Answer: C
+Explanation: Electrons carry a charge of $-1.6 \times 10^{-19}\text{ C}$ (relative charge -1) and have a mass roughly $1/1836$ that of a proton.
+
+Q20.
+Question: Which element has the electron configuration $1s^2 2s^2 2p^6 3s^2 3p^6$?
+A. Neon
+B. Argon
+C. Krypton
+D. Chlorine
+Correct Answer: B
+Explanation: The electron configuration accounts for a total of 18 electrons, corresponding to the noble gas Argon ($Z = 18$).
+
+Q21.
+Question: What term describes a solution that contains the maximum amount of dissolved solute at equilibrium at a specific temperature?
+A. Unsaturated
+B. Saturated
+C. Supersaturated
+D. Dilute
+Correct Answer: B
+Explanation: A saturated solution holds the maximum concentration of solute dissolved in the solvent at a given temperature and pressure.
+
+Q22.
+Question: What is the geometry of a methane ($CH_4$) molecule according to VSEPR theory?
+A. Trigonal planar
+B. Linear
+C. Tetrahedral
+D. Bent
+Correct Answer: C
+Explanation: Methane has four bonding pairs and zero lone pairs around the central carbon atom, resulting in a tetrahedral geometric arrangement.
+
+Q23.
+Question: Which catalyst is used in the industrial Haber-Bosch process for ammonia synthesis?
+A. Platinum
+B. Nickel
+C. Iron
+D. Vanadium(V) oxide
+Correct Answer: C
+Explanation: Finely divided iron (often promoted with potassium and aluminum oxides) is used as the catalyst in the Haber-Bosch process.
+
+Q24.
+Question: What is the formula for calculating molarity ($M$)?
+A. Moles of solute / Kilograms of solvent
+B. Grams of solute / Liters of solution
+C. Moles of solute / Liters of solution
+D. Moles of solvent / Liters of solution
+Correct Answer: C
+Explanation: Molarity is defined as the number of moles of solute dissolved per liter of solution ($\text{mol/L}$).
+
+Q25.
+Question: Which halogen exists as a reddish-brown liquid at room temperature and standard pressure?
+A. Fluorine
+B. Chlorine
+C. Bromine
+D. Iodine
+Correct Answer: C
+Explanation: Elemental bromine ($Br_2$) is one of only two elements (along with mercury) that are liquid at standard temperature and pressure.
+
+Q26.
+Question: What happens to the rate of most chemical reactions when the temperature is increased?
+A. It increases because collision frequency and energy increase.
+B. It decreases because activation energy increases.
+C. It remains constant.
+D. It decreases because molecules move slower.
+Correct Answer: A
+Explanation: Higher temperature increases the kinetic energy of particles, leading to more frequent and energetic collisions that exceed activation energy.
+
+Q27.
+Question: Which type of decay emits a helium nucleus ($^4_2He$)?
+A. Beta-minus decay
+B. Gamma decay
+C. Alpha decay
+D. Positron emission
+Correct Answer: C
+Explanation: Alpha decay involves the emission of an alpha particle, which consists of 2 protons and 2 neutrons ($^4_2He^{2+}$).
+
+Q28.
+Question: What is the name of the organic compound with the molecular formula $C_2H_2$?
+A. Ethane
+B. Ethene
+C. Ethyne
+D. Methane
+Correct Answer: C
+Explanation: Ethyne (commonly known as acetylene) contains a carbon-carbon triple bond and has the chemical formula $C_2H_2$.
+
+Q29.
+Question: Which quantity remains constant during an isothermal thermodynamic process?
+A. Pressure
+B. Volume
+C. Temperature
+D. Heat capacity
+Correct Answer: C
+Explanation: An isothermal process is a change of a system in which the temperature remains constant ($\Delta T = 0$).
+
+Q30.
+Question: What bond angle is associated with $sp^2$ hybridized orbitals?
+A. 180°
+B. 109.5°
+C. 120°
+D. 90°
+Correct Answer: C
+Explanation: $sp^2$ hybridization leads to a trigonal planar electron geometry with ideal bond angles of 120°.
+
+Q31.
+Question: What is the term for a substance that can act as both an acid and a base?
+A. Amphiprotic
+B. Aprotic
+C. Anhydrous
+D. Isomorphic
+Correct Answer: A
+Explanation: Amphiprotic (or more broadly, amphoteric) substances can either donate or accept protons depending on the reaction conditions.
+
+Q32.
+Question: Which law states that total enthalpy change for a chemical reaction is independent of the pathway taken?
+A. Raoult's Law
+B. Hess's Law
+C. Henry's Law
+D. Dalton's Law
+Correct Answer: B
+Explanation: Hess's Law states that the enthalpy change of a reaction depends only on the initial and final states, not the pathway.
+
+Q33.
+Question: What gas is evolved when a metal carbonate reacts with an acid?
+A. Hydrogen gas
+B. Oxygen gas
+C. Carbon dioxide gas
+D. Nitrogen dioxide gas
+Correct Answer: C
+Explanation: Metal carbonates react with acids to yield a salt, water, and carbon dioxide gas ($CO_2$).
+
+Q34.
+Question: What is the main component of natural gas?
+A. Ethane
+B. Propane
+C. Methane
+D. Butane
+Correct Answer: C
+Explanation: Methane ($CH_4$) accounts for roughly 70% to 90% of the composition of natural gas.
+
+Q35.
+Question: What is the term for a mixture that maintains a constant boiling point and composition throughout distillation?
+A. Isotope
+B. Azeotrope
+C. Suspension
+D. Colloid
+Correct Answer: B
+Explanation: An azeotrope is a mixture of liquids whose proportion cannot be altered or changed by simple distillation.
+
+Q36.
+Question: Which quantum number describes the shape of an atomic orbital?
+A. Principal quantum number ($n$)
+B. Azimuthal quantum number ($l$)
+C. Magnetic quantum number ($m_l$)
+D. Spin quantum number ($m_s$)
+Correct Answer: B
+Explanation: The azimuthal (or orbital angular momentum) quantum number $l$ determines the subshell and shape of the orbital.
+
+Q37.
+Question: What color does a strong acid turn blue litmus paper?
+A. Red
+B. Green
+C. Yellow
+D. Colorless
+Correct Answer: A
+Explanation: Acids turn blue litmus paper red, while bases turn red litmus paper blue.
+
+Q38.
+Question: What is the name of the process by which an unstable atomic nucleus loses energy by radiation?
+A. Nuclear fusion
+B. Radioactive decay
+C. Ionization
+D. Electrophoresis
+Correct Answer: B
+Explanation: Radioactive decay is the spontaneous process by which an unstable nucleus releases particles or electromagnetic radiation.
+
+Q39.
+Question: Which property describes a liquid's resistance to flow?
+A. Surface tension
+B. Capillarity
+C. Viscosity
+D. Vapor pressure
+Correct Answer: C
+Explanation: Viscosity measures a fluid's internal resistance to flow; higher viscosity means thicker, slower-flowing liquids.
+
+Q40.
+Question: What is the coordination number of an atom in a face-centered cubic (FCC) unit cell?
+A. 6
+B. 8
+C. 12
+D. 14
+Correct Answer: C
+Explanation: In a face-centered cubic (FCC) lattice structure, each atom touches 12 nearest neighbors, giving it a coordination number of 12.

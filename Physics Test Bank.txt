@@ -1,0 +1,44 @@
+Q1.
+Question: What is Newton's Second Law of Motion?
+A. For every action, there is an equal and opposite reaction.
+B. An object at rest stays at rest unless acted upon by an external force.
+C. Acceleration is directly proportional to net force and inversely proportional to mass ($F = ma$).
+D. Gravitational force decreases with the square of the distance.
+Correct Answer: C
+Explanation: Newton's second law states $F_{net} = ma$, relating net force, mass, and acceleration.
+
+Q2.
+Question: What is the SI unit of electric current?
+A. Volt
+B. Ohm
+C. Ampere
+D. Joule
+Correct Answer: C
+Explanation: The Ampere (A) is the SI base unit used to measure electric current.
+
+Q3.
+Question: Which principle explains the buoyant force acting on an object submerged in a fluid?
+A. Pascal's Principle
+B. Bernoulli's Principle
+C. Archimedes' Principle
+D. Hooke's Law
+Correct Answer: C
+Explanation: Archimedes' Principle states that the buoyant force on an object equals the weight of the fluid it displaces.
+
+Q4.
+Question: What type of wave requires a physical medium to travel through?
+A. Electromagnetic wave
+B. Mechanical wave
+C. Light wave
+D. Radio wave
+Correct Answer: B
+Explanation: Mechanical waves (such as sound waves) require a physical medium to transfer energy, unlike electromagnetic waves.
+
+Q5.
+Question: What is the kinetic energy formula for an object of mass $m$ moving at velocity $v$?
+A. $KE = m v$
+B. $KE = \frac{1}{2} m v^2$
+C. $KE = m g h$
+D. $KE = \frac{1}{2} m^2 v$
+Correct Answer: B
+Explanation: Kinetic energy is calculated as $KE = \frac{1}{2} m v^2$.

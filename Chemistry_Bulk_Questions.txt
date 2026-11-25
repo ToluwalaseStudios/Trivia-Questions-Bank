@@ -1,0 +1,79 @@
+Q: A mixture contains ammonium chloride, sand and sodium chloride. Which method is most suitable for obtaining the ammonium chloride first?
+A) Filtration
+B) Sublimation
+C) Distillation
+D) Decantation
+ANSWER: B
+EXPLANATION: Ammonium chloride sublimes (turns from solid directly to vapour) on heating, so it can be separated from the sand and sodium chloride, which do not sublime.
+
+Q: Which technique is most appropriate for separating two miscible liquids with different boiling points?
+A) Filtration
+B) Sublimation
+C) Fractional distillation
+D) Crystallisation
+ANSWER: C
+EXPLANATION: Fractional distillation separates miscible liquids by exploiting their different boiling points, vaporising and condensing each component in turn.
+
+Q: Which of the following salts produces an acidic solution when dissolved in water?
+A) NaCl
+B) KNO₃
+C) NH₄Cl
+D) CH₃COONa
+ANSWER: C
+EXPLANATION: NH₄Cl is the salt of a weak base (NH₃) and a strong acid (HCl). Its ammonium ion hydrolyses in water to release H⁺ ions, making the solution acidic.
+
+Q: A solution has a pH of 3. Another solution has a pH of 5. Compared with the second solution, the first is:
+A) 2 times more acidic
+B) 10 times more acidic
+C) 100 times more acidic
+D) 1,000 times more acidic
+ANSWER: C
+EXPLANATION: The pH scale is logarithmic (base 10). A difference of 2 pH units corresponds to a 10² = 100-fold difference in hydrogen ion concentration.
+
+Q: Which equation represents a neutralisation reaction?
+A) NaCl → Na⁺ + Cl⁻
+B) HCl + NaOH → NaCl + H₂O
+C) CaCO₃ → CaO + CO₂
+D) Zn + CuSO₄ → ZnSO₄ + Cu
+ANSWER: B
+EXPLANATION: Neutralisation is the reaction of an acid with a base to form a salt and water; HCl + NaOH → NaCl + H₂O fits this definition exactly.
+
+Q: A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen by mass. What is its empirical formula?
+A) CHO
+B) CH₂O
+C) C₂H₄O₂
+D) C₆H₁₂O₆
+ANSWER: B
+EXPLANATION: Dividing each percentage by its atomic mass gives approximate mole ratios C:H:O = 3.33:6.7:3.33, which simplifies to 1:2:1, giving CH₂O.
+
+Q: A compound has empirical formula CH₂O and relative molecular mass 180. What is its molecular formula?
+A) CH₂O
+B) C₂H₄O₂
+C) C₆H₁₂O₆
+D) C₁₂H₂₄O₁₂
+ANSWER: C
+EXPLANATION: The empirical formula mass of CH₂O is 30. Dividing the molecular mass by this gives 180/30 = 6, so the molecular formula is (CH₂O)₆ = C₆H₁₂O₆.
+
+Q: Which of the following compounds belongs to the homologous series of alkenes?
+A) C₂H₆
+B) C₃H₈
+C) C₄H₈
+D) C₅H₁₂
+ANSWER: C
+EXPLANATION: Alkenes follow the general formula CnH2n. C₄H₈ fits this pattern (n=4), while the other options fit the alkane formula CnH2n+2.
+
+Q: The reaction between ethene and bromine water is commonly used to test for:
+A) An alcohol group
+B) A carboxylic acid group
+C) Unsaturation
+D) An alkane
+ANSWER: C
+EXPLANATION: Unsaturated compounds like alkenes decolourise bromine water because the C=C double bond reacts with bromine; this is a standard test for unsaturation.
+
+Q: Which compound is formed when ethanol is oxidised completely?
+A) Ethene
+B) Ethanoic acid
+C) Methanoic acid
+D) Ethanal only
+ANSWER: B
+EXPLANATION: Complete oxidation of ethanol (a primary alcohol) proceeds through ethanal to give ethanoic acid (acetic acid) as the final product.

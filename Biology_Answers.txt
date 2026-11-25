@@ -1,0 +1,319 @@
+Q: What is the powerhouse of the cell?
+A) Nucleus
+B) Golgi apparatus
+C) Mitochondria
+D) Endoplasmic reticulum
+ANSWER: C
+EXPLANATION: Mitochondria generate ATP through cellular respiration and are therefore called the powerhouse of the cell.
+
+Q: Which organelle is responsible for protein synthesis?
+A) Golgi apparatus
+B) Ribosome
+C) Lysosome
+D) Peroxisome
+ANSWER: B
+EXPLANATION: Ribosomes are the sites of protein synthesis (translation of mRNA into polypeptide chains).
+
+Q: What is the basic unit of heredity?
+A) Protein
+B) Gene
+C) Enzyme
+D) Carbohydrate
+ANSWER: B
+EXPLANATION: A gene is a segment of DNA that codes for a specific trait and is the basic unit of heredity.
+
+Q: What is the process by which green plants make their food?
+A) Photosynthesis
+B) Respiration
+C) Digestion
+D) Fermentation
+ANSWER: A
+EXPLANATION: Photosynthesis converts light energy, carbon dioxide and water into glucose and oxygen in the presence of chlorophyll.
+
+Q: Which of the following is not a function of the liver?
+A) Detoxification
+B) Carbohydrate storage
+C) Protein synthesis
+D) Hormone secretion
+ANSWER: D
+EXPLANATION: The liver performs detoxification, stores glycogen and synthesises plasma proteins. Hormone secretion is primarily the function of endocrine glands.
+
+Q: Which blood type is known as the universal donor?
+A) Type A
+B) Type AB
+C) Type O
+D) Type B
+ANSWER: C
+EXPLANATION: Type O blood has neither A nor B antigens on the red cells, so it can be safely given to any ABO blood group.
+
+Q: Which hormone is responsible for regulating blood sugar levels?
+A) Insulin
+B) Estrogen
+C) Testosterone
+D) Thyroxine
+ANSWER: A
+EXPLANATION: Insulin, produced by the beta cells of the pancreas, lowers blood glucose by promoting its uptake into cells.
+
+Q: Which of the following is an example of a renewable resource?
+A) Coal
+B) Natural gas
+C) Wind
+D) Petroleum
+ANSWER: C
+EXPLANATION: Wind is continuously replenished by natural processes and is therefore renewable, unlike fossil fuels.
+
+Q: Which of the following is a greenhouse gas?
+A) Nitrogen
+B) Oxygen
+C) Carbon dioxide
+D) Hydrogen
+ANSWER: C
+EXPLANATION: Carbon dioxide traps heat in the atmosphere and is a major greenhouse gas contributing to global warming.
+
+Q: Which gas is produced during cellular respiration?
+A) Oxygen
+B) Carbon dioxide
+C) Nitrogen
+D) Hydrogen
+ANSWER: B
+EXPLANATION: In aerobic respiration, glucose is oxidised and carbon dioxide is released as a waste product (C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy).
+
+Q: Which part of the brain controls balance and coordination?
+A) Cerebrum
+B) Cerebellum
+C) Brainstem
+D) Hypothalamus
+ANSWER: B
+EXPLANATION: The cerebellum is responsible for coordinating voluntary movements, balance and posture.
+
+Q: What is the largest organ in the human body?
+A) Liver
+B) Brain
+C) Skin
+D) Heart
+ANSWER: C
+EXPLANATION: The skin is the largest organ by both surface area and weight. The liver is the largest internal organ.
+
+Q: Which of the following is not a function of the skeletal system?
+A) Protecting internal organs
+B) Producing blood cells
+C) Controlling body temperature
+D) Providing structural support
+ANSWER: C
+EXPLANATION: The skeletal system supports the body, protects organs and produces blood cells in bone marrow. Temperature regulation is mainly a function of the skin and circulatory system.
+
+Q: What is the function of white blood cells?
+A) Transporting oxygen
+B) Fighting infection
+C) Carrying nutrients
+D) Clotting blood
+ANSWER: B
+EXPLANATION: White blood cells (leucocytes) defend the body against pathogens by phagocytosis, antibody production and other immune responses.
+
+Q: What is the purpose of the circulatory system?
+A) Transportation of gases, nutrients, and waste products
+B) Maintaining body temperature
+C) Regulating hormones
+D) Providing structural support
+ANSWER: A
+EXPLANATION: The circulatory system transports oxygen, carbon dioxide, nutrients, hormones and metabolic wastes throughout the body.
+
+Q: What is the role of DNA in cells?
+A) Providing energy
+B) Storing genetic information
+C) Breaking down waste
+D) Regulating cell growth
+ANSWER: B
+EXPLANATION: DNA stores the genetic instructions that determine the structure and function of all living organisms.
+
+Q: What is the purpose of the endocrine system?
+A) Controlling movement
+B) Regulating metabolism, growth, and development
+C) Excreting waste
+D) Digesting food
+ANSWER: B
+EXPLANATION: The endocrine system secretes hormones that regulate metabolism, growth, development, reproduction and homeostasis.
+
+Q: Which of the following is not a component of blood?
+A) Platelets
+B) Plasma
+C) Red blood cells
+D) Bone marrow
+ANSWER: D
+EXPLANATION: Blood consists of plasma, red blood cells, white blood cells and platelets. Bone marrow is the tissue that produces blood cells, not a component of blood itself.
+
+Q: What is the process by which plants release water vapour into the atmosphere?
+A) Transpiration
+B) Respiration
+C) Photosynthesis
+D) Germination
+ANSWER: A
+EXPLANATION: Transpiration is the loss of water vapour from plant leaves through stomata.
+
+Q: Which of the following is not a characteristic of living organisms?
+A) Growth and development
+B) Response to stimuli
+C) Ability to reproduce
+D) Inorganic composition
+ANSWER: D
+EXPLANATION: Living organisms are composed of organic compounds (proteins, carbohydrates, lipids, nucleic acids). Inorganic composition is characteristic of non-living matter.
+
+Q: What is the process by which cells divide to produce new somatic cells?
+A) Replication
+B) Mitosis
+C) Meiosis
+D) Fertilization
+ANSWER: B
+EXPLANATION: Mitosis produces two genetically identical diploid daughter cells for growth and repair. Meiosis produces haploid gametes.
+
+Q: What is the main function of the kidneys?
+A) Regulating blood sugar levels
+B) Filtering waste from the blood
+C) Producing hormones
+D) Digesting food
+ANSWER: B
+EXPLANATION: The kidneys filter blood to remove urea, excess salts and water, forming urine, and also help regulate blood pressure and pH.
+
+Q: What is the role of chlorophyll in photosynthesis?
+A) Absorbing carbon dioxide
+B) Absorbing sunlight
+C) Releasing oxygen
+D) Breaking down glucose
+ANSWER: B
+EXPLANATION: Chlorophyll absorbs light energy (mainly in the blue and red wavelengths) which is used to drive the light-dependent reactions of photosynthesis.
+
+Q: Which of the following is not a type of muscle tissue?
+A) Skeletal
+B) Cardiac
+C) Adipose
+D) Smooth
+ANSWER: C
+EXPLANATION: The three types of muscle tissue are skeletal, cardiac and smooth. Adipose is a type of connective tissue that stores fat.
+
+Q: What is the function of the pancreas in the digestive system?
+A) Producing bile
+B) Absorbing nutrients
+C) Producing digestive enzymes
+D) Storing food
+ANSWER: C
+EXPLANATION: The pancreas secretes pancreatic juice containing digestive enzymes (amylase, lipase, proteases) into the duodenum.
+
+Q: What is the role of the myelin sheath in nerve cells?
+A) Speeding up the transmission of nerve impulses
+B) Protecting the cell from damage
+C) Regulating hormone levels
+D) Providing structural support
+ANSWER: A
+EXPLANATION: The myelin sheath insulates the axon and allows saltatory conduction, greatly increasing the speed of nerve impulse transmission.
+
+Q: Which of the following is not a type of symbiotic relationship?
+A) Mutualism
+B) Parasitism
+C) Predation
+D) Commensalism
+ANSWER: C
+EXPLANATION: Symbiosis involves a close, long-term association between two species (mutualism, parasitism, commensalism). Predation is a short-term feeding relationship.
+
+Q: What is the role of ATP in cellular metabolism?
+A) Storing genetic information
+B) Providing energy
+C) Regulating cell growth
+D) Breaking down waste products
+ANSWER: B
+EXPLANATION: ATP (adenosine triphosphate) is the universal energy currency of the cell; its hydrolysis releases energy for metabolic processes.
+
+Q: What is the function of the ribosomes in the cell?
+A) Producing energy
+B) Synthesizing proteins
+C) Packaging molecules for export
+D) Breaking down waste
+ANSWER: B
+EXPLANATION: Ribosomes translate mRNA into polypeptide chains, i.e., they synthesise proteins.
+
+Q: What is the process by which organisms maintain a stable internal environment?
+A) Homeostasis
+B) Respiration
+C) Reproduction
+D) Evolution
+ANSWER: A
+EXPLANATION: Homeostasis is the maintenance of a constant internal environment (temperature, pH, water balance, etc.) despite external changes.
+
+Q: Which of the following is not a type of passive transport?
+A) Diffusion
+B) Osmosis
+C) Active transport
+D) Facilitated diffusion
+ANSWER: C
+EXPLANATION: Passive transport (diffusion, osmosis, facilitated diffusion) does not require energy. Active transport requires ATP to move substances against a concentration gradient.
+
+Q: What is the role of haemoglobin in the blood?
+A) Fighting infections
+B) Transporting oxygen
+C) Clotting blood
+D) Breaking down toxins
+ANSWER: B
+EXPLANATION: Haemoglobin in red blood cells binds oxygen in the lungs and releases it to tissues.
+
+Q: What is the function of the thymus gland in the immune system?
+A) Producing antibodies
+B) Filtering toxins from the blood
+C) Maturation of T cells
+D) Regulating body temperature
+ANSWER: C
+EXPLANATION: The thymus is where immature T-lymphocytes mature and become immunocompetent.
+
+Q: What is the primary function of the stomata in plant leaves?
+A) Absorbing water
+B) Exchanging gases
+C) Storing nutrients
+D) Producing sugars
+ANSWER: B
+EXPLANATION: Stomata allow the exchange of carbon dioxide and oxygen and also control the rate of transpiration.
+
+Q: What is the role of the Golgi apparatus in the cell?
+A) Protein synthesis
+B) Energy production
+C) Packaging and shipping proteins
+D) DNA replication
+ANSWER: C
+EXPLANATION: The Golgi apparatus modifies, sorts and packages proteins and lipids into vesicles for transport or secretion.
+
+Q: What is the function of the hypothalamus in the brain?
+A) Regulating body temperature only
+B) Controlling hunger and thirst only
+C) Maintaining homeostasis
+D) All of the above
+ANSWER: D
+EXPLANATION: The hypothalamus regulates body temperature, hunger, thirst, sleep, and many other homeostatic processes, and links the nervous and endocrine systems.
+
+Q: Which of the following is a function of the smooth endoplasmic reticulum?
+A) Protein synthesis
+B) Lipid synthesis
+C) Energy production
+D) Waste disposal
+ANSWER: B
+EXPLANATION: Smooth ER is involved in the synthesis of lipids, steroid hormones and the detoxification of drugs.
+
+Q: What is the role of the gallbladder in the digestive system?
+A) Producing bile
+B) Storing bile
+C) Digesting carbohydrates
+D) Absorbing nutrients
+ANSWER: B
+EXPLANATION: The gallbladder stores and concentrates bile produced by the liver and releases it into the duodenum when needed.
+
+Q: What is the function of the centrioles in animal cells?
+A) Protein synthesis
+B) Cell division
+C) Energy production
+D) Waste disposal
+ANSWER: B
+EXPLANATION: Centrioles organise the spindle fibres that separate chromosomes during mitosis and meiosis.
+
+Q: What is the process by which water moves across a semipermeable membrane?
+A) Osmosis
+B) Diffusion
+C) Active transport
+D) Facilitated diffusion
+ANSWER: A
+EXPLANATION: Osmosis is the net movement of water molecules from a region of higher water potential to a region of lower water potential across a selectively permeable membrane.

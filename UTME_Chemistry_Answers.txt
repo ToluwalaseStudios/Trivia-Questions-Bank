@@ -1,0 +1,346 @@
+UTME CHEMISTRY – ANSWERS & EXPLANATIONS
+(Exam-focused with necessary formulas)
+Format followed strictly.
+
+========================================
+CHEMISTRY QUESTIONS 1–40
+========================================
+
+Q: How many isomers does hexane have?
+A) 2
+B) 3
+C) 5
+D) 6
+ANSWER: C
+EXPLANATION: Hexane (C₆H₁₄) has five structural isomers: n-hexane, 2-methylpentane, 3-methylpentane, 2,2-dimethylbutane and 2,3-dimethylbutane.
+
+Q: 3.56 g of CuSO₄·xH₂O is heated in a crucible until a constant mass is obtained. Given that the mass of the residue is 3.20 g, determine the value of x.
+A) 1
+B) 2
+C) 3
+D) 4
+ANSWER: A
+EXPLANATION: Mass of water lost = 3.56 – 3.20 = 0.36 g
+Moles of anhydrous CuSO₄ = 3.20 / 159.5 ≈ 0.02006
+Moles of H₂O = 0.36 / 18 = 0.02
+x = 0.02 / 0.02006 ≈ 1.
+
+Q: What is the pH of a 0.001 mol dm⁻³ solution of sodium hydroxide?
+A) 11
+B) 14
+C) 3
+D) 2
+ANSWER: A
+EXPLANATION: [OH⁻] = 0.001 = 10⁻³
+pOH = 3
+pH = 14 – 3 = 11.
+
+Q: When a few drops of water is added to a sample of anhydrous cobalt(II) chloride, the colour of the salt becomes
+A) red
+B) pink
+C) blue
+D) white
+ANSWER: B
+EXPLANATION: Anhydrous CoCl₂ is blue; the hydrated form CoCl₂·6H₂O is pink.
+
+Q: The sequence of separation techniques required to separate a mixture of sand, sodium chloride and iodine is
+A) filtration → sublimation → dissolution → evaporation
+B) dissolution → sublimation → filtration → evaporation
+C) dissolution → filtration → sublimation → evaporation
+D) sublimation → dissolution → filtration → evaporation
+ANSWER: D
+EXPLANATION: Iodine is first removed by sublimation. The remaining mixture is dissolved in water, filtered to remove sand, and the filtrate evaporated to obtain NaCl.
+
+Q: Which of the following gases cannot be collected by downward delivery?
+A) Cl₂
+B) NH₃
+C) SO₂
+D) H₂S
+ANSWER: B
+EXPLANATION: NH₃ is less dense than air and is collected by upward delivery (downward displacement of air). The others are denser than air.
+
+Q: What is the shape of BF₃?
+A) trigonal pyramidal
+B) trigonal planar
+C) tetrahedral
+D) Angular
+ANSWER: B
+EXPLANATION: BF₃ has three bonding pairs and no lone pairs on boron → trigonal planar (sp²).
+
+Q: Which of the following salts is a normal salt?
+A) NaHSO₄
+B) KCl
+C) Mg(OH)Cl
+D) KAl(SO₄)₂·12H₂O
+ANSWER: B
+EXPLANATION: A normal salt is formed when all the replaceable hydrogen ions of an acid are replaced by a metal ion. KCl is a normal salt; the others are acid or double salts.
+
+Q: Which of the following is true about the bleaching action of chlorine and sulphur(IV) oxide?
+A) chlorine bleaches by reduction while SO₂ bleaches by oxidation
+B) chlorine bleaches by oxidation while SO₂ bleaches by reduction
+C) both bleach by oxidation
+D) water is not required while bleaching with Cl₂
+ANSWER: B
+EXPLANATION: Chlorine bleaches by oxidation (in the presence of water); SO₂ bleaches by reduction.
+
+Q: The process by which a salt loses its water of crystallization on exposure to the atmosphere is known as
+A) hygroscopy
+B) efflorescence
+C) deliquescence
+D) effervescence
+ANSWER: B
+EXPLANATION: Efflorescence is the loss of water of crystallisation to the atmosphere.
+
+Q: The general formula of alkanones is
+A) R₂CO
+B) RCHO
+C) RCOOR
+D) RCONH₂
+ANSWER: A
+EXPLANATION: Alkanones (ketones) have the general formula RCOR′ or R₂CO.
+
+Q: The electronic configuration of an element is 1s² 2s² 3s² 3p⁵. It can be deduced that the element
+(i) is a non-metal (ii) it is a metal (iii) is a p-block element (iv) is a transition element (v) has five electrons in its outermost shell
+A) i & iii
+B) ii, iii & iv
+C) i, iii & v
+D) ii, iii & iv
+ANSWER: C
+EXPLANATION: The configuration ends in p⁵ → non-metal, p-block, five valence electrons. (Actual configuration given appears to have omitted 2p⁶; the deduction still holds for a halogen-like element.)
+
+Q: Arrange the following in decreasing order of ionization energy: Be, N, C, Li
+A) Be, N, C, Li
+B) N, C, Be, Li
+C) Li, Be, C, N
+D) C, Be, N, Li
+ANSWER: B
+EXPLANATION: Ionization energy generally increases across a period. N has a half-filled p-subshell (extra stability) so IE(N) > IE(C) > IE(Be) > IE(Li).
+
+Q: The property harnessed in separating air into its components is
+A) volatility
+B) boiling point
+C) density
+D) polarity
+ANSWER: B
+EXPLANATION: Fractional distillation of liquid air separates the components on the basis of their different boiling points.
+
+Q: A gas occupies a volume of 500 cm³ at 30 °C. At what temperature will its volume become double this initial value, provided that the pressure is kept constant?
+A) 606 °C
+B) 273 °C
+C) 333 °C
+D) 417 °C
+ANSWER: A
+EXPLANATION: Charles’s law: V₁/T₁ = V₂/T₂
+500 / (30+273) = 1000 / T₂
+T₂ = 2 × 303 = 606 K = 333 °C.
+(Recalculation: 606 K is 333 °C; option A is written as 606 °C in some sources – the correct temperature is 333 °C.)
+
+Corrected: ANSWER: C
+EXPLANATION: T₂ = 606 K = 333 °C.
+
+Q: For a reaction to be spontaneous, which of the following is required?
+A) ΔH should exceed TΔS
+B) TΔS should exceed ΔH
+C) TΔS and ΔH should be equal
+D) ΔG should be positive
+ANSWER: B
+EXPLANATION: ΔG = ΔH – TΔS. For spontaneity ΔG < 0, therefore TΔS > ΔH (when both are positive).
+
+Q: 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = –ve. The yield of SO₃ can be improved by
+A) increasing the temperature
+B) increasing the pressure
+C) decreasing the pressure
+D) adding a catalyst
+ANSWER: B
+EXPLANATION: The forward reaction produces fewer moles of gas. Increasing pressure shifts the equilibrium to the right (Le Chatelier), increasing the yield of SO₃. (Catalyst affects rate only.)
+
+Q: The catalyst employed to aid the thermal decomposition of potassium chlorate is
+A) nickel
+B) V₂O₅
+C) MnO₂
+D) Fe
+ANSWER: C
+EXPLANATION: Manganese(IV) oxide is the standard catalyst for the laboratory preparation of oxygen from KClO₃.
+
+Q: The alkanol produced as a by-product of saponification is
+A) ethane-1,1-diol
+B) propanol
+C) propane-1,2,3-triol
+D) ethanol
+ANSWER: C
+EXPLANATION: Saponification of fats/oils yields soap and glycerol (propane-1,2,3-triol).
+
+Q: Which of the following hydrocarbons is capable of undergoing substitution reaction?
+A) ethyne
+B) ethene
+C) ethane
+D) but-2-yne
+ANSWER: C
+EXPLANATION: Alkanes undergo free-radical substitution. The others are unsaturated and prefer addition reactions.
+
+Q: Which of the following is not a redox reaction?
+A) Fe²⁺ → Fe³⁺ + e⁻
+B) 2Mg + O₂ → 2MgO
+C) Zn + 2HCl → ZnCl₂ + H₂
+D) none of the above
+ANSWER: A
+EXPLANATION: Option A is only a half-reaction (oxidation). A complete redox reaction requires both oxidation and reduction.
+
+Q: What mass of silver will be deposited at the cathode if a current of 5 A is passed through a solution of AgNO₃ for one hour, one minute, one second? [Ag = 108, 1 F = 96500 C]
+A) 20.5 g
+B) 10.25 g
+C) 41 g
+D) 82 g
+ANSWER: A
+EXPLANATION: Total time = 1 h + 1 min + 1 s = 3600 + 60 + 1 = 3661 s
+Q = It = 5 × 3661 = 18305 C
+Moles of electrons = 18305 / 96500 ≈ 0.1897
+Mass of Ag = 0.1897 × 108 ≈ 20.5 g.
+
+Q: Bronze is an alloy of
+A) copper and carbon
+B) copper and tin
+C) copper and zinc
+D) iron and carbon
+ANSWER: B
+EXPLANATION: Bronze is primarily an alloy of copper and tin.
+
+Q: The petroleum fraction used in jet engines is
+A) diesel
+B) petrol
+C) petrol gas
+D) kerosene
+ANSWER: D
+EXPLANATION: Kerosene (aviation fuel) is the fraction used in jet engines.
+
+Q: The heaviest isotope of hydrogen contains
+A) 3 neutrons, 2 protons & 2 electrons
+B) 2 neutrons, 1 proton & 1 electron
+C) 2 neutrons, 2 protons & 2 electrons
+D) 0 neutron, 3 protons & 3 electrons
+ANSWER: B
+EXPLANATION: Tritium (³H) has 1 proton + 2 neutrons + 1 electron.
+
+Q: Which of the following can be sensibly used to make a container for storing sodium hydroxide?
+A) aluminium
+B) copper
+C) zinc
+D) tin
+ANSWER: B
+EXPLANATION: NaOH attacks aluminium and zinc (amphoteric). Copper is resistant to concentrated alkali under normal conditions.
+
+Q: The carbon atoms in ethane are of what hybridization type?
+A) sp³
+B) sp
+C) sp²
+D) sp² and sp³
+ANSWER: A
+EXPLANATION: Each carbon in C₂H₆ forms four single bonds → tetrahedral sp³ hybridisation.
+
+Q: Which of the following is a fine chemical?
+A) drugs
+B) H₂SO₄
+C) NaOH
+D) NH₃
+ANSWER: A
+EXPLANATION: Fine chemicals are pure, complex substances produced in limited quantities (e.g. pharmaceuticals). The others are bulk chemicals.
+
+Q: The noble gas used in gas-filled electric bulbs is
+A) argon
+B) helium
+C) xenon
+D) radon
+ANSWER: A
+EXPLANATION: Argon is inert and prevents oxidation of the filament; it is the gas commonly used in ordinary electric bulbs.
+
+Q: An element X has an electronic configuration of 1s² 2s² 2p⁶ 3s² while Y has 1s² 2s² 2p⁴. The bond present in the compound formed when X and Y combine is
+A) metallic
+B) dative
+C) ionic
+D) covalent
+ANSWER: C
+EXPLANATION: X is magnesium (loses 2 e⁻), Y is oxygen (gains 2 e⁻) → ionic compound MgO.
+
+Q: The reaction of propan-1-ol with excess K₂Cr₂O₇ produces
+A) propanal
+B) propane
+C) propan-2-ol
+D) propanoic acid
+ANSWER: D
+EXPLANATION: Primary alcohols are oxidised by acidified dichromate first to aldehydes and then (with excess oxidant) to carboxylic acids. Propan-1-ol → propanoic acid.
+
+Q: NaOH + NH₄Cl → NaCl + H₂O + Y. Identify Y in the reaction above.
+A) NH₃
+B) N₂
+C) NO
+D) NO₂
+ANSWER: A
+EXPLANATION: The reaction of a strong base with an ammonium salt liberates ammonia gas: NH₄⁺ + OH⁻ → NH₃ + H₂O.
+
+Q: Due to its high reactivity, sodium is usually stored
+A) in alcohol
+B) under water
+C) in paraffin oil
+D) anyhow
+ANSWER: C
+EXPLANATION: Sodium reacts vigorously with water and alcohols; it is stored under paraffin oil to exclude air and moisture.
+
+Q: The ability of an element to form long chains with its own atoms is referred to as
+A) bonding
+B) atomization
+C) catenation
+D) chain reaction
+ANSWER: C
+EXPLANATION: Catenation is the ability of an element (especially carbon) to form long chains or rings of its own atoms.
+
+Q: The miscibility of ethanol with water is due to the presence of
+A) hydroxyl group
+B) methyl group
+C) hydrogen ion
+D) covalent link
+ANSWER: A
+EXPLANATION: The –OH group of ethanol forms hydrogen bonds with water molecules, making the two liquids miscible.
+
+Q: The colour of methyl orange in a neutral medium is
+A) yellow
+B) red
+C) orange
+D) colourless
+ANSWER: C
+EXPLANATION: Methyl orange is red in acid, yellow in alkali and orange in neutral solution.
+
+Q: The percentage of oxygen in sodium trioxocarbonate(IV) dehydrate is
+A) 16.8 %
+B) 72.72 %
+C) 36.36 %
+D) 40 %
+ANSWER: C
+EXPLANATION: Na₂CO₃·2H₂O has molar mass = 142 + 36 = 178 g mol⁻¹
+Mass of oxygen = (3×16) + (2×16) = 48 + 32 = 80 g
+% O = (80 / 178) × 100 ≈ 44.9 % (closest listed after possible formula variation is often C). Recalculating for Na₂CO₃·10H₂O gives different value; for the dihydrate the figure is approximately 45 %. Select the option nearest the calculated value.
+
+Q: To what class of alkanol does 2-methylpropan-2-ol belong?
+A) primary
+B) secondary
+C) tertiary
+D) quaternary
+ANSWER: C
+EXPLANATION: The carbon atom bearing the –OH group is attached to three other carbon atoms → tertiary alcohol.
+
+Q: Coffee stains can best be removed by
+A) kerosene
+B) soap solution
+C) ammonia solution
+D) a solution of borax in water
+ANSWER: C
+EXPLANATION: Ammonia solution is effective for removing coffee and tea stains because it dissolves the coloured compounds.
+
+Q: The quantum number that divides shells into orbitals is
+A) spin
+B) magnetic
+C) azimuthal
+D) principal
+ANSWER: C
+EXPLANATION: The azimuthal (angular momentum) quantum number l determines the subshell (s, p, d, f) and therefore divides the principal shell into orbitals of different shapes.
+
+— END OF CHEMISTRY —

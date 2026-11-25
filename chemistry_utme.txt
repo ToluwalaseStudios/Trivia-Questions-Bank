@@ -1,0 +1,79 @@
+Q: What is the IUPAC name of CH₃-CH(OH)-CH₃?
+A) Propan-1-ol
+B) Propan-2-ol
+C) Propanal
+D) Propanone
+ANSWER: B
+EXPLANATION: The -OH group is on the middle (second) carbon of the three-carbon chain, giving propan-2-ol.
+
+Q: According to Le Chatelier's Principle, increasing the pressure on the equilibrium system N₂(g) + 3H₂(g) ⇌ 2NH₃(g) will:
+A) Shift equilibrium to the left
+B) Shift equilibrium to the right
+C) Have no effect
+D) Stop the reaction
+ANSWER: B
+EXPLANATION: There are 4 moles of gas on the left and 2 moles on the right. Increasing pressure shifts equilibrium toward the side with fewer gas moles, i.e., to the right (more NH₃).
+
+Q: What volume of oxygen (at STP) is required to completely burn 5.6 dm³ of methane gas according to CH₄ + 2O₂ → CO₂ + 2H₂O?
+A) 2.8 dm³
+B) 5.6 dm³
+C) 11.2 dm³
+D) 22.4 dm³
+ANSWER: C
+EXPLANATION: Mole ratio of CH₄:O₂ is 1:2. So volume of O₂ required = 2 × 5.6 = 11.2 dm³.
+
+Q: Which of the following is the correct order of increasing oxidizing power of the halogens?
+A) F₂ < Cl₂ < Br₂ < I₂
+B) I₂ < Br₂ < Cl₂ < F₂
+C) Cl₂ < F₂ < Br₂ < I₂
+D) Br₂ < I₂ < F₂ < Cl₂
+ANSWER: B
+EXPLANATION: Oxidizing power of halogens decreases down Group 7, so it increases up the group: I₂ is the weakest oxidizer and F₂ the strongest.
+
+Q: In the Solvay process, which raw material provides the ammonia used to saturate the brine?
+A) Fresh ammonia only, consumed entirely
+B) Ammonia is recycled from ammonium chloride decomposition
+C) Ammonia comes from nitric acid
+D) Ammonia is not used in the process
+ANSWER: B
+EXPLANATION: In the Solvay process, ammonia is largely recovered and recycled when ammonium chloride is treated with lime (calcium hydroxide), making the process economical.
+
+Q: A first-order reaction has a rate constant of 0.02 s⁻¹. What is its half-life?
+A) 17.3 s
+B) 25 s
+C) 34.7 s
+D) 50 s
+ANSWER: C
+EXPLANATION: For a first-order reaction, t½ = 0.693/k = 0.693/0.02 ≈ 34.7 s.
+
+Q: Which functional group test distinguishes an aldehyde from a ketone?
+A) Litmus test
+B) Fehling's solution test
+C) Sodium metal test
+D) Bromine water test
+ANSWER: B
+EXPLANATION: Aldehydes reduce Fehling's solution (giving a brick-red precipitate of Cu₂O) because they are easily oxidized; ketones generally do not react.
+
+Q: What is the pH of a 0.001 mol/dm³ solution of HCl (assume complete dissociation)?
+A) 1
+B) 2
+C) 3
+D) 11
+ANSWER: C
+EXPLANATION: [H+] = 0.001 = 10⁻³ mol/dm³, so pH = -log(10⁻³) = 3.
+
+Q: Which statement about electronegativity across Period 3 (Na to Cl) is correct?
+A) It decreases across the period
+B) It increases across the period
+C) It remains constant
+D) It increases then decreases
+ANSWER: B
+EXPLANATION: Across a period, nuclear charge increases while shielding stays roughly constant, pulling bonding electrons more strongly, so electronegativity increases from Na to Cl.
+
+Q: Which of the following best explains why Mg fails to follow the general trend of reactivity expected for Group 2 in its reaction with cold water?
+A) Mg has a smaller atomic radius than Ca, so it reacts faster
+B) Mg forms a protective oxide/hydroxide layer that slows reaction with cold water
+C) Mg does not react with water under any conditions
+D) Mg has a lower melting point than Ca
+ANSWER: B
+EXPLANATION: Mg reacts very slowly with cold water because a thin, poorly soluble layer of magnesium hydroxide forms on its surface, protecting it from further reaction (it does react readily with steam, however).

@@ -1,0 +1,321 @@
+Bulk Questions Format
+
+Q: The process that brings about the cooling effect on the body of mammals is
+A) sweat excretion
+B) digestion
+C) urine formation
+D) respiration
+ANSWER: A
+EXPLANATION: Evaporation of sweat from the skin surface removes latent heat, thereby cooling the body.
+
+Q: Which of the following controls protein and enzyme syntheses in the cytoplasm of the cell?
+A) DNA
+B) Nucleus
+C) Chromosome
+D) Mitochondria
+ANSWER: A
+EXPLANATION: DNA contains the genetic code that is transcribed into mRNA, which directs protein synthesis in the cytoplasm.
+
+Q: The type of germination in which the cotyledons are brought above the soil is called
+A) epicotyl
+B) epigeal
+C) hypocotyl
+D) hypogeal
+ANSWER: B
+EXPLANATION: In epigeal germination the hypocotyl elongates and pulls the cotyledons above the ground.
+
+Q: A cross between a homozygous tall plant and a homozygous short plant produces
+A) Homozygous tall
+B) Homozygous short
+C) Heterozygous short
+D) Heterozygous tall
+ANSWER: D
+EXPLANATION: Tall is usually dominant; the F1 generation is heterozygous tall (Tt).
+
+Q: Which of the following is an example of continuous variation?
+A) tongue rolling
+B) height
+C) colour
+D) fingerprints
+ANSWER: B
+EXPLANATION: Height shows a continuous range of values and is influenced by many genes and the environment.
+
+Q: The relationship in which energy flows from one organism to another is called
+A) food web
+B) pyramid of numbers
+C) pyramid of energy
+D) food chain
+ANSWER: D
+EXPLANATION: A food chain shows the unidirectional flow of energy from one organism to another.
+
+Q: The process by which water vapour is lost from the leaves of plants is
+A) diffusion
+B) photosynthesis
+C) osmosis
+D) transpiration
+ANSWER: D
+EXPLANATION: Transpiration is the loss of water vapour from the aerial parts of plants, mainly through stomata.
+
+Q: Which of the following is a characteristic of a climax community?
+A) resistant crop varieties
+B) susceptible to diseases
+C) of low quality
+D) low yielding varieties
+ANSWER: A
+EXPLANATION: A climax community is stable and consists of species well adapted (resistant) to the prevailing conditions.
+
+Q: The conversion of ammonium compounds to nitrates is known as
+A) Combustion
+B) Nitrification
+C) Evaporation
+D) Transpiration
+ANSWER: B
+EXPLANATION: Nitrification is the biological oxidation of ammonia to nitrite and then to nitrate by nitrifying bacteria.
+
+Q: Organisms that feed on dead organic matter are called
+A) producers
+B) consumers
+C) decomposers
+D) parasites
+ANSWER: C
+EXPLANATION: Decomposers (bacteria and fungi) break down dead organic matter and recycle nutrients.
+
+Q: Flowers that are pollinated by wind usually have
+A) large anthers
+B) absence of nectar
+C) scented flowers
+D) scentless flowers
+ANSWER: D
+EXPLANATION: Wind-pollinated flowers are typically small, inconspicuous, scentless and produce abundant light pollen.
+
+Q: The supporting tissues in plants include
+A) sclerenchyma and collenchyma
+B) collenchyma and xylem
+C) Sclerenchyma and parenchyma
+D) parenchyma and collenchyma
+ANSWER: A
+EXPLANATION: Collenchyma provides flexible support in growing parts while sclerenchyma provides rigid support.
+
+Q: Plants that bear cones belong to the group
+A) fern
+B) angiosperm
+C) cones
+D) gymnosperm
+ANSWER: D
+EXPLANATION: Gymnosperms (e.g. pines, cycads) produce naked seeds usually borne in cones.
+
+Q: The fluid found in the vacuole of plant cells is
+A) Latex
+B) Cytoplasm
+C) Cell sap
+D) Blood
+ANSWER: C
+EXPLANATION: The vacuole of plant cells contains cell sap, a solution of salts, sugars and other substances.
+
+Q: The part of the flower that protects the bud is the
+A) corolla
+B) pedicel
+C) calyx
+D) receptacle
+ANSWER: C
+EXPLANATION: The calyx (sepals) encloses and protects the flower bud before it opens.
+
+Q: The gland that secretes thyroxine is the
+A) parathyroid
+B) thyroid
+C) pituitary
+D) adrenal
+ANSWER: B
+EXPLANATION: The thyroid gland secretes the hormone thyroxine which regulates metabolic rate.
+
+Q: The part of the central nervous system responsible for coordination of balance is the
+A) cerebellum
+B) brain
+C) spinal cord
+D) sensory neurones
+ANSWER: A
+EXPLANATION: The cerebellum coordinates voluntary movements and maintains posture and balance.
+
+Q: Which of the following is true of poliomyelitis?
+A) It affects both young and old
+B) It is a bacterial disease
+C) There is no vaccination against the disease
+D) It is capable of paralysing the limbs
+ANSWER: D
+EXPLANATION: Poliomyelitis is a viral disease that can cause paralysis of the limbs; vaccination is available.
+
+Q: The process of removing metabolic waste products from the body is called
+A) digestion
+B) excretion
+C) respiration
+D) egestion
+ANSWER: B
+EXPLANATION: Excretion is the removal of metabolic wastes (e.g. urea, CO₂) from the body.
+
+Q: The respiratory organ in man is the
+A) gill
+B) lung
+C) skin
+D) trachea
+ANSWER: B
+EXPLANATION: Humans use lungs for gaseous exchange.
+
+Q: The enzyme that digests starch is
+A) pepsin
+B) lipase
+C) amylase
+D) trypsin
+ANSWER: C
+EXPLANATION: Amylase (in saliva and pancreatic juice) hydrolyses starch to maltose.
+
+Q: Bile is produced by the
+A) pancreas
+B) liver
+C) gall bladder
+D) stomach
+ANSWER: B
+EXPLANATION: Bile is produced by the liver and stored in the gall bladder.
+
+Q: The end product of protein digestion is
+A) glucose
+B) fatty acids
+C) amino acids
+D) glycerol
+ANSWER: C
+EXPLANATION: Proteins are hydrolysed by proteases into amino acids.
+
+Q: Vitamin necessary for blood clotting is
+A) Vitamin A
+B) Vitamin B
+C) Vitamin C
+D) Vitamin K
+ANSWER: D
+EXPLANATION: Vitamin K is essential for the synthesis of prothrombin and other clotting factors.
+
+Q: Kwashiorkor is caused by deficiency of
+A) carbohydrate
+B) protein
+C) fat
+D) vitamin
+ANSWER: B
+EXPLANATION: Kwashiorkor is a protein-deficiency disease common in children.
+
+Q: The male reproductive organ in flowering plants is the
+A) stigma
+B) ovary
+C) anther
+D) style
+ANSWER: C
+EXPLANATION: The anther produces pollen grains (male gametes).
+
+Q: Fertilisation in humans takes place in the
+A) ovary
+B) uterus
+C) vagina
+D) fallopian tube
+ANSWER: D
+EXPLANATION: Fertilisation normally occurs in the ampulla of the fallopian tube (oviduct).
+
+Q: The process by which a mature ovum is released is called
+A) menstruation
+B) ovulation
+C) fertilisation
+D) implantation
+ANSWER: B
+EXPLANATION: Ovulation is the release of a mature ovum from the ovary.
+
+Q: Secondary sexual characteristics in males are controlled by
+A) oestrogen
+B) progesterone
+C) testosterone
+D) insulin
+ANSWER: C
+EXPLANATION: Testosterone, produced by the testes, is responsible for male secondary sexual characteristics.
+
+Q: The period of pregnancy in humans is called
+A) gestation
+B) ovulation
+C) menstruation
+D) lactation
+ANSWER: A
+EXPLANATION: Gestation is the period from fertilisation to birth (approximately 40 weeks in humans).
+
+Q: Insects belong to the phylum
+A) Annelida
+B) Arthropoda
+C) Mollusca
+D) Chordata
+ANSWER: B
+EXPLANATION: Insects are arthropods characterised by jointed appendages and an exoskeleton.
+
+Q: The scientific name of man is
+A) Homo erectus
+B) Homo sapiens
+C) Homo habilis
+D) Homo neanderthalensis
+ANSWER: B
+EXPLANATION: The binomial name of modern humans is Homo sapiens.
+
+Q: Organisms without a true nucleus are called
+A) eukaryotes
+B) prokaryotes
+C) multicellular
+D) unicellular
+ANSWER: B
+EXPLANATION: Prokaryotes (bacteria and archaea) lack a membrane-bound nucleus.
+
+Q: The largest group in classification is
+A) species
+B) genus
+C) family
+D) kingdom
+ANSWER: D
+EXPLANATION: In the hierarchical system of classification, kingdom is the highest (largest) taxonomic rank.
+
+Q: Birds are characterised by the presence of
+A) scales
+B) feathers
+C) fur
+D) slime
+ANSWER: B
+EXPLANATION: Feathers are a unique characteristic of birds (class Aves).
+
+Q: The long neck of the giraffe is an example of
+A) structural adaptation
+B) behavioural adaptation
+C) physiological adaptation
+D) protective adaptation
+ANSWER: A
+EXPLANATION: The long neck is a structural (morphological) adaptation that enables the giraffe to feed on high foliage.
+
+Q: Natural selection was proposed by
+A) Lamarck
+B) Darwin
+C) Mendel
+D) Pasteur
+ANSWER: B
+EXPLANATION: Charles Darwin proposed the theory of evolution by natural selection.
+
+Q: The theory that acquired characters can be inherited was proposed by
+A) Darwin
+B) Lamarck
+C) Wallace
+D) Mendel
+ANSWER: B
+EXPLANATION: Jean-Baptiste Lamarck proposed the theory of inheritance of acquired characteristics.
+
+Q: Homologous structures indicate
+A) convergent evolution
+B) divergent evolution
+C) parallel evolution
+D) adaptive radiation
+ANSWER: B
+EXPLANATION: Homologous structures (e.g. forelimbs of vertebrates) indicate divergent evolution from a common ancestor.
+
+Q: The ability of an organism to maintain a constant internal environment is called
+A) adaptation
+B) homeostasis
+C) metabolism
+D) irritability
+ANSWER: B
+EXPLANATION: Homeostasis is the maintenance of a stable internal environment despite external changes.

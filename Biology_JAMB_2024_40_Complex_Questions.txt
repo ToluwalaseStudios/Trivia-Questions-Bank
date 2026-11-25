@@ -1,0 +1,321 @@
+Bulk Questions Format - JAMB Biology 2024 Complex Questions
+
+Q: Which of the following is not a major component of protoplasm?
+A) Nitrogen
+B) Carbon
+C) Water
+D) Sulphur
+ANSWER: D
+EXPLANATION: Protoplasm is composed mainly of water, proteins (containing C, H, O, N), carbohydrates and lipids. Sulphur is present only in small amounts in some amino acids and is not regarded as a major component.
+
+Q: The loss of water in the form of liquid droplets from the tips or margins of leaves is called
+A) Transpiration
+B) Guttation
+C) Translocation
+D) Evaporation
+ANSWER: B
+EXPLANATION: Guttation is the exudation of liquid water through hydathodes at the leaf margins or tips, usually occurring when root pressure is high and transpiration is low.
+
+Q: Organisms that lack a true nucleus belong to the kingdom
+A) Monera
+B) Protista
+C) Fungi
+D) Animalia
+ANSWER: A
+EXPLANATION: Kingdom Monera consists of prokaryotic organisms (bacteria and cyanobacteria) that lack a membrane-bound nucleus and other membrane-bound organelles.
+
+Q: The organelle responsible for the digestion of worn-out organelles and foreign materials is the
+A) Ribosome
+B) Lysosome
+C) Centriole
+D) Plastid
+ANSWER: B
+EXPLANATION: Lysosomes contain hydrolytic enzymes that break down cellular debris, worn-out organelles and materials taken in by endocytosis.
+
+Q: Which class of food provides the highest amount of energy per gram?
+A) Protein
+B) Carbohydrate
+C) Lipid
+D) Minerals
+ANSWER: C
+EXPLANATION: Lipids yield approximately 37–39 kJ g⁻¹, while carbohydrates and proteins yield about 17 kJ g⁻¹. Therefore lipids are the most energy-dense food class.
+
+Q: Blood group AB is considered a universal recipient because it can receive blood from groups
+A) A and O
+B) B and O
+C) AB and O
+D) A, B, AB and O
+ANSWER: D
+EXPLANATION: Group AB individuals possess both A and B antigens and therefore have neither anti-A nor anti-B antibodies in their plasma, allowing them to receive blood from any ABO group.
+
+Q: An example of an organism that exhibits counter-shading to escape from its predator is
+A) Grasshopper
+B) Toad
+C) Fish
+D) Chameleon
+ANSWER: C
+EXPLANATION: Many fish have a dark dorsal surface and a light ventral surface (counter-shading) that makes them less visible from above and below in the water column.
+
+Q: A form of adaptive colouration that helps animals remain unnoticed is
+A) Hibernation
+B) Aestivation
+C) Counter-shading
+D) Migration
+ANSWER: C
+EXPLANATION: Counter-shading is a type of camouflage in which the upper surface is darker than the lower surface, helping the animal blend with its background when viewed from different angles.
+
+Q: In the diagram of an insect, the part labelled III (middle body region) is the
+A) Abdomen
+B) Head
+C) Maxillae
+D) Thorax
+ANSWER: D
+EXPLANATION: The three main body regions of an insect are head, thorax and abdomen. The thorax is the middle region that bears the legs and wings.
+
+Q: Lamarck’s theory of evolution is based on the idea of
+A) The inheritance of acquired traits
+B) Natural selection
+C) Mutation
+D) Genetic drift
+ANSWER: A
+EXPLANATION: Lamarck proposed that characteristics acquired during an organism’s lifetime (e.g., elongated neck of a giraffe) could be passed on to offspring.
+
+Q: Darwin’s theory of evolution is based on the principle of
+A) Use and disuse of organs
+B) Natural selection
+C) Acquired characteristics
+D) Mutation alone
+ANSWER: B
+EXPLANATION: Darwin’s theory centres on natural selection: individuals with favourable variations survive and reproduce more successfully, passing those variations to the next generation.
+
+Q: Similar structures that are modified to perform different functions in different organisms are referred to as
+A) Homologous structures
+B) Analogous structures
+C) Divergent structures
+D) Convergent structures
+ANSWER: A
+EXPLANATION: Homologous structures (e.g., the forelimbs of vertebrates) have a common evolutionary origin but may be adapted for different functions.
+
+Q: One of the ways of controlling schistosomiasis is by
+A) Destroying water snails and water weeds
+B) Clearing the bushes around the house
+C) Washing hands after using the toilet
+D) Properly washing fruits before eating them
+ANSWER: A
+EXPLANATION: Schistosomiasis is transmitted by freshwater snails that act as intermediate hosts. Destroying the snails and aquatic weeds breaks the life cycle of the parasite.
+
+Q: The central nervous system comprises the
+A) Brain and spinal cord
+B) Brain and cranial nerves
+C) Spinal cord and spinal nerves
+D) Autonomic and somatic systems
+ANSWER: A
+EXPLANATION: The central nervous system consists of the brain and the spinal cord; the peripheral nervous system consists of the nerves that connect them to the rest of the body.
+
+Q: The bacteria in the large intestine of man synthesise
+A) Vitamins and minerals
+B) Vitamins and glucose
+C) Amino acids and vitamins
+D) Amino acids and minerals
+ANSWER: C
+EXPLANATION: Certain gut bacteria synthesise vitamin K and some B vitamins as well as amino acids that can be absorbed by the host.
+
+Q: The main excretory product of an earthworm is
+A) Ammonia
+B) Carbon dioxide
+C) Urea
+D) Uric acid
+ANSWER: C
+EXPLANATION: Earthworms are ureotelic; their nephridia excrete mainly urea, although some ammonia may also be present.
+
+Q: Which of the following conditions causes aestivation in animals?
+A) Wind
+B) Drought
+C) Rain
+D) Cold
+ANSWER: B
+EXPLANATION: Aestivation is a state of dormancy entered during periods of high temperature and drought to conserve water and energy.
+
+Q: An instrument used for measuring the intensity of light is a
+A) Thermometer
+B) Photometer
+C) Anemometer
+D) Hygrometer
+ANSWER: B
+EXPLANATION: A photometer measures luminous intensity or illuminance. A thermometer measures temperature, an anemometer wind speed, and a hygrometer humidity.
+
+Q: A common component of blood and lymph is
+A) Fats
+B) Plasma
+C) Red blood cells
+D) White blood cells
+ANSWER: D
+EXPLANATION: Both blood and lymph contain white blood cells (leucocytes). Red blood cells are normally confined to blood, and plasma is the liquid matrix of blood while lymph has a similar but not identical fluid.
+
+Q: The circulatory system of mammals is described as
+A) Open circulatory system
+B) Closed circulatory system
+C) Single circulatory system
+D) Double circulatory system
+ANSWER: D
+EXPLANATION: Mammals have a closed double circulatory system in which blood passes through the heart twice in one complete circuit (pulmonary and systemic circulations).
+
+Q: Which of the following is a product of anaerobic respiration in yeast?
+A) Oxygen
+B) Alkaloids
+C) Carbon(IV) oxide and ethanol
+D) Mucilage
+ANSWER: C
+EXPLANATION: In alcoholic fermentation, yeast converts glucose into ethanol and carbon dioxide under anaerobic conditions.
+
+Q: The structure that provides nourishment and oxygen to a mammalian embryo is the
+A) Oviduct
+B) Placenta
+C) Amnion
+D) Uterus
+ANSWER: B
+EXPLANATION: The placenta is the organ of exchange between maternal and foetal blood, supplying nutrients and oxygen and removing waste products.
+
+Q: The pentadactyl limb of vertebrates typically ends in
+A) Four fingers
+B) Three fingers
+C) Two fingers
+D) Five digits
+ANSWER: D
+EXPLANATION: The pentadactyl (five-digit) limb is a homologous structure found in most tetrapod vertebrates.
+
+Q: Nitrogen in plants aids in the formation of
+A) Chlorophyll and proteins
+B) Cellulose only
+C) Protection from pests
+D) Fruit maturation
+ANSWER: A
+EXPLANATION: Nitrogen is an essential component of amino acids (hence proteins) and of the chlorophyll molecule.
+
+Q: Which of the following is an example of a continuous variation?
+A) Blood groups
+B) Height in humans
+C) Ability to roll the tongue
+D) Sex
+ANSWER: B
+EXPLANATION: Continuous variation (e.g., height, weight) shows a range of intermediate values and is usually controlled by many genes (polygenic).
+
+Q: The process by which green plants manufacture food is
+A) Respiration
+B) Photosynthesis
+C) Transpiration
+D) Translocation
+ANSWER: B
+EXPLANATION: Photosynthesis is the process in which chlorophyll-containing plants convert light energy into chemical energy stored in glucose.
+
+Q: Which of the following is a vestigial organ in man?
+A) Appendix
+B) Heart
+C) Liver
+D) Kidney
+ANSWER: A
+EXPLANATION: The vermiform appendix is a reduced structure that has lost its original function and is therefore considered vestigial.
+
+Q: The primary producers in a food chain are
+A) Herbivores
+B) Carnivores
+C) Green plants
+D) Decomposers
+ANSWER: C
+EXPLANATION: Green plants (autotrophs) convert solar energy into chemical energy and form the base of most food chains.
+
+Q: Which of the following diseases is caused by a virus?
+A) Malaria
+B) Tuberculosis
+C) Poliomyelitis
+D) Cholera
+ANSWER: C
+EXPLANATION: Poliomyelitis is caused by the poliovirus. Malaria is caused by Plasmodium, tuberculosis by Mycobacterium, and cholera by Vibrio cholerae.
+
+Q: The part of the brain that controls balance and posture is the
+A) Cerebrum
+B) Cerebellum
+C) Medulla oblongata
+D) Hypothalamus
+ANSWER: B
+EXPLANATION: The cerebellum coordinates voluntary movements, maintains posture and controls balance.
+
+Q: In a dicot leaf, the stomata are mainly found on the
+A) Upper epidermis
+B) Lower epidermis
+C) Mesophyll
+D) Veins
+ANSWER: B
+EXPLANATION: Most dicot leaves have a greater number of stomata on the lower epidermis to reduce water loss while still allowing gas exchange.
+
+Q: The hormone that regulates the amount of sugar in the blood is
+A) Adrenaline
+B) Insulin
+C) Thyroxine
+D) Testosterone
+ANSWER: B
+EXPLANATION: Insulin, secreted by the pancreas, lowers blood-glucose concentration by promoting uptake of glucose into cells and conversion to glycogen.
+
+Q: Which of the following is a characteristic of insects?
+A) Three pairs of legs
+B) Four pairs of legs
+C) Two pairs of legs
+D) Five pairs of legs
+ANSWER: A
+EXPLANATION: Insects belong to the class Insecta and possess three pairs of jointed legs attached to the thorax.
+
+Q: The process of water movement from the soil into the root hair is mainly by
+A) Active transport
+B) Osmosis
+C) Diffusion
+D) Transpiration pull
+ANSWER: B
+EXPLANATION: Root hairs have a higher solute concentration than the surrounding soil solution, so water enters by osmosis.
+
+Q: Which of the following is an example of a mutualistic relationship?
+A) Tapeworm in the intestine of man
+B) Lichen (alga and fungus)
+C) Mosquito and man
+D) Lion and antelope
+ANSWER: B
+EXPLANATION: In a lichen the alga provides food by photosynthesis while the fungus provides protection and absorbs water and minerals; both partners benefit.
+
+Q: The chromosome number of a normal human somatic cell is
+A) 23
+B) 46
+C) 22
+D) 44
+ANSWER: B
+EXPLANATION: Human somatic cells are diploid and contain 46 chromosomes (23 pairs).
+
+Q: Which of the following is a method of asexual reproduction in plants?
+A) Pollination
+B) Fertilisation
+C) Vegetative propagation
+D) Seed germination
+ANSWER: C
+EXPLANATION: Vegetative propagation (e.g., by runners, tubers, cuttings) produces new individuals without the involvement of gametes or seeds.
+
+Q: The main function of the large intestine is
+A) Digestion of proteins
+B) Absorption of water and mineral salts
+C) Production of bile
+D) Storage of glycogen
+ANSWER: B
+EXPLANATION: The large intestine absorbs water and electrolytes from the remaining indigestible food material, forming solid faeces.
+
+Q: Which of the following is a density-dependent factor affecting population size?
+A) Temperature
+B) Rainfall
+C) Competition for food
+D) Flood
+ANSWER: C
+EXPLANATION: Density-dependent factors (competition, predation, disease) become more intense as population density increases. Temperature, rainfall and floods are density-independent.
+
+Q: The enzyme that digests starch in the mouth is
+A) Pepsin
+B) Amylase
+C) Lipase
+D) Trypsin
+ANSWER: B
+EXPLANATION: Salivary amylase (ptyalin) begins the hydrolysis of starch into maltose in the mouth.

@@ -1,0 +1,321 @@
+Bulk Questions Format - JAMB Chemistry 2024 Complex Questions
+
+Q: The general molecular formula CₙH₂ₙ₋₂ represents that of an
+A) Alkyne
+B) Alkene
+C) Alkane
+D) Alkanal
+ANSWER: A
+EXPLANATION: Alkynes contain a carbon-carbon triple bond and therefore have the general formula CₙH₂ₙ₋₂. Alkenes are CₙH₂ₙ, alkanes CₙH₂ₙ₊₂ and alkanals (aldehydes) CₙH₂ₙO.
+
+Q: What accounts for the low melting and boiling points of covalent molecules?
+A) They have weak intermolecular forces
+B) They are three-dimensional structures
+C) They have definite shapes
+D) They possess shared electron pairs
+ANSWER: A
+EXPLANATION: Covalent molecular substances are held together by weak van der Waals forces or hydrogen bonds. These weak intermolecular forces require little energy to overcome, resulting in low melting and boiling points.
+
+Q: After breathing into a test tube containing acidified K₂Cr₂O₇ a man notices the colour change from orange to green. This suggests the presence of
+A) Alkanone
+B) Alkanal
+C) Alkanol
+D) Alkanoic acid
+ANSWER: B
+EXPLANATION: Acidified potassium dichromate is an oxidising agent that turns from orange to green when reduced by an aldehyde (alkanal). Ketones (alkanones) do not reduce it under normal conditions.
+
+Q: Hydrochloric acid is not suitable for the preparation of ethanoic acid because it
+A) Is too acidic
+B) Is too volatile
+C) Can attack cork and rubber used as containers
+D) Turns blue litmus red
+ANSWER: B
+EXPLANATION: HCl is highly volatile and would escape during the reaction or distillation, making it unsuitable for preparing the less volatile ethanoic acid.
+
+Q: A radioactive element of mass 1 g has a half-life of 2 minutes. What fraction of the substance would have disintegrated after 10 minutes?
+A) 1/32
+B) 31/32
+C) 1/16
+D) 15/16
+ANSWER: B
+EXPLANATION: 10 minutes corresponds to 5 half-lives. Remaining fraction = (1/2)⁵ = 1/32. Therefore the fraction that has disintegrated = 1 – 1/32 = 31/32.
+
+Q: Which of the following oxides of nitrogen is brown and dimerises on cooling?
+A) Nitrogen(I) oxide
+B) Nitrogen(II) oxide
+C) Nitrogen(IV) oxide
+D) Dinitrogen tetraoxide
+ANSWER: C
+EXPLANATION: Nitrogen(IV) oxide (NO₂) is a brown gas that dimerises to colourless N₂O₄ on cooling.
+
+Q: Which of the following equations represents a redox reaction?
+A) CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂
+B) MgCl₂ + H₂SO₄ → MgSO₄ + 2HCl
+C) H₂ + Cl₂ → 2HCl
+D) NaOH + HCl → NaCl + H₂O
+ANSWER: C
+EXPLANATION: In the reaction between hydrogen and chlorine, hydrogen is oxidised (loses electrons) and chlorine is reduced (gains electrons). The others are acid-base or double-decomposition reactions.
+
+Q: 20 cm³ of a gas at s.t.p. weighs 0.04 g. The molar mass of the gas is (molar volume = 22.4 dm³)
+A) 22.4 g mol⁻¹
+B) 44.8 g mol⁻¹
+C) 11.2 g mol⁻¹
+D) 56.0 g mol⁻¹
+ANSWER: B
+EXPLANATION: Number of moles in 20 cm³ = 20 / 22400 = 1/1120. Molar mass = mass / moles = 0.04 × 1120 = 44.8 g mol⁻¹.
+
+Q: The hybridisation of the carbon atom in ethyne (C₂H₂) is
+A) sp
+B) sp³
+C) sp²d
+D) sp²
+ANSWER: A
+EXPLANATION: Each carbon in ethyne forms two sigma bonds and two pi bonds, requiring two hybrid orbitals → sp hybridisation.
+
+Q: Which functional group is present in an alkanone?
+A) –CHO
+B) >C=O
+C) –COOH
+D) –COOR
+ANSWER: B
+EXPLANATION: Alkanones (ketones) contain the carbonyl group >C=O bonded to two alkyl groups. Aldehydes have –CHO, carboxylic acids –COOH and esters –COOR.
+
+Q: The percentage of carbon(IV) oxide in clean dry air is approximately
+A) 0.01 %
+B) 0.02 %
+C) 0.03 %
+D) 0.05 %
+ANSWER: C
+EXPLANATION: The accepted average composition of dry air contains about 0.03 % carbon dioxide by volume.
+
+Q: Which of the following is a physical change?
+A) Exposing sodium metal to air
+B) Boiling of water
+C) Dissolving calcium metal in water
+D) Burning of kerosene
+ANSWER: B
+EXPLANATION: Boiling of water is a change of state that can be reversed by condensation; no new substance is formed. The others involve chemical reactions.
+
+Q: Boyle’s law can be expressed mathematically as
+A) PV = k
+B) PV = RT
+C) V = kT
+D) V/T = k
+ANSWER: A
+EXPLANATION: Boyle’s law states that at constant temperature the product of pressure and volume of a fixed mass of gas is constant (PV = k).
+
+Q: What is the vapour density of 560 cm³ of a gas that weighs 0.4 g at s.t.p.? (Molar volume = 22.4 dm³)
+A) 6.0
+B) 8.0
+C) 16.0
+D) 32.0
+ANSWER: B
+EXPLANATION: Number of moles = 560 / 22400 = 0.025. Molar mass = 0.4 / 0.025 = 16 g mol⁻¹. Vapour density = molar mass / 2 = 8.
+
+Q: When the subsidiary quantum number l equals 1, the shape of the orbital is
+A) Spherical
+B) Dumb-bell
+C) Flat
+D) Double dumb-bell
+ANSWER: B
+EXPLANATION: l = 0 → s (spherical), l = 1 → p (dumb-bell), l = 2 → d (double dumb-bell or clover-leaf).
+
+Q: The bond between ammonia and a proton to form ammonium ion is
+A) Covalent
+B) Dative
+C) Ionic
+D) Metallic
+ANSWER: B
+EXPLANATION: The nitrogen atom in ammonia donates its lone pair to the proton, forming a coordinate (dative) covalent bond.
+
+Q: Which of the following is an isotope of hydrogen?
+A) Deuterium
+B) Protium
+C) Tritium
+D) All of the above
+ANSWER: D
+EXPLANATION: Protium (¹H), deuterium (²H) and tritium (³H) are the three isotopes of hydrogen.
+
+Q: Acidified potassium dichromate changes from orange to green when it reacts with
+A) An alkanol under mild conditions
+B) An alkanal
+C) An alkanone
+D) An alkane
+ANSWER: B
+EXPLANATION: Only aldehydes (alkanals) readily reduce acidified dichromate, turning the solution from orange (Cr⁶⁺) to green (Cr³⁺).
+
+Q: Producer gas is a mixture of
+A) Nitrogen and carbon(II) oxide
+B) Nitrogen and hydrogen
+C) Hydrogen and carbon(II) oxide
+D) Carbon(II) oxide and carbon(IV) oxide
+ANSWER: A
+EXPLANATION: Producer gas is obtained by passing air over hot coke and consists mainly of nitrogen and carbon monoxide.
+
+Q: Concentrated tetraoxosulphate(VI) acid is used as a
+A) Coating agent
+B) Dehydrating agent
+C) Refrigerant
+D) Drying agent only for basic gases
+ANSWER: B
+EXPLANATION: Concentrated H₂SO₄ is a powerful dehydrating agent because of its strong affinity for water.
+
+Q: The IUPAC name of CH₃CH₂COOH is
+A) Ethanoic acid
+B) Propanoic acid
+C) Butanoic acid
+D) Methanoic acid
+ANSWER: B
+EXPLANATION: The chain contains three carbon atoms including the carboxyl carbon, so the name is propanoic acid.
+
+Q: How many moles of electrons are required to deposit 1 mole of aluminium from molten Al₂O₃?
+A) 1
+B) 2
+C) 3
+D) 6
+ANSWER: C
+EXPLANATION: The half-equation is Al³⁺ + 3e⁻ → Al. Therefore 3 moles of electrons are needed per mole of aluminium.
+
+Q: The pH of a 0.01 M solution of a strong monobasic acid is
+A) 1
+B) 2
+C) 3
+D) 4
+ANSWER: B
+EXPLANATION: For a strong acid [H⁺] = 0.01 M = 10⁻² M, so pH = 2.
+
+Q: Which of the following salts will give a white precipitate with BaCl₂ solution that is insoluble in dilute HCl?
+A) Na₂SO₄
+B) Na₂CO₃
+C) NaCl
+D) NaNO₃
+ANSWER: A
+EXPLANATION: BaSO₄ is white and insoluble in dilute acid, while BaCO₃ dissolves with evolution of CO₂.
+
+Q: The number of unpaired electrons in an atom of iron (atomic number 26) is
+A) 2
+B) 3
+C) 4
+D) 6
+ANSWER: C
+EXPLANATION: The electron configuration of Fe is [Ar] 4s² 3d⁶. The 3d⁶ arrangement has four unpaired electrons.
+
+Q: An element X forms an oxide XO₂. The oxidation number of X is
+A) +2
+B) +4
+C) –2
+D) +6
+ANSWER: B
+EXPLANATION: Oxygen has oxidation number –2, so in XO₂ the total oxidation number of oxygen is –4. Therefore X must be +4 to make the compound neutral.
+
+Q: The process by which a solid changes directly to a gas is called
+A) Evaporation
+B) Sublimation
+C) Condensation
+D) Fusion
+ANSWER: B
+EXPLANATION: Sublimation is the direct change from solid to gas without passing through the liquid state.
+
+Q: Which of the following is a secondary alkanol?
+A) CH₃OH
+B) CH₃CH₂OH
+C) (CH₃)₂CHOH
+D) (CH₃)₃COH
+ANSWER: C
+EXPLANATION: In a secondary alkanol the carbon atom attached to the –OH group is itself attached to two other carbon atoms. (CH₃)₂CHOH satisfies this condition.
+
+Q: The equilibrium constant expression for the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g) is
+A) [NH₃]² / ([N₂][H₂]³)
+B) [N₂][H₂]³ / [NH₃]²
+C) [NH₃] / ([N₂][H₂])
+D) [N₂][H₂] / [NH₃]
+ANSWER: A
+EXPLANATION: Kc is the product of the concentrations of the products raised to their stoichiometric coefficients divided by the corresponding product for the reactants.
+
+Q: A catalyst increases the rate of a reaction by
+A) Increasing the activation energy
+B) Decreasing the activation energy
+C) Increasing the enthalpy change
+D) Decreasing the enthalpy change
+ANSWER: B
+EXPLANATION: A catalyst provides an alternative pathway with lower activation energy, thereby increasing the rate without altering the overall enthalpy change.
+
+Q: The relative molecular mass of a gas that has a vapour density of 32 is
+A) 16
+B) 32
+C) 64
+D) 128
+ANSWER: C
+EXPLANATION: Relative molecular mass = 2 × vapour density = 2 × 32 = 64.
+
+Q: Which of the following compounds exhibits geometric isomerism?
+A) CH₂=CH₂
+B) CH₃CH=CHCH₃
+C) CH₃CH₂CH₃
+D) CH₃C≡CCH₃
+ANSWER: B
+EXPLANATION: Geometric (cis-trans) isomerism occurs in alkenes that have two different groups attached to each carbon of the double bond. But-2-ene (CH₃CH=CHCH₃) meets this requirement.
+
+Q: The Faraday constant is the charge of
+A) One mole of electrons
+B) One electron
+C) One mole of protons
+D) One mole of neutrons
+ANSWER: A
+EXPLANATION: One Faraday (≈ 96 500 C) is the charge carried by one mole of electrons.
+
+Q: Hard water can be softened by
+A) Adding sodium carbonate
+B) Adding sodium chloride
+C) Boiling only temporary hardness
+D) Both A and C
+ANSWER: D
+EXPLANATION: Temporary hardness is removed by boiling; permanent hardness is removed by addition of sodium carbonate (washing soda).
+
+Q: The shape of the ammonia molecule is
+A) Linear
+B) Trigonal planar
+C) Tetrahedral
+D) Trigonal pyramidal
+ANSWER: D
+EXPLANATION: Nitrogen in ammonia has three bonding pairs and one lone pair, giving a trigonal pyramidal shape.
+
+Q: Which of the following is an endothermic process?
+A) Combustion of methane
+B) Neutralisation of strong acid by strong base
+C) Dissolution of ammonium nitrate in water
+D) Formation of water from its elements
+ANSWER: C
+EXPLANATION: Dissolving ammonium nitrate absorbs heat from the surroundings and is therefore endothermic.
+
+Q: The number of moles of oxygen required to burn completely 1 mole of propane (C₃H₈) is
+A) 3
+B) 4
+C) 5
+D) 6
+ANSWER: C
+EXPLANATION: The balanced equation is C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Therefore 5 moles of oxygen are needed.
+
+Q: An aqueous solution of sodium chloride is electrolysed using platinum electrodes. The product at the cathode is
+A) Chlorine gas
+B) Hydrogen gas
+C) Sodium metal
+D) Oxygen gas
+ANSWER: B
+EXPLANATION: In aqueous NaCl, water is preferentially reduced at the cathode, producing hydrogen gas: 2H₂O + 2e⁻ → H₂ + 2OH⁻.
+
+Q: The functional group of an alkanoic acid is
+A) –CHO
+B) –COOH
+C) –OH
+D) –COOR
+ANSWER: B
+EXPLANATION: Alkanoic acids (carboxylic acids) contain the carboxyl group –COOH.
+
+Q: The mass of 6.02 × 10²³ molecules of CO₂ is
+A) 22 g
+B) 32 g
+C) 44 g
+D) 28 g
+ANSWER: C
+EXPLANATION: 6.02 × 10²³ molecules is one mole. The molar mass of CO₂ is 44 g mol⁻¹, so the mass is 44 g.

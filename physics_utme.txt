@@ -1,0 +1,79 @@
+Q: A stone is thrown vertically upward with an initial velocity of 20 m/s. Taking g = 10 m/s², how long does it take to return to its point of projection?
+A) 1 s
+B) 2 s
+C) 4 s
+D) 5 s
+ANSWER: C
+EXPLANATION: Time to reach max height = u/g = 20/10 = 2 s. Total time up and down = 2 × 2 = 4 s.
+
+Q: A ray of light travelling in glass (refractive index 1.5) strikes the glass-air boundary at an angle greater than the critical angle. What happens to the ray?
+A) It refracts into air
+B) It undergoes total internal reflection
+C) It is absorbed
+D) It splits into two rays
+ANSWER: B
+EXPLANATION: When the angle of incidence exceeds the critical angle in a denser medium, no light escapes into the rarer medium; the ray is entirely reflected back (total internal reflection).
+
+Q: Two resistors of 4 Ω and 6 Ω are connected in parallel. What is the effective resistance?
+A) 10 Ω
+B) 2.4 Ω
+C) 1.5 Ω
+D) 24 Ω
+ANSWER: B
+EXPLANATION: 1/R = 1/4 + 1/6 = 3/12 + 2/12 = 5/12, so R = 12/5 = 2.4 Ω.
+
+Q: A wire of length L and cross-sectional area A has a Young's modulus E. If the length is doubled and area halved, how does the extension for the same applied force change?
+A) Doubles
+B) Quadruples
+C) Halves
+D) Remains the same
+ANSWER: B
+EXPLANATION: Extension e = FL/(AE). Doubling L doubles e; halving A doubles e again, so e increases fourfold overall.
+
+Q: A body of mass 2 kg moving at 3 m/s collides perfectly inelastically with a stationary body of mass 4 kg. What is their common velocity after collision?
+A) 0.5 m/s
+B) 1.0 m/s
+C) 1.5 m/s
+D) 2.0 m/s
+ANSWER: B
+EXPLANATION: By conservation of momentum: (2×3) + (4×0) = (2+4)v → 6 = 6v → v = 1.0 m/s.
+
+Q: The half-life of a radioactive substance is 20 minutes. What fraction of the original sample remains after 1 hour?
+A) 1/2
+B) 1/4
+C) 1/8
+D) 1/16
+ANSWER: C
+EXPLANATION: 1 hour = 3 half-lives (60/20). Remaining fraction = (1/2)^3 = 1/8.
+
+Q: A concave mirror of focal length 15 cm forms a real image at 30 cm from the mirror. What is the object distance?
+A) 10 cm
+B) 15 cm
+C) 30 cm
+D) 45 cm
+ANSWER: C
+EXPLANATION: Using 1/f = 1/u + 1/v: 1/15 = 1/u + 1/30 → 1/u = 1/15 - 1/30 = 1/30, so u = 30 cm.
+
+Q: Which of the following correctly relates the wavelength (λ), frequency (f), and velocity (v) of a wave?
+A) v = λ/f
+B) v = λf
+C) v = f/λ
+D) λ = vf
+ANSWER: B
+EXPLANATION: The wave equation states velocity equals wavelength multiplied by frequency: v = λf.
+
+Q: A transformer has 200 turns on the primary coil and 50 turns on the secondary. If the primary voltage is 240 V, what is the secondary voltage?
+A) 960 V
+B) 480 V
+C) 60 V
+D) 30 V
+ANSWER: C
+EXPLANATION: Vs/Vp = Ns/Np → Vs = 240 × (50/200) = 240 × 0.25 = 60 V.
+
+Q: An object of weight 50 N is completely immersed in water and experiences an upthrust of 20 N. What is its apparent weight in water?
+A) 20 N
+B) 30 N
+C) 50 N
+D) 70 N
+ANSWER: B
+EXPLANATION: Apparent weight = actual weight − upthrust = 50 − 20 = 30 N.

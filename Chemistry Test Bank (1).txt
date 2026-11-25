@@ -1,0 +1,338 @@
+Bulk Questions Format
+
+Q: The transition elements in the periodic table form complex molecules or ions because they
+A) have vacant orbitals
+B) are paramagnetic
+C) are metals
+D) are ligands
+ANSWER: A
+EXPLANATION: Transition metals have vacant, low-energy d-orbitals (and often s and p orbitals close in energy). These accept lone pairs of electrons from ligands ($\text{H}_2\text{O}$, $\text{NH}_3$, $\text{Cl}^-$, $\text{CN}^-$) to form dative (coordinate) bonds, giving complex ions such as $[\text{Cu}(\text{NH}_3)_4]^{2+}$. Their small size and high charge density also help.
+
+Q: In the extraction of aluminium from bauxite, the silicon impurities present are removed by
+A) filtration
+B) precipitation
+C) coagulation
+D) crystallization
+ANSWER: A
+EXPLANATION: In the Bayer process, bauxite is digested in hot concentrated $\text{NaOH}$. $\text{Al}_2\text{O}_3$ dissolves as sodium aluminate, while $\text{Fe}_2\text{O}_3$, $\text{TiO}_2$ and the silicon impurities (as insoluble sodium aluminosilicate) stay solid. They are removed by filtration as "red mud". $\text{Al}(\text{OH})_3$ is then precipitated from the filtrate and heated to give pure $\text{Al}_2\text{O}_3$.
+
+Q: An aqueous solution of $\text{NaHCO}_3$ is
+A) acidic
+B) alkaline
+C) neutral
+D) amphoteric
+ANSWER: B
+EXPLANATION: $\text{NaHCO}_3$ is the salt of a strong base ($\text{NaOH}$) and a weak acid ($\text{H}_2\text{CO}_3$). The $\text{HCO}_3^-$ ion hydrolyses: $\text{HCO}_3^- + \text{H}_2\text{O} \rightleftharpoons \text{H}_2\text{CO}_3 + \text{OH}^-$. The excess $\text{OH}^-$ makes the solution weakly alkaline ($\text{pH} \approx 8.3$).
+
+Q: How many lone pairs of electrons are present in $\text{HF}$?
+A) 0
+B) 1
+C) 2
+D) 3
+ANSWER: D
+EXPLANATION: Fluorine has 7 valence electrons ($2s^2 2p^5$). One electron is shared with hydrogen in the $\text{H}-\text{F}$ covalent bond, leaving 6 unshared valence electrons on fluorine. These 6 electrons form 3 lone pairs. Hydrogen contributes its single electron to the bond and has no lone pairs.
+
+Q: A solution X, when added to another solution containing chloride ions, gives a white precipitate which is soluble on boiling. Solution X contains
+A) $\text{Al}^{3+}$ ions
+B) $\text{Zn}^{2+}$ ions
+C) $\text{Cu}^{2+}$ ions
+D) $\text{Pb}^{2+}$ ions
+ANSWER: D
+EXPLANATION: $\text{Pb}^{2+} + 2\text{Cl}^- \rightarrow \text{PbCl}_2(s)$, a white precipitate that dissolves in hot water and reappears as glistening crystals on cooling. Chlorides of $\text{Al}^{3+}$, $\text{Zn}^{2+}$ and $\text{Cu}^{2+}$ are soluble and give no precipitate.
+
+Q: If the $\text{pH}$ of a solution changes from 3 to 5, the concentration of $\text{H}^+$ ions:
+A) decreases by 2 times
+B) decreases by 100 times
+C) increases by 100 times
+D) remains constant
+ANSWER: B
+EXPLANATION: $[\text{H}^+] = 10^{-\text{pH}}$. At $\text{pH}\ 3$, $[\text{H}^+] = 10^{-3}\ \text{mol dm}^{-3}$; at $\text{pH}\ 5$, $[\text{H}^+] = 10^{-5}\ \text{mol dm}^{-3}$. The ratio is $10^{-3} / 10^{-5} = 100$, so the concentration decreases by a factor of 100. Each unit change on the $\text{pH}$ scale represents a 10-fold change in hydrogen ion concentration.
+
+Q: Which of the following oxides remains unchanged when heated in hydrogen gas?
+A) $\text{CuO}$
+B) $\text{ZnO}$
+C) $\text{PbO}$
+D) $\text{Fe}_2\text{O}_3$
+ANSWER: B
+EXPLANATION: Hydrogen can reduce the oxides of metals lower than it in the reactivity series or moderately unreactive metals ($\text{CuO} + \text{H}_2 \rightarrow \text{Cu} + \text{H}_2\text{O}$, $\text{PbO} + \text{H}_2 \rightarrow \text{Pb} + \text{H}_2\text{O}$, $\text{Fe}_2\text{O}_3 + 3\text{H}_2 \rightarrow 2\text{Fe} + 3\text{H}_2\text{O}$). Zinc is more reactive than hydrogen and holds oxygen too strongly to be reduced by $\text{H}_2$ gas; $\text{ZnO}$ requires heating with carbon at high temperature for reduction.
+
+Q: What is the oxidation number of nitrogen in $\text{HNO}_2$?
+A) +3
+B) +2
+C) +1
+D) 0
+ANSWER: A
+EXPLANATION: Hydrogen has an oxidation number of $+1$ and each oxygen has $-2$ (total $-4$). Since $\text{HNO}_2$ is a neutral molecule, the sum of oxidation numbers is zero: $(+1) + N + (-4) = 0 \implies N = +3$.
+
+Q: Which of the following bond types exists between different molecules of ethanoic acid?
+A) Dative bond
+B) Hydrogen bond
+C) Covalent bond
+D) Ionic bond
+ANSWER: B
+EXPLANATION: The question refers to intermolecular forces. The hydrogen atom of the $-\text{OH}$ group in one ethanoic acid molecule is strongly attracted to the oxygen atom of the $\text{C}=\text{O}$ group of an adjacent molecule, forming hydrogen bonds that hold ethanoic acid molecules together as dimers.
+
+Q: A current of $10\ \text{A}$ was passed for $1\ \text{hr}$ through a solution of copper(II) sulphate between copper electrodes. Which of the following statements is correct? [$1\ \text{Faraday} = 96,500\ \text{C}$]
+A) $0.186\ \text{mol}$ of copper is dissolved from the cathode
+B) $0.372\ \text{mol}$ of copper is deposited at the anode
+C) The original $\text{Cu}^{2+}$ ion concentration of the solution remains unchanged
+D) The original $\text{Cu}^{2+}$ ion concentration of the solution decreases
+ANSWER: C
+EXPLANATION: Total charge $Q = I \times t = 10 \times 3600 = 36,000\ \text{C}$. Faradays passed $= 36,000 / 96,500 = 0.373\ \text{F}$. Copper dissolves at the anode ($\text{Cu} \rightarrow \text{Cu}^{2+} + 2e^-$) and deposits at the cathode ($\text{Cu}^{2+} + 2e^- \rightarrow \text{Cu}$). Moles of $\text{Cu}$ transferred $= 0.373 / 2 = 0.186\ \text{mol}$. Because copper dissolves from the anode at the exact same rate as it deposits onto the cathode, the concentration of $\text{Cu}^{2+}$ ions in the electrolyte stays constant.
+
+Q: $10.0\ \text{dm}^3$ of air containing $\text{H}_2\text{S}$ as an impurity was passed through a solution of $\text{Pb}(\text{NO}_3)_2$ until all the $\text{H}_2\text{S}$ had reacted. The precipitate of $\text{PbS}$ was found to weigh $5.02\ \text{g}$ according to the equation:
+$$\text{Pb}(\text{NO}_3)_2 + \text{H}_2\text{S} \rightarrow \text{PbS} + 2\text{HNO}_3$$
+What is the percentage by volume of $\text{H}_2\text{S}$ in the air? [$\text{Molar gas volume at s.t.p.} = 22.4\ \text{dm}^3\ \text{mol}^{-1}$; $\text{Pb} = 207, \text{S} = 32$]
+A) $0.47\%$
+B) $4.70\%$
+C) $5.02\%$
+D) $47.0\%$
+ANSWER: A
+EXPLANATION: Molar mass of $\text{PbS} = 207 + 32 = 239\ \text{g mol}^{-1}$. Moles of $\text{PbS} = 5.02 / 239 = 0.0210\ \text{mol}$. From the stoichiometry, $1\ \text{mol}$ of $\text{PbS}$ corresponds to $1\ \text{mol}$ of $\text{H}_2\text{S}$. Volume of $\text{H}_2\text{S} = 0.0210 \times 22.4 = 0.4704\ \text{dm}^3$. Percentage by volume $= (0.4704 / 10.0) \times 100 = 4.70\%$.
+
+Q: An element with atomic number 38 belongs to Period
+A) 2
+B) 3
+C) 4
+D) 5
+ANSWER: D
+EXPLANATION: The electronic configuration of element 38 (Strontium, $\text{Sr}$) is $1s^2 2s^2 2p^6 3s^2 3p^6 3d^{10} 4s^2 4p^6 5s^2$ or $[\text{Kr}]5s^2$. The highest occupied principal energy level is $n = 5$, placing the element in Period 5 of the periodic table.
+
+Q: Diamond is used in abrasives and cutting tools because of its high degree of
+A) melting point
+B) lustre
+C) hardness
+D) density
+ANSWER: C
+EXPLANATION: In diamond, each carbon atom is covalently bonded to four other carbon atoms in a rigid, three-dimensional tetrahedral network. This strong covalent framework gives diamond its extreme hardness, making it ideal for abrasive and cutting tools.
+
+Q: The constituents of traditional gunpowder are sulphur, charcoal and
+A) phosphorus trichloride
+B) potassium trioxochlorate(V)
+C) potassium trioxonitrate(V)
+D) phosphorus trisulphide
+ANSWER: C
+EXPLANATION: Gunpowder (black powder) consists of potassium trioxonitrate(V) ($\text{KNO}_3$, saltpetre), charcoal (carbon), and sulphur. $\text{KNO}_3$ acts as the oxidizing agent during combustion.
+
+Q: Which petroleum fraction is collected over the boiling range of $40\ ^\circ\text{C}$ to $70\ ^\circ\text{C}$?
+A) Petroleum ether
+B) Kerosene
+C) Gas oil
+D) Lubricating oil
+ANSWER: A
+EXPLANATION: Standard petroleum distillation tables indicate that light hydrocarbons boiling between $40\ ^\circ\text{C}$ and $70\ ^\circ\text{C}$ constitute petroleum ether (or light naphtha). Gasoline/petrol boils over a higher range ($70\ ^\circ\text{C} - 200\ ^\circ\text{C}$), kerosene boils around $175\ ^\circ\text{C} - 250\ ^\circ\text{C}$, and gas oil boils above $250\ ^\circ\text{C}$.
+
+Q: The industrial process for converting ammonia to trioxonitrate(V) acid is the
+A) Sabatier process
+B) Ostwald process
+C) Contact process
+D) Haber process
+ANSWER: B
+EXPLANATION: The Ostwald process oxidizes ammonia ($\text{NH}_3$) over a platinum-rhodium catalyst at high temperature to form nitric oxide ($\text{NO}$), which is further oxidized to $\text{NO}_2$ and absorbed in water to yield trioxonitrate(V) acid ($\text{HNO}_3$). The Haber process produces ammonia, and the Contact process produces sulphuric acid.
+
+Q: The densities of two gases A and B are $0.25\ \text{g dm}^{-3}$ and $1.0\ \text{g dm}^{-3}$ respectively. What is the rate of diffusion of A relative to B?
+A) 1:2
+B) 2:1
+C) 1:3
+D) 3:1
+ANSWER: B
+EXPLANATION: By Graham's Law of Diffusion, $R_A / R_B = \sqrt{d_B / d_A} = \sqrt{1.0 / 0.25} = \sqrt{4} = 2$. Thus, gas A diffuses twice as fast as gas B, giving a ratio of 2:1.
+
+Q: Which of the following parameters decreases as steam condenses to water?
+A) Number of molecules
+B) Temperature of the system
+C) Activation energy
+D) Entropy of the system
+ANSWER: D
+EXPLANATION: Steam (gas) has higher molecular disorder than liquid water. Condensation organizes the molecules into a more structured liquid phase, leading to a decrease in the entropy ($\Delta S < 0$) of the system.
+
+Q: If the free energy change ($\Delta G$) of a reaction is $-899\ \text{J mol}^{-1}$ and the entropy change ($\Delta S$) is $+10\ \text{J K}^{-1}\text{mol}^{-1}$ at $25\ ^\circ\text{C}$, calculate the enthalpy change ($\Delta H$).
+A) $-2,081\ \text{J mol}^{-1}$
+B) $-6,490\ \text{J mol}^{-1}$
+C) $+6,490\ \text{J mol}^{-1}$
+D) $+2,081\ \text{J mol}^{-1}$
+ANSWER: D
+EXPLANATION: Temperature $T = 25 + 273.15 = 298.15\ \text{K}$. Using $\Delta G = \Delta H - T\Delta S$:
+$$-899 = \Delta H - (298.15 \times 10)$$
+$$-899 = \Delta H - 2981.5$$
+$$\Delta H = -899 + 2981.5 = +2082.5\ \text{J mol}^{-1} \approx +2081\ \text{J mol}^{-1}$$
+
+Q: The most suitable indicator for the titration between $\text{NaOH}(aq)$ and $\text{HCOOH}(aq)$ is
+A) bromocresol green
+B) methyl orange
+C) phenolphthalein
+D) methyl red
+ANSWER: C
+EXPLANATION: The titration of a weak acid ($\text{HCOOH}$) with a strong base ($\text{NaOH}$) produces a basic salt ($\text{HCOONa}$) at equivalence, yielding a $\text{pH} > 7$ (around 8–9). Phenolphthalein, which changes colour in the $\text{pH}$ range $8.3 - 10.0$, is the correct indicator.
+
+Q: Millikan's main contribution to atomic theory was the determination of the
+A) charge on an electron
+B) positive rays
+C) charge-to-mass ratio
+D) cathode rays
+ANSWER: A
+EXPLANATION: Robert Millikan performed the famous oil-drop experiment in 1909, which measured the elementary electric charge of an electron ($e = 1.602 \times 10^{-19}\ \text{C}$). J.J. Thomson determined the charge-to-mass ratio.
+
+Q: Chlorine gas reacts directly with heated metals to form their respective higher chlorides except in which of the following reactions?
+A) $\text{Cl}_2 + \text{Fe} \rightarrow \text{FeCl}_2$
+B) $3\text{Cl}_2 + 2\text{Al} \rightarrow 2\text{AlCl}_3$
+C) $2\text{Cl}_2 + \text{Sn} \rightarrow \text{SnCl}_4$
+D) $\text{Cl}_2 + 2\text{Na} \rightarrow 2\text{NaCl}$
+ANSWER: A
+EXPLANATION: Chlorine is a strong oxidizing agent and oxidizes iron directly to iron(III) chloride ($\text{FeCl}_3$), not iron(II) chloride ($\text{FeCl}_2$). The correct reaction is $3\text{Cl}_2 + 2\text{Fe} \rightarrow 2\text{FeCl}_3$. Reaction A is incorrect as written.
+
+Q: Which of the following compounds exhibit hydrogen bonding between their molecules?
+I. $\text{NH}_3$
+II. $\text{HF}$
+III. $\text{H}_2\text{O}$
+IV. $\text{CH}_4$
+A) I and II only
+B) I, II, and III only
+C) I and IV only
+D) I, II, III, and IV
+ANSWER: B
+EXPLANATION: Intermolecular hydrogen bonding occurs when hydrogen is directly attached to small, highly electronegative atoms ($\text{N}$, $\text{O}$, $\text{F}$). Therefore, $\text{NH}_3$, $\text{HF}$, and $\text{H}_2\text{O}$ form hydrogen bonds. $\text{CH}_4$ contains non-polar $\text{C}-\text{H}$ bonds and lacks hydrogen bonding.
+
+Q: Cancerous growths are treated by exposure to
+A) $\gamma$-rays
+B) $\beta$-rays
+C) $\alpha$-rays
+D) infrared rays
+ANSWER: A
+EXPLANATION: Gamma rays ($\gamma$-rays) are high-energy electromagnetic radiations with deep penetrating power. They are directed at targeted cancerous tissues in radiotherapy to destroy malignant cells.
+
+Q: Potassium vapour burns in a non-luminous Bunsen flame with a
+A) golden-yellow flame
+B) lilac flame
+C) blue flame
+D) brick-red flame
+ANSWER: B
+EXPLANATION: Flame tests produce characteristic emission colours for alkali metals. Potassium gives a lilac/violet flame, sodium gives golden-yellow, and calcium gives brick-red.
+
+Q: Which of the following elements undergoes a net mass increase when heated strongly in open air?
+A) Carbon
+B) Sulphur
+C) Magnesium
+D) Ethanol
+ANSWER: C
+EXPLANATION: When magnesium is heated in air, it reacts with oxygen to form solid magnesium oxide: $2\text{Mg}(s) + \text{O}_2(g) \rightarrow 2\text{MgO}(s)$. The mass of the solid product ($\text{MgO}$) is greater than the original mass of magnesium metal due to the added mass of oxygen. Carbon, sulphur, and ethanol produce gaseous products ($\text{CO}_2$, $\text{SO}_2$, $\text{H}_2\text{O}$) that escape into the atmosphere.
+
+Q: An oxide of formula $\text{XO}_2$ has a vapour density of 32. What is the atomic mass of element X?
+A) 32
+B) 20
+C) 16
+D) 14
+ANSWER: A
+EXPLANATION: Relative molecular mass $= 2 \times \text{vapour density} = 2 \times 32 = 64\ \text{g mol}^{-1}$. For $\text{XO}_2$: $X + 2(16) = 64 \implies X + 32 = 64 \implies X = 32$.
+
+Q: When ethene gas mixed with oxygen is passed over a silver catalyst at about $250\ ^\circ\text{C}$, the main product is
+A) ethanol
+B) ethane-1,2-diol
+C) epoxyethane
+D) ethanoic acid
+ANSWER: C
+EXPLANATION: The catalytic oxidation of ethene with air/oxygen over a silver catalyst at $250\ ^\circ\text{C} - 300\ ^\circ\text{C}$ yields epoxyethane (ethylene oxide): $2\text{C}_2\text{H}_4 + \text{O}_2 \xrightarrow{\text{Ag}} 2\text{C}_2\text{H}_4\text{O}$.
+
+Q: How many unpaired electrons are present in the cation $\text{X}^+$ where the atomic number of X is 16?
+A) 1
+B) 3
+C) 4
+D) 2
+ANSWER: B
+EXPLANATION: Neutral atom $X$ ($Z = 16$, Sulphur) has ground-state electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^4$. Removing one electron to form $\text{X}^+$ gives the configuration $1s^2 2s^2 2p^6 3s^2 3p^3$. According to Hund's rule, the 3 sub-shell electrons in $3p^3$ occupy separate $p$-orbitals with parallel spins ($3p_x^1 3p_y^1 3p_z^1$), giving 3 unpaired electrons.
+
+Q: Magnesium ($\text{Mg}$) has a smaller atomic radius than Calcium ($\text{Ca}$) because
+A) nuclear charge decreases across the period
+B) valence electrons in Mg occupy a higher principal energy level
+C) Mg has fewer electron shells than Ca
+D) metallic bonding is weaker in Ca
+ANSWER: C
+EXPLANATION: Magnesium ($Z = 12$) has 3 occupied energy shells ($2, 8, 2$), whereas calcium ($Z = 20$) has 4 occupied energy shells ($2, 8, 8, 2$). Atomic radius increases down a group due to the addition of principal electron shells. Thus, $\text{Mg}$ is smaller than $\text{Ca}$.
+
+Q: In the laboratory preparation of ethyne from calcium dicarbide, the gas is passed through aqueous $\text{CuSO}_4$ solution to remove
+A) hydrogen sulphide and phosphine
+B) carbon monoxide
+C) ammonia gas
+D) sulphur dioxide
+ANSWER: A
+EXPLANATION: Crude ethyne generated from calcium dicarbide ($\text{CaC}_2$) contains impurities such as phosphine ($\text{PH}_3$) and hydrogen sulphide ($\text{H}_2\text{S}$). Passing the gas through acidified copper(II) sulphate or acidified potassium dichromate solution absorbs these impurities.
+
+Q: Which of the following compounds is commonly used as a mild antiseptic in eyewashes and minor burns?
+A) Citric acid
+B) Acetic acid
+C) Boric acid
+D) Tartaric acid
+ANSWER: C
+EXPLANATION: Boric acid ($\text{H}_3\text{BO}_3$) is a weak, non-irritating acid with mild antiseptic and antifungal properties, widely used in dilute aqueous solutions as an eye lotion and mild skin antiseptic.
+
+Q: If $10.8\ \text{g}$ of silver is deposited in a silver coulometer connected in series with an acidulated water coulometer, what volume of oxygen gas (measured at s.t.p.) is liberated at the anode? [$\text{Ag} = 108$; $\text{Molar gas volume at s.t.p.} = 22.4\ \text{dm}^3\ \text{mol}^{-1}$]
+A) $5.60\ \text{dm}^3$
+B) $2.24\ \text{dm}^3$
+C) $1.12\ \text{dm}^3$
+D) $0.56\ \text{dm}^3$
+ANSWER: D
+EXPLANATION: Moles of $\text{Ag}$ deposited $= 10.8 / 108 = 0.10\ \text{mol}$. Cathode half-reaction: $\text{Ag}^+ + e^- \rightarrow \text{Ag}$. Thus, $0.10\ \text{mol}$ of electrons (or $0.10\ \text{F}$) passed through the circuit. Anode half-reaction for water electrolysis: $2\text{H}_2\text{O} \rightarrow \text{O}_2 + 4\text{H}^+ + 4e^-$. $4\ \text{moles}$ of electrons liberate $1\ \text{mol}$ of $\text{O}_2$. Moles of $\text{O}_2 = 0.10 / 4 = 0.025\ \text{mol}$. Volume at s.t.p. $= 0.025 \times 22.4 = 0.56\ \text{dm}^3$.
+
+Q: A sample of $6.02\ \text{g}$ of hydrated washing soda, $\text{Na}_2\text{CO}_3\cdot y\text{H}_2\text{O}$, was dissolved in water to make $500\ \text{cm}^3$ of solution. A $25\ \text{cm}^3$ portion of this solution required $32.10\ \text{cm}^3$ of $0.097\ \text{mol dm}^{-3}\ \text{HCl}$ for complete neutralization. Find the value of $y$. [$\text{Na} = 23, \text{H} = 1, \text{C} = 12, \text{O} = 16$]
+A) 6
+B) 9
+C) 5
+D) 10
+ANSWER: C
+EXPLANATION: Equation: $\text{Na}_2\text{CO}_3 + 2\text{HCl} \rightarrow 2\text{NaCl} + \text{H}_2\text{O} + \text{CO}_2$.
+Moles of $\text{HCl}$ used $= 0.097 \times (32.10 / 1000) = 0.0031137\ \text{mol}$.
+Moles of $\text{Na}_2\text{CO}_3$ in $25\ \text{cm}^3 = 0.0031137 / 2 = 0.0015568\ \text{mol}$.
+Moles of $\text{Na}_2\text{CO}_3$ in $500\ \text{cm}^3 = 0.0015568 \times (500 / 25) = 0.031137\ \text{mol}$.
+Molar mass of $\text{Na}_2\text{CO}_3\cdot y\text{H}_2\text{O} = 6.02 / 0.031137 = 193.34\ \text{g mol}^{-1}$.
+Formula mass: $106 + 18y = 193.34 \implies 18y = 87.34 \implies y \approx 4.85 \approx 5$.
+
+Q: Which of the following carbohydrate polymers consists entirely of unbranched, straight chains of $\beta$-1,4-glycosidic linkages?
+A) Starch
+B) Glycogen
+C) Cellulose
+D) Amylopectin
+ANSWER: C
+EXPLANATION: Cellulose is a linear polymer of D-glucose units connected by $\beta$-1,4-glycosidic bonds, forming unbranched chains. Starch (amylopectin) and glycogen contain branched $\alpha$-1,6 linkages.
+
+Q: Paper chromatography separates mixtures based primarily on differences in
+A) boiling point
+B) volatility
+C) relative solubility between stationary and mobile phases
+D) electrical charge
+ANSWER: C
+EXPLANATION: Paper chromatography relies on partition and adsorption phenomena. Components of a mixture separate according to their relative solubilities in the mobile phase (solvent) compared to their affinity for the stationary phase (water bound in paper fibers).
+
+Q: An advantage of ordinary soaps over synthetic detergents is that soaps
+A) remain soluble in hard water
+B) are biodegradable and do not cause persistent water pollution
+C) act effectively in strongly acidic solutions
+D) produce more lather in seawater
+ANSWER: B
+EXPLANATION: Soap molecules are sodium or potassium salts of natural fatty acids, which soil bacteria easily decompose (biodegradable). Synthetic detergents with branched hydrocarbon chains resist bacterial breakdown, causing persistent foam pollution in natural waterways.
+
+Q: The ester $\text{HCOOCH}_2\text{CH}_3$ is synthesized by the reaction between
+A) methanol and ethanoic acid
+B) ethanol and methanoic acid
+C) ethanol and ethanoic acid
+D) methanol and methanoic acid
+ANSWER: B
+EXPLANATION: $\text{HCOOCH}_2\text{CH}_3$ is ethyl methanoate. Esterification combines an alcohol and a carboxylic acid: methanoic acid ($\text{HCOOH}$) provides the acyl part ($\text{HCO}-$) and ethanol ($\text{CH}_3\text{CH}_2\text{OH}$) provides the alkyl part ($-\text{OCH}_2\text{CH}_3$).
+
+Q: A synthetic polymer used in manufacturing transparent automobile rear light covers and rigid contact lenses is
+A) polyvinyl chloride
+B) Perspex (polymethyl methacrylate)
+C) polyethene
+D) polystyrene
+ANSWER: B
+EXPLANATION: Perspex (polymethyl methacrylate, PMMA) is a transparent, shatter-resistant thermoplastic used as a glass substitute in aircraft windows, automobile tail-light covers, and hard contact lenses.
+
+Q: What mass of bromine gas is produced at the anode during the electrolysis of molten lead(II) bromide ($\text{PbBr}_2$) when $10.35\ \text{g}$ of lead metal is deposited at the cathode? [$\text{Pb} = 207, \text{Br} = 80$]
+A) $4.00\ \text{g}$
+B) $7.00\ \text{g}$
+C) $4.50\ \text{g}$
+D) $8.00\ \text{g}$
+ANSWER: D
+EXPLANATION: Electrolysis equation: $\text{PbBr}_2(l) \rightarrow \text{Pb}(l) + \text{Br}_2(g)$.
+Moles of $\text{Pb} = 10.35 / 207 = 0.05\ \text{mol}$.
+From the 1:1 stoichiometry of $\text{Pb}$ and $\text{Br}_2$, moles of $\text{Br}_2$ produced $= 0.05\ \text{mol}$.
+Mass of $\text{Br}_2 = 0.05 \times (2 \times 80) = 0.05 \times 160 = 8.00\ \text{g}$.

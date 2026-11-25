@@ -1,0 +1,417 @@
+Q: A small quantity of solid ammonium chloride (NH4Cl) was heated gently in a test-tube, the solid gradually disappeared to produce a mixture of two gases. Later a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone
+A) distillation
+B) sublimation
+C) precipitation
+D) evaporation
+E) decomposition
+ANSWER: B
+EXPLANATION: NH4Cl decomposes on heating into NH3 and HCl gases, which recombine on the cooler part of the tube to reform solid NH4Cl - this solid-to-gas-to-solid change without melting is sublimation.
+
+Q: Which of the following changes is a physical change?
+A) adding iron fillings to aerated water
+B) adding sodium metal to water
+C) cooling a solution of iron(II) sulphate to obtain the hydrated salt
+D) cooling water to obtain ice
+E) burning domestic gas (Utilgas)
+ANSWER: D
+EXPLANATION: Cooling water to ice only changes its physical state; no new substance is formed, unlike the other options which involve chemical reactions.
+
+Q: By means of filtration one component can be obtained pure from an aqueous mixture of sodium chloride and
+A) potassium nitrate
+B) sand
+C) lead nitrate
+D) sugar (glucose)
+E) starch
+ANSWER: B
+EXPLANATION: Sand is insoluble in water, so it can be filtered out of a sodium chloride solution, leaving pure sand as residue and NaCl solution as filtrate.
+
+Q: Methanoic acid mixes with water in all proportions and has the same boiling point as water. Which method would you adopt to obtain pure water from sand and methanoic acid?
+A) fractional distillation
+B) filtration followed by distillation
+C) neutralization with sodium hydroxide followed by distillation
+D) neutralization with sodium hydroxide followed by filtration
+E) esterification with ethanol followed by distillation
+ANSWER: C
+EXPLANATION: Since methanoic acid and water share the same boiling point, distillation alone cannot separate them. Neutralizing the acid with NaOH converts it to non-volatile sodium methanoate, allowing pure water to be distilled off.
+
+Q: One of the following techniques can be used to show that chlorophyll pigments is a mixture of chemical compounds and not a single coloured compound
+A) crystallization
+B) hydrolysis
+C) sublimation
+D) filtration
+E) chromatography
+ANSWER: E
+EXPLANATION: Chromatography separates a mixture into its different coloured components based on their differing movement through a medium, revealing chlorophyll is made of several pigments.
+
+Q: In an attempt to remove sugar from a beaker containing sand and sugar, 2M ammonium chloride solution was accidentally added instead of water. Which method could be used to remove ammonium chloride from the mixture?
+A) fractional distillation
+B) crystallization
+C) filtration followed by sublimation
+D) evaporation followed by sublimation
+ANSWER: D
+EXPLANATION: After filtering out the sand, the sugar and dissolved ammonium chloride remain in solution. Evaporating the water gives a solid mixture, and heating sublimes off the ammonium chloride, leaving pure sugar.
+
+Q: Which of the following compounds and elements would sublime on exposure to the atmosphere?
+A) ice
+B) sulphur
+C) phosphorus
+D) iodine
+E) potassium iodide
+ANSWER: D
+EXPLANATION: Iodine is a classic example of a substance that sublimes, passing directly from solid to violet vapour at room conditions.
+
+Q: Which of the following processes does NOT lead to chemical change?
+A) stirring iron in sulphur (VI) acid
+B) stirring sodium carbonate in water
+C) stirring glucose in conc. sulphur (VI) acid
+D) mixing sulphur (VI) acid with potassium carbonate
+E) titrating an acid against a base
+ANSWER: B
+EXPLANATION: Stirring sodium carbonate in water is simple dissolution - no new substance is formed, so it is a physical change, unlike the others which involve reactions.
+
+Q: A mixture of common salt, ammonium chloride and barium sulphate can be best separated by
+A) addition of water followed by filtration then sublimation
+B) addition of water followed by sublimation then filtration
+C) sublimation followed by addition of water then filtration
+D) fractional distillation
+E) fractional crystallization
+ANSWER: C
+EXPLANATION: First sublime off the ammonium chloride. Then add water to dissolve the common salt (barium sulphate is insoluble), and filter to remove the barium sulphate, leaving a salt solution.
+
+Q: Sodium chloride may be obtained from brine by
+A) titration
+B) decantation
+C) distillation
+D) evaporation
+E) sublimation
+ANSWER: D
+EXPLANATION: Brine is a solution of salt in water; evaporating the water leaves the solid sodium chloride behind.
+
+Q: In an experiment, which of the following observations would suggest that a solid sample is a mixture?
+A) The solid can be ground to a fine powder
+B) The density of the solid is 2.25 g dm-3
+C) The solid begins to melt at 573K but is not completely melted until 648K
+D) The solid absorbs moisture from the atmosphere and turns into a liquid
+E) The solid melts at 300K
+ANSWER: C
+EXPLANATION: Pure substances melt sharply at a fixed temperature. Melting over a wide range (573K-648K) indicates the presence of impurities, i.e. a mixture.
+
+Q: A brand of ink containing cobalt(II), copper(II) and iron(II) ions can best be separated into its various components by
+A) fractional crystallization
+B) fractional distillation
+C) sublimation
+D) chromatography
+ANSWER: D
+EXPLANATION: Chromatography separates dissolved coloured ionic components based on differing rates of movement through a medium.
+
+Q: Which of the following substances is a mixture?
+A) Granulated sugar
+B) Sea-water
+C) Sodium chloride
+D) Iron fillings
+ANSWER: B
+EXPLANATION: Sea-water contains dissolved salts and other substances in water, making it a mixture, while the other options are pure substances.
+
+Q: In the experiment where ammonium chloride is heated, ammonium chloride crystals deposit on the walls of the tube as a result of
+A) Evaporation
+B) Recrystallization
+C) Sublimation
+D) Fractional precipitation
+ANSWER: C
+EXPLANATION: Heated ammonium chloride decomposes to gases which recombine and solidify directly on the cooler tube walls - a sublimation process.
+
+Q: Which of the following would support the conclusion that a solid sample is a mixture?
+A) The solid can be ground to a fine powder
+B) The density of the solid is 2.2gdm-3
+C) The solid has a melting range of 300°C to 375°C
+D) The solid absorbs moisture from the atmosphere
+ANSWER: C
+EXPLANATION: A melting range rather than a sharp melting point indicates impurities are present, confirming the sample is a mixture.
+
+Q: Which of the following is a physical change?
+A) The bubbling of chlorine into water
+B) The bubbling of chlorine into a jar containing hydrogen
+C) The dissolution of sodium chloride in water
+D) The passing of steam over heated iron
+ANSWER: C
+EXPLANATION: Dissolving NaCl in water does not form a new substance - the salt can be recovered unchanged by evaporation, so it is purely physical.
+
+Q: Changes in the physical states of a chemical substance T are shown in a scheme where Liquid T connects to Solid T (Z), Liquid T connects to Gaseous T (Y), and Solid T connects directly to Gaseous T (X). The letters X, Y and Z respectively represent
+A) sublimation, condensation and freezing
+B) sublimation, vaporization and solidification
+C) freezing, condensation and sublimation
+D) evaporation, liquefaction and solidification
+ANSWER: B
+EXPLANATION: X (solid to gas directly) is sublimation; Y (liquid to gas) is vaporization; Z (liquid to solid) is solidification.
+
+Q: Which of the following can be obtained by fractional distillation?
+A) Nitrogen from liquid air
+B) Sodium chloride from sea water
+C) Iodine from a solution of iodine in carbon tetrachloride
+D) Sulphur from a solution of sulphur in carbon disulphide
+ANSWER: A
+EXPLANATION: Liquid air is a mixture of liquefied gases (mainly nitrogen and oxygen) with different boiling points, which fractional distillation can separate.
+
+Q: Which of the following are mixtures? I. Petroleum II. Rubber latex III. Vulcanizer's solution IV. Carbon(II) sulphide
+A) I, ii and iii
+B) i, ii and iv
+C) i and ii only
+D) i and iv
+ANSWER: A
+EXPLANATION: Petroleum, rubber latex, and vulcanizer's solution are all mixtures of different substances, while carbon(II) sulphide (carbon monoxide combined with sulphur... actually a compound) has a fixed chemical composition.
+
+Q: Which of the following substances is not a homogeneous mixture?
+A) Filtered sea water
+B) Soft drink
+C) Flood water
+D) Writing ink
+ANSWER: C
+EXPLANATION: Flood water typically contains visible suspended solids and debris, making it heterogeneous, unlike the other uniformly mixed options.
+
+Q: The dissolution of common salt in water is a physical change because
+A) the salt can be obtained by crystallization
+B) the salt can be recovered by the evaporation of the water
+C) Heat is not generated during mixing
+D) The solution will not boil at 100°C
+ANSWER: B
+EXPLANATION: Since the original salt can be fully recovered unchanged by evaporating off the water, no new substance was formed, confirming it is a physical change.
+
+Q: Which of the following substances is a mixture?
+A) Sulphur powder
+B) Bronze
+C) Distilled water
+D) Ethanol
+ANSWER: B
+EXPLANATION: Bronze is an alloy (mixture) of copper and tin, while the other options are pure substances.
+
+Q: A mixture of sand, ammonium chloride and sodium chloride is best separated by
+A) sublimation followed by addition of water and filtration
+B) sublimation followed by addition of water and evaporation
+C) addition of water followed by filtration and sublimation
+D) addition of water followed by filtration, crystallization and sublimation
+ANSWER: C
+EXPLANATION: Adding water dissolves both ammonium chloride and sodium chloride, leaving sand undissolved to be filtered off; the ammonium chloride is then removed from the dried residue by sublimation, leaving sodium chloride.
+
+Q: A pure solid usually melts
+A) over a wide range of temperature
+B) over a narrow range of temperature
+C) at a lower temperature than the impure one
+D) at the same temperature as the impure one
+ANSWER: B
+EXPLANATION: Pure solids have a sharp, fixed melting point (a narrow range), while impure solids melt over a wider range at generally lower temperatures.
+
+Q: Chromatography is used to separate components of mixtures which differ in their rates of
+A) diffusion
+B) migration
+C) reaction
+D) sedimentation
+ANSWER: B
+EXPLANATION: Chromatography separates substances based on how fast (and how far) each component migrates through the stationary/mobile phases.
+
+Q: Which of the following is an example of a chemical change?
+A) Dissolution of salt in water
+B) Rusting of iron
+C) Melting of ice
+D) Separating a mixture by distillation
+ANSWER: B
+EXPLANATION: Rusting forms a new substance (iron(III) oxide) through reaction with oxygen and water, unlike the other purely physical changes.
+
+Q: The addition of water to calcium oxide leads to
+A) a physical change
+B) a chemical change
+C) the formation of a mixture
+D) an endothermic change
+ANSWER: B
+EXPLANATION: Calcium oxide reacts with water to form calcium hydroxide, a new compound, making this a chemical (and exothermic) change.
+
+Q: A mixture of iron and sulphur can be separated by dissolving the mixture in
+A) steam
+B) dilute hydrochloric acid
+C) dilute sodium hydroxide
+D) benzene
+ANSWER: B
+EXPLANATION: Dilute hydrochloric acid dissolves iron (forming iron(II) chloride and hydrogen gas) but does not react with or dissolve sulphur, allowing the sulphur to be filtered off.
+
+Q: Sieving is a technique used to separate mixtures containing solid particles of
+A) small sizes
+B) large sizes
+C) the same size
+D) different sizes
+ANSWER: D
+EXPLANATION: Sieving separates solid particles based on differing particle sizes, allowing smaller particles to pass through while larger ones are retained.
+
+Q: A mixture of iodine and sulphur crystals can be separated by treatment with
+A) water to filter off sulphur
+B) methanol to filter off iodine
+C) ethanolic acid to filter off sulphur
+D) carbon (IV) sulphide to filter off iodine
+ANSWER: B
+EXPLANATION: Iodine dissolves readily in methanol while sulphur remains largely undissolved, so the mixture can be filtered to separate insoluble sulphur from the iodine solution.
+
+Q: Pure solvents are obtained by
+A) distillation
+B) condensation
+C) extraction
+D) evaporation
+ANSWER: A
+EXPLANATION: Distillation vaporizes the solvent and then condenses it separately from dissolved solutes, giving a pure solvent.
+
+Q: A little quantity of trichloromethane (b.pt.60°C) was added to a large quantity of ethanol (b.pt.78°C). The most probable boiling point of the resultant mixture is from
+A) 69°-70°C
+B) 82°C-84°C
+C) 60°C-78°C
+D) 70°C-74°C
+ANSWER: C
+EXPLANATION: The boiling point of a mixture of two miscible liquids generally falls between the boiling points of its pure components, i.e. between 60°C and 78°C.
+
+Q: The chromatographic separation of ink is based on the ability of components to
+A) react with each other
+B) react with solvent
+C) dissolve in each other in the column
+D) move at different speeds in the column
+ANSWER: D
+EXPLANATION: Different ink components move at different speeds through the chromatography medium due to differing solubility and affinity, causing them to separate.
+
+Q: Which of the following is a physical change?
+A) Burning kerosine
+B) Freezing ice-cream
+C) Exposing white phosphorus to air
+D) Dissolving calcium in water
+ANSWER: B
+EXPLANATION: Freezing ice-cream only changes its state from liquid to solid; no new substance is formed.
+
+Q: When a solid substance disappears completely as a gas on heating, the substance is said to have undergone
+A) evaporation
+B) distillation
+C) crystallization
+D) sublimation
+ANSWER: D
+EXPLANATION: A solid turning directly into a gas on heating, without passing through a liquid state, is sublimation.
+
+Q: A chemical reaction is always associated with
+A) an increase in the composition of one of the substances
+B) a change in the volume of the reactants
+C) a change in the nature of the reactants
+D) the formation of new substances
+ANSWER: D
+EXPLANATION: The defining feature of a chemical reaction is that the reactants are converted into one or more new substances with different properties.
+
+Q: The property used in the industrial preparation of Nitrogen and Oxygen from air is
+A) rate of diffusion
+B) solubility
+C) density
+D) boiling point
+ANSWER: D
+EXPLANATION: Liquid air is fractionally distilled, exploiting the different boiling points of nitrogen and oxygen to separate them.
+
+Q: A heterogeneous mixture can be defined as any mixture
+A) whose composition is uniform
+B) whose composition is not uniform
+C) formed by solids and liquids
+D) of a solute and a solvent
+ANSWER: B
+EXPLANATION: A heterogeneous mixture has visibly distinct parts or phases, meaning its composition is not uniform throughout.
+
+Q: Sugar is separated from its impurities by
+A) distillation
+B) evaporation
+C) precipitation
+D) crystallization
+ANSWER: D
+EXPLANATION: Crystallization allows pure sugar crystals to form from a solution as it cools/evaporates slowly, leaving impurities behind in the remaining liquid (mother liquor).
+
+Q: The order in which a mixture of sand, ammonium chloride and sodium chloride can be separated is
+A) sublimation → dissolution → filtration → evaporation
+B) dissolution → dryness → filtration → evaporation
+C) filtration → sublimation → evaporation → dryness
+D) dissolution → filtration → sublimation → evaporation
+ANSWER: A
+EXPLANATION: First sublime off the ammonium chloride, then dissolve the remaining sand and sodium chloride in water, filter to remove sand, and evaporate the filtrate to recover sodium chloride.
+
+Q: A difference between chemical and physical changes is that in a chemical change
+A) heat is supplied
+B) a new substance is formed
+C) oxygen is consumed
+D) a reversible process occurs
+ANSWER: B
+EXPLANATION: Chemical changes always produce one or more new substances with different properties from the original reactants, unlike physical changes.
+
+Q: A mixture of petrol and water can be separated through
+A) the use of filter paper
+B) the use of a separating funnel
+C) centrifugation
+D) distillation
+ANSWER: B
+EXPLANATION: Petrol and water are immiscible liquids that form two separate layers, which can be separated using a separating funnel.
+
+Q: Chlorophyll obtained from green leaves of plants can be shown to be composed of more than one coloured component by the technique of
+A) crystallization
+B) hydrolysis
+C) chromatography
+D) sublimation
+ANSWER: C
+EXPLANATION: Chromatography separates the different pigments in chlorophyll extract into distinct coloured bands, revealing it is a mixture.
+
+Q: In countries where the temperature falls below 273K, salt is always sprinkled on icy roads in order to
+A) lower the melting point of ice
+B) increase the density of ice
+C) make the ice impure
+D) raise the melting point of ice
+ANSWER: A
+EXPLANATION: Salt lowers the freezing/melting point of ice (freezing point depression), causing the ice to melt even below its normal 273K melting point.
+
+Q: A mixture of sugar and sulphur can be separated by
+A) dissolution in water, evaporation & filtration
+B) filtration, evaporation & dissolution in water
+C) dissolution in water, filtration & evaporation
+D) evaporation, dissolution in water and filtration
+ANSWER: C
+EXPLANATION: Sugar dissolves in water while sulphur does not; filtering removes the undissolved sulphur, and evaporating the filtrate recovers the sugar.
+
+Q: Which of the following is a physical change?
+A) freezing ice cream
+B) dissolving calcium in water
+C) burning kerosene
+D) exposing white phosphorus to air
+ANSWER: A
+EXPLANATION: Freezing ice cream only changes its physical state; no new chemical substance is produced.
+
+Q: Which of the following is an example of a mixture?
+A) blood
+B) sand
+C) washing soda
+D) common salt
+ANSWER: A
+EXPLANATION: Blood is a mixture of plasma, cells, and dissolved substances, whereas the other options are relatively pure substances.
+
+Q: The principle of column chromatography is based on the ability of the constituents to
+A) dissolve in each other in the column
+B) react with the solvent in the column
+C) react with each other in the column
+D) move at different speeds in the column
+ANSWER: D
+EXPLANATION: Components separate because they travel at different speeds through the column, based on their differing affinities for the stationary and mobile phases.
+
+Q: Which of the following methods can be used to obtain pure water from a mixture of sand, water and methanoic acid?
+A) neutralization with NaOH followed by filtration
+B) neutralization with NaOH followed by distillation
+C) fractional distillation
+D) filtration followed by distillation
+ANSWER: D
+EXPLANATION: Filtering removes the insoluble sand first, then distillation separates the water from the dissolved methanoic acid, giving pure water.
+
+Q: The presence of an impurity in a substance will cause the melting point to
+A) be stable
+B) be zero
+C) reduce
+D) increase
+ANSWER: C
+EXPLANATION: Impurities generally lower (depress) the melting point of a substance and widen its melting range.
+
+Q: A mixture is different from a compound because
+A) constituents of a compound are chemically bound together while those of a mixture are not
+B) a mixture is always homogenous while a compound is not
+C) a mixture can be represented by a chemical formula while a compound cannot
+D) the properties of a compound are those of its individual constituents while those of a mixture differ from its constituents
+ANSWER: A
+EXPLANATION: In a compound, elements are chemically combined in fixed proportions, whereas in a mixture, the components are only physically combined and retain their individual properties.

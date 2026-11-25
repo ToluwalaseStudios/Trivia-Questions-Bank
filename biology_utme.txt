@@ -1,0 +1,79 @@
+Q: Which stage of meiosis is responsible for the separation of homologous chromosomes?
+A) Anaphase I
+B) Anaphase II
+C) Metaphase I
+D) Telophase II
+ANSWER: A
+EXPLANATION: Homologous chromosome pairs are pulled apart to opposite poles during Anaphase I; sister chromatids separate later, in Anaphase II.
+
+Q: In an ecosystem, the loss of energy at each trophic level is mainly due to:
+A) Photosynthesis
+B) Respiration and heat loss
+C) Decomposition only
+D) Excretion only
+ANSWER: B
+EXPLANATION: Most energy transferred between trophic levels is lost as heat through cellular respiration and metabolic activity, which is why only about 10% passes to the next level.
+
+Q: Which of the following is a correct pairing of a plant group with a characteristic feature?
+A) Bryophytes — possess true vascular tissue
+B) Pteridophytes — reproduce by seeds
+C) Bryophytes — lack true roots, stems, and leaves
+D) Angiosperms — lack flowers
+ANSWER: C
+EXPLANATION: Bryophytes (e.g., mosses) are non-vascular plants with rhizoids instead of true roots and lack true stems/leaves; pteridophytes reproduce by spores, not seeds.
+
+Q: During DNA replication, which enzyme is responsible for joining Okazaki fragments on the lagging strand?
+A) DNA polymerase
+B) Helicase
+C) DNA ligase
+D) Primase
+ANSWER: C
+EXPLANATION: DNA ligase seals the nicks between adjacent Okazaki fragments, joining them into a continuous lagging strand.
+
+Q: The mechanism by which water moves up a tall tree against gravity is best explained by:
+A) Root pressure alone
+B) Capillarity alone
+C) Cohesion-tension theory
+D) Osmosis in the xylem
+ANSWER: C
+EXPLANATION: Transpiration creates tension that pulls water upward, and cohesion between water molecules (hydrogen bonding) maintains a continuous unbroken column in the xylem — the cohesion-tension theory.
+
+Q: Which hormone is primarily responsible for stimulating the reabsorption of water in the kidney's collecting duct?
+A) Aldosterone
+B) Antidiuretic hormone (ADH)
+C) Insulin
+D) Thyroxine
+ANSWER: B
+EXPLANATION: ADH increases the permeability of the collecting duct to water, promoting its reabsorption back into the blood and concentrating the urine.
+
+Q: In a mangrove ecosystem, pneumatophores serve mainly to:
+A) Anchor the plant more firmly in mud
+B) Enable gaseous exchange in waterlogged, oxygen-poor soil
+C) Store excess water
+D) Facilitate pollination
+ANSWER: B
+EXPLANATION: Pneumatophores are specialized root extensions that grow upward above the waterlogged, anoxic mud, allowing oxygen uptake for root respiration.
+
+Q: A cross between a heterozygous tall pea plant (Tt) and a homozygous short plant (tt) would be expected to produce offspring in what phenotypic ratio?
+A) 3:1 tall to short
+B) 1:1 tall to short
+C) All tall
+D) All short
+ANSWER: B
+EXPLANATION: This is a test cross (Tt × tt). Gametes combine to give Tt and tt offspring in equal proportion, giving a 1:1 tall to short ratio.
+
+Q: Which of the following best distinguishes bacteria from viruses?
+A) Viruses have a cell wall; bacteria do not
+B) Bacteria are cellular and can reproduce independently; viruses are acellular and require a host cell
+C) Bacteria are smaller than viruses
+D) Viruses contain ribosomes; bacteria do not
+ANSWER: B
+EXPLANATION: Bacteria are living, single-celled organisms capable of independent reproduction, whereas viruses are non-cellular particles that can only replicate inside a host cell's machinery.
+
+Q: Which structure in a woody dicot stem is primarily responsible for secondary growth in girth?
+A) Epidermis
+B) Vascular cambium
+C) Pith
+D) Cortex
+ANSWER: B
+EXPLANATION: The vascular cambium is a lateral meristem that divides to produce secondary xylem and phloem, increasing the stem's girth over time.

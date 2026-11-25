@@ -1,0 +1,44 @@
+Q1.
+Question: What is the derivative of $f(x) = x^3 - 4x + 7$ with respect to $x$?
+A. $3x^2 - 4$
+B. $3x^2 - 4x$
+C. $x^2 - 4$
+D. $3x^3 - 4$
+Correct Answer: A
+Explanation: Applying the power rule to $x^3 - 4x + 7$ yields $3x^{3-1} - 4(1) + 0 = 3x^2 - 4$.
+
+Q2.
+Question: What is the sum of the interior angles of a convex polygon with $n$ sides?
+A. $(n-2) \times 180^\circ$
+B. $(n+2) \times 180^\circ$
+C. $n \times 180^\circ$
+D. $(2n-4) \times 90^\circ$
+Correct Answer: A
+Explanation: The formula for the sum of interior angles in an $n$-gon is $(n-2) \times 180^\circ$.
+
+Q3.
+Question: What is the value of $\log_{10}(1000)$?
+A. 2
+B. 3
+C. 4
+D. 10
+Correct Answer: B
+Explanation: Since $10^3 = 1000$, $\log_{10}(1000) = 3$.
+
+Q4.
+Question: What is the solution to the equation $2x + 5 = 15$?
+A. $x = 10$
+B. $x = 5$
+C. $x = 7.5$
+D. $x = 2.5$
+Correct Answer: B
+Explanation: Subtract 5 from both sides ($2x = 10$), then divide by 2 ($x = 5$).
+
+Q5.
+Question: What is the value of $\sin(\frac{\pi}{6})$?
+A. $\frac{1}{2}$
+B. $\frac{\sqrt{3}}{2}$
+C. $\frac{\sqrt{2}}{2}$
+D. 1
+Correct Answer: A
+Explanation: $\sin(30^\circ) = \sin(\frac{\pi}{6}) = \frac{1}{2}$.

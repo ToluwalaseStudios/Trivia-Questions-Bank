@@ -1,0 +1,44 @@
+Q1.
+Question: What is the primary function of the mitochondria in eukaryotic cells?
+A. Protein synthesis
+B. ATP production via cellular respiration
+C. Lipid storage
+D. DNA replication
+Correct Answer: B
+Explanation: Mitochondria are known as the powerhouses of the cell because they generate most of the cell's ATP through aerobic respiration.
+
+Q2.
+Question: Which organelle is responsible for synthesizing proteins?
+A. Ribosome
+B. Lysosome
+C. Golgi apparatus
+D. Endoplasmic reticulum
+Correct Answer: A
+Explanation: Ribosomes read mRNA sequences and translate them into polypeptide chains during protein synthesis.
+
+Q3.
+Question: What is the primary pigment involved in photosynthesis in green plants?
+A. Carotenoid
+B. Chlorophyll a
+C. Anthocyanin
+D. Xanthophyll
+Correct Answer: B
+Explanation: Chlorophyll a is the primary photosynthetic pigment that absorbs light energy necessary for converting $CO_2$ and $H_2O$ into glucose.
+
+Q4.
+Question: Which molecule serves as the primary energy currency of the cell?
+A. DNA
+B. RNA
+C. ATP
+D. NADH
+Correct Answer: C
+Explanation: Adenosine triphosphate (ATP) stores and provides energy for vital cellular processes.
+
+Q5.
+Question: What is the process by which cells divide to produce four genetically distinct haploid gametes?
+A. Mitosis
+B. Binary fission
+C. Meiosis
+D. Budding
+Correct Answer: C
+Explanation: Meiosis consists of two successive cell divisions that result in four haploid daughter cells with genetic variation.

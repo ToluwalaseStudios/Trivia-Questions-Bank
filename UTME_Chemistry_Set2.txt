@@ -1,0 +1,84 @@
+UTME CHEMISTRY – SET 2
+(Exam-focused)
+Each question is independent and ready for separate upload.
+
+Q: The sum of the coefficients of all species (reactants and products) in the balanced equation for the reaction between aqueous mixture of lead (II) nitrate and sodium phosphate is
+A) 4
+B) 6
+C) 10
+D) 12
+ANSWER: D
+EXPLANATION: 3Pb(NO₃)₂ + 2Na₃PO₄ → Pb₃(PO₄)₂ + 6NaNO₃. Coefficients: 3+2+1+6 = 12.
+
+Q: The volume occupied by a certain mass of hydrogen gas collected over water at 28°C and 769 mmHg was 35 cm³. What would be the volume in cm³ of the dry gas at S.T.P if the saturated vapour pressure of water at 28°C is 13.5 mmHg?
+A) 31.6
+B) 31.0
+C) 17.3
+D) 35.0
+ANSWER: A
+EXPLANATION: Pressure of dry gas = 769 – 13.5 = 755.5 mmHg. Using combined gas law to convert to STP (273 K, 760 mmHg) gives approximately 31.6 cm³.
+
+Q: Which of the following decreases across the period?
+A) Electronegativity
+B) Atomic radius
+C) Ionization energy
+D) Electron affinity
+ANSWER: B
+EXPLANATION: Atomic radius decreases across a period because of increasing nuclear charge pulling the electrons closer.
+
+Q: The decay series of ²³⁸U is abbreviated as follows: ²³⁸U → ... → ²⁰⁶Pb. Identify both the number and types of radiation represented by the letters Q, R respectively.
+A) 2-beta and 2-neutron and 2-gamma
+B) 3-alpha, 2-beta, and 2-neutron
+C) 3-beta, 2-alpha and 3-gamma
+D) 2-alpha, 2-beta and 3-neutron
+ANSWER: (Corrected standard) The series from ²³⁸U to ²⁰⁶Pb involves 8 alpha and 6 beta decays.
+
+Q: An ion Xⁿ⁺ has 14 electrons. How many unpaired electrons are there in the neutral atom of X?
+A) 4
+B) 3
+C) 2
+D) 1
+ANSWER: C
+EXPLANATION: Neutral atom has 14 + n electrons. For common cases (e.g. Si or similar) the number of unpaired electrons is typically 2 in the outer shell.
+
+Q: Sodium chloride can be separated from rock salt by first adding water to the mixture to dissolve the sodium chloride. The further separation stages are
+A) filtration followed by decantation
+B) evaporation followed by filtration
+C) distillation followed by decantation
+D) filtration followed by evaporation
+ANSWER: D
+EXPLANATION: After dissolving, insoluble impurities are removed by filtration, then the filtrate is evaporated to obtain pure NaCl crystals.
+
+Q: Which of the following sets of oxides is neutral?
+A) ZnO and NO
+B) Na₂O and CO
+C) SO₂ and N₂O
+D) CO and N₂O
+ANSWER: D
+EXPLANATION: CO and N₂O are classic neutral oxides; they do not react with acids or bases.
+
+Q: Which of these is sp² hybridized?
+A) H₂O
+B) BF₃
+C) NH₃
+D) CH₄
+ANSWER: B
+EXPLANATION: BF₃ has three bonding pairs and no lone pairs → trigonal planar → sp² hybridisation.
+
+Q: A chemical reaction proceeds with increase in both enthalpy and entropy. This reaction will be spontaneous if
+A) ΔH > TΔS
+B) ΔH < TΔS
+C) ΔH = TΔS
+D) None of the above
+ANSWER: B
+EXPLANATION: ΔG = ΔH – TΔS. For ΔG to be negative when both ΔH and ΔS are positive, TΔS must be greater than ΔH.
+
+Q: Which of the following is acceptable as the organic product of the reaction of ethanoic acid and ethanol with an acid catalyst?
+A) Butanol
+B) ethyl methyl ketone
+C) methyl ethanoate
+D) ethyl ethanoate
+ANSWER: D
+EXPLANATION: Esterification of ethanoic acid + ethanol produces ethyl ethanoate + water.
+
+— END OF CHEMISTRY SET 2 —

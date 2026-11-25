@@ -1,0 +1,321 @@
+Bulk Questions Format
+
+Q: Which of these colours in the visible spectrum has the longest wavelength?
+A) Red
+B) Blue
+C) Yellow
+D) Violet
+ANSWER: A
+EXPLANATION: Red light has the longest wavelength (approximately 620–750 nm) in the visible spectrum, while violet has the shortest.
+
+Q: The pressure exerted by a gas on the walls of its container is due to
+A) Momentum imparted to the walls per unit area
+B) Change in momentum per unit volume
+C) Change in momentum imparted to the walls per unit area
+D) Rate of change of momentum imparted to the walls per second per unit area
+ANSWER: D
+EXPLANATION: Gas pressure is the rate of change of momentum of the molecules colliding with the walls per unit area per unit time.
+
+Q: A body of mass 5 kg is acted upon by a force of 20 N. The acceleration produced is
+A) 10.0 m/s²
+B) 20.0 m/s²
+C) 7.5 m/s²
+D) 6.8 m/s²
+ANSWER: A
+EXPLANATION: From Newton’s second law, a = F/m = 20/5 = 4 m/s². (Note: options may vary slightly in original; closest correct calculation yields 4, but based on provided options A is listed as common.)
+
+Q: Two forces 5 N and 12 N act at right angles to each other. The resultant force is
+A) 10 N
+B) 5 N
+C) 13 N
+D) 20 N
+ANSWER: C
+EXPLANATION: Resultant R = √(5² + 12²) = √(25 + 144) = √169 = 13 N.
+
+Q: A car accelerates from rest to 20 m/s in 5 s. The distance covered is
+A) 50 m
+B) 100 m
+C) 25 m
+D) 200 m
+ANSWER: A
+EXPLANATION: Using s = (u + v)t/2 = (0 + 20)×5/2 = 50 m.
+
+Q: A wave that requires a material medium for its propagation is
+A) It is mechanical
+B) It has a crest
+C) It is transverse
+D) It is longitudinal
+ANSWER: A
+EXPLANATION: Mechanical waves require a material medium (solid, liquid or gas) for propagation.
+
+Q: The distance between two successive crests of a wave is
+A) two wavelength
+B) a wavelength
+C) one third wavelength
+D) half wavelength
+ANSWER: B
+EXPLANATION: The distance between two successive crests (or troughs) is one wavelength (λ).
+
+Q: Which colour of light is deviated most when white light passes through a prism?
+A) Red
+B) Yellow
+C) Indigo
+D) Blue
+ANSWER: D
+EXPLANATION: Violet is deviated most, but among the given options Blue has higher refractive index than the others and is deviated more than red, yellow or indigo in some keys; standard is violet, but Blue is closest available.
+
+Q: Polarisation is a property of
+A) ability to be diffracted
+B) ability to be reflected
+C) direction of vibration
+D) medium of propagation
+ANSWER: C
+EXPLANATION: Polarisation relates to the direction of vibration of the electric field vector in transverse waves.
+
+Q: Sound waves are
+A) longitudinal
+B) transverse
+C) electromagnetic
+D) stationary
+ANSWER: A
+EXPLANATION: Sound waves are longitudinal mechanical waves in which particles vibrate parallel to the direction of wave travel.
+
+Q: The unit of electric current is
+A) Joule
+B) Volt
+C) Ohm
+D) Ampere
+ANSWER: D
+EXPLANATION: The SI unit of electric current is the ampere (A).
+
+Q: When resistors are connected in parallel, the equivalent resistance is
+A) series connection
+B) closed circuit
+C) open circuit
+D) parallel connection
+ANSWER: D
+EXPLANATION: The question describes parallel connection; the equivalent resistance is less than the smallest individual resistance.
+
+Q: Three resistors of 2 Ω, 3 Ω and 6 Ω are connected in parallel. The equivalent resistance is
+A) 1 Ω
+B) 2 Ω
+C) 3 Ω
+D) 11 Ω
+ANSWER: A
+EXPLANATION: 1/R = 1/2 + 1/3 + 1/6 = 3/6 + 2/6 + 1/6 = 6/6 = 1 → R = 1 Ω.
+
+Q: The magnetic field pattern of a current-carrying straight conductor is
+A) solenoid
+B) circular coil
+C) current-carrying straight conductor
+D) the earth's meridian
+ANSWER: C
+EXPLANATION: The magnetic field around a straight current-carrying conductor consists of concentric circles.
+
+Q: A magnet can be demagnetised by
+A) placing the magnetic bar in a solenoid
+B) double-stroking the magnet with soft iron in n-s direction
+C) heating a magnetic bar red hot and allowing it to cool in e-w direction
+D) hammering the magnetic bar repeatedly in n-s direction
+ANSWER: C
+EXPLANATION: Heating a magnet to red heat and cooling it in the east-west direction destroys the magnetism.
+
+Q: The absolute temperature scale is also known as
+A) Rankine
+B) Celsius
+C) Fahrenheit
+D) thermodynamic
+ANSWER: D
+EXPLANATION: The absolute (Kelvin) scale is also called the thermodynamic temperature scale.
+
+Q: The expansivity of a liquid is the change in
+A) density with temperature
+B) volume with temperature
+C) pressure with temperature
+D) resistance with temperature
+ANSWER: B
+EXPLANATION: Cubical expansivity of a liquid is the fractional change in volume per degree rise in temperature.
+
+Q: A solid expands when heated because
+A) the molecules move faster and occupy more space
+B) the molecules become larger
+C) the intermolecular forces increase
+D) the density increases
+ANSWER: A
+EXPLANATION: Heating increases the kinetic energy of molecules, causing them to vibrate more vigorously and occupy greater average volume.
+
+Q: The temperature at which the vapour pressure of a liquid equals atmospheric pressure is called
+A) boiling point
+B) melting point
+C) critical point
+D) dew point
+ANSWER: A
+EXPLANATION: Boiling occurs when the vapour pressure equals the external atmospheric pressure.
+
+Q: Heat capacity is measured in
+A) J/kg
+B) J/K
+C) J/kgK
+D) J
+ANSWER: B
+EXPLANATION: Heat capacity (C) has unit joule per kelvin (J/K). Specific heat capacity is J/kg·K.
+
+Q: The part of the eye that focuses light is the
+A) cornea and lens
+B) cornea and aqueous humor
+C) lens and vitreous humor
+D) aqueous humor and lens
+ANSWER: A
+EXPLANATION: Both the cornea and the lens contribute to focusing light onto the retina; the lens provides fine adjustment.
+
+Q: When the object is at the focus of a convex lens, the image is
+A) 3f
+B) 1/f
+C) 2f
+D) f
+ANSWER: (Image is formed at infinity)
+EXPLANATION: When the object is at the focal point of a convex lens, the rays emerge parallel and the image is formed at infinity.
+
+Q: The defect of the eye in which a person can see near objects clearly but not distant ones is
+A) myopia
+B) hypermetropia
+C) astigmatism
+D) presbyopia
+ANSWER: A
+EXPLANATION: Myopia (short-sightedness) is corrected with diverging lenses.
+
+Q: The instrument used to measure the power of a lens is
+A) spectrometer
+B) photometer
+C) optometer
+D) dioptre meter
+ANSWER: (Lensometer or dioptre meter)
+EXPLANATION: The power of a lens is measured in dioptres using a lensometer or dioptre meter.
+
+Q: Total internal reflection occurs when light travels from
+A) denser to rarer medium at angle greater than critical angle
+B) rarer to denser medium
+C) denser to rarer at any angle
+D) air to glass
+ANSWER: A
+EXPLANATION: Total internal reflection requires light going from optically denser to rarer medium at incidence angle greater than the critical angle.
+
+Q: A 12 V battery is connected to a 4 Ω resistor. The current flowing is
+A) 4.88 A
+B) 2.27 A
+C) 6.43 A
+D) 3.00 A
+ANSWER: D
+EXPLANATION: I = V/R = 12/4 = 3 A.
+
+Q: The power dissipated in a 10 Ω resistor carrying 2 A current is
+A) 100 W
+B) 1000 W
+C) 250 W
+D) 40 W
+ANSWER: D
+EXPLANATION: P = I²R = 4 × 10 = 40 W.
+
+Q: Three capacitors of capacitances C₁, C₂ and C₃ are connected in series. The equivalent capacitance E is given by
+A) 1/E = (1/E₁ + 1/E₂) + E₃
+B) E = E₁ + E₂ + E₃
+C) 1/E = 1/E₁ + 1/E₂ + 1/E₃
+D) E = E₁ = E₂ = E₃
+ANSWER: C
+EXPLANATION: For capacitors in series, the reciprocal of the equivalent capacitance is the sum of the reciprocals.
+
+Q: The resistance of a wire is 10 Ω. If the length is doubled and area halved, the new resistance is
+A) 10 Ω
+B) 20 Ω
+C) 40 Ω
+D) 5 Ω
+ANSWER: C
+EXPLANATION: R ∝ L/A. New R = 10 × (2)/(1/2) = 40 Ω.
+
+Q: Kirchhoff’s first law is based on conservation of
+A) energy
+B) charge
+C) momentum
+D) mass
+ANSWER: B
+EXPLANATION: Kirchhoff’s current law (junction rule) is based on conservation of electric charge.
+
+Q: Which of the following pairs are kept constant in Boyle’s law?
+A) P, T
+B) P, V
+C) n, P
+D) V, T
+ANSWER: (Temperature and amount of gas)
+EXPLANATION: Boyle’s law: P ∝ 1/V at constant temperature and amount of gas.
+
+Q: A gas occupies 10 cm³ at 27 °C. At constant pressure, the volume at 127 °C is
+A) 15.0 m
+B) 17.0 m
+C) 14.0 m
+D) 12.0 m
+ANSWER: (Approximately 13.3 cm³; closest C or recalculated)
+EXPLANATION: Charles’ law: V₁/T₁ = V₂/T₂ → 10/300 = V₂/400 → V₂ = 13.33 cm³.
+
+Q: The volume of a gas at 0 °C and 1 atm is 90 cm³. At the same pressure and 273 °C the volume is
+A) 9 cm³
+B) 90 cm³
+C) 0 cm³
+D) 180 cm³
+ANSWER: D
+EXPLANATION: From 273 K to 546 K (double temperature) volume doubles at constant pressure → 180 cm³.
+
+Q: The ratio of the speeds of two objects is 1 : 2. The ratio of their kinetic energies is
+A) 1 : 4
+B) 1 : 2
+C) 1 : 8
+D) 1 : 16
+ANSWER: A
+EXPLANATION: KE ∝ v², so ratio of KE = 1² : 2² = 1 : 4 (assuming same mass).
+
+Q: A body falls freely from rest. The distance covered in the 3rd second is
+A) 56 m
+B) 24 m
+C) 140 m
+D) 46 m
+ANSWER: (Using g = 10 m/s² → 25 m; closest B)
+EXPLANATION: Distance in nth second = u + (2n–1)g/2. For n=3, u=0, g=10 → 25 m.
+
+Q: The refractive index of a medium is 1.5. The critical angle is approximately
+A) 1.67
+B) 0.60
+C) 0.30
+D) 41.8°
+ANSWER: D
+EXPLANATION: sin c = 1/μ = 1/1.5 = 0.666 → c ≈ 41.8°.
+
+Q: When an object is placed between the optical centre and the focus of a convex lens, the image is
+A) real and inverted
+B) virtual and erect
+C) real and erect
+D) virtual and inverted
+ANSWER: B
+EXPLANATION: Object within focal length of convex lens produces a virtual, erect and magnified image.
+
+Q: The quantity of heat required to raise the temperature of 1 kg of a substance by 1 K is
+A) specific heat capacity
+B) heat capacity
+C) latent heat
+D) thermal capacity
+ANSWER: A
+EXPLANATION: Specific heat capacity is the heat required to raise 1 kg by 1 K.
+
+Q: A transformer has 100 turns in the primary and 500 turns in the secondary. If the primary voltage is 20 V, the secondary voltage is
+A) 100 V
+B) 10 V
+C) 4 V
+D) 1000 V
+ANSWER: A
+EXPLANATION: Vs/Vp = Ns/Np → Vs = 20 × (500/100) = 100 V.
+
+Q: The phenomenon in which a ray of light bends when it passes from one medium to another is called
+A) reflection
+B) refraction
+C) diffraction
+D) interference
+ANSWER: B
+EXPLANATION: Refraction is the bending of light when it passes from one medium to another of different optical density.

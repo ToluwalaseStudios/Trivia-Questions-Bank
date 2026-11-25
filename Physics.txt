@@ -1,0 +1,91 @@
+PHYSICS – 10 QUESTIONS WITH DETAILED EXPLANATIONS
+
+Q1: Arrange the following based on their velocity
+I. X-ray
+II. Ultraviolet Ray
+III. Yellow
+IV. Red
+A) None of the above
+B) III, IV, II, I
+C) I, II, III, IV
+D) IV, III, II, I
+ANSWER: A
+EXPLANATION: All electromagnetic waves (X-rays, ultraviolet, visible yellow and red light) travel at the same speed c ≈ 3.00 × 10⁸ m s⁻¹ in vacuum. Any arrangement that claims a difference in velocity is therefore incorrect. Hence the correct choice is “None of the above.”
+
+Q2: y = 6 sin π(10t − 4x) (t in s, x and y in cm). Find the wavelength.
+A) 1 cm
+B) 0.3 cm
+C) 0.1 cm
+D) 0.5 cm
+ANSWER: D
+EXPLANATION: The general form is y = A sin (ωt − kx).  
+Here the argument is π(10t − 4x) = 10π t − 4π x, so the wave number k = 4π.  
+Wavelength λ = 2π / k = 2π / 4π = 0.5 cm.
+
+Q3: Find the critical angle of a medium with refractive index 1.5
+A) 50°
+B) 41.3°
+C) 38.9°
+D) 47°
+ANSWER: B
+EXPLANATION: Critical angle C is given by sin C = 1/n = 1/1.5 = 0.6667.  
+C = arcsin(0.6667) ≈ 41.81°. The closest listed value is 41.3°.
+
+Q4: If the area of a capacitor is A and the separation between the plates is d, taking permittivity of free space as E₀, the capacitance is
+A) C = E₀ A / d
+B) C = E₀ d / A
+C) C = d / A
+D) C = E₀ / d
+ANSWER: A
+EXPLANATION: The capacitance of a parallel-plate capacitor is derived from C = Q/V and Gauss’s law, yielding the standard formula C = ε₀ A / d. The other expressions are dimensionally or algebraically incorrect.
+
+Q5: The force applied is F, the velocity of the body is V and the time taken is T. The work done on the body is
+A) W = F V
+B) W = F V T
+C) W = F T
+D) W = F / V
+ANSWER: B
+EXPLANATION: Power P = F × V. Work is the product of power and time: W = P × T = F V T.  
+(Alternatively, displacement s = V T, so W = F s = F V T.)
+
+Q6: If the power is P and the time involved in change of state is T, the latent heat when the mass is M is
+A) PT / M
+B) M / PT
+C) P / MT
+D) P / T
+ANSWER: A
+EXPLANATION: Energy supplied = Power × time = P T.  
+This energy equals m L (mass × specific latent heat).  
+Therefore L = P T / M.
+
+Q7: An image is said to be virtual if
+A) It appears to diverge from a point
+B) It actually diverges from a point
+C) It appears to converge at a point
+D) It actually converges at a point
+ANSWER: A
+EXPLANATION: A virtual image is formed when rays after reflection or refraction appear to the observer to be coming from a point behind the mirror or lens; they do not actually meet there. Real images are formed by actual convergence of rays.
+
+Q8: Capacitors are used in the induction coil to
+A) control circuits
+B) prevent distortion of electric fields
+C) prevent electric sparks
+D) dissipate energy
+ANSWER: C
+EXPLANATION: When the primary circuit of an induction coil is broken, a large back e.m.f. is induced. A capacitor connected across the make-and-break points absorbs the energy of this e.m.f., thereby preventing the formation of a spark that would otherwise damage the contacts.
+
+Q9: Lenz’s law is a principle of conservation of ___
+A) Charge
+B) Energy
+C) Electricity
+D) E.M.F
+ANSWER: B
+EXPLANATION: Lenz’s law states that the induced current always opposes the change that produces it. This opposition ensures that mechanical work must be done against the magnetic force, converting that work into electrical energy and thereby conserving energy. It is a direct consequence of the law of conservation of energy.
+
+Q10: Transformers work based on the principle of
+A) Mutual inductance
+B) Lenz’s law
+C) Fleming’s right-hand rule
+D) Fleming’s left-hand rule
+ANSWER: A
+EXPLANATION: A transformer consists of two coils linked by a common magnetic flux. A changing current in the primary produces a changing flux that links the secondary, inducing an e.m.f. by mutual induction. While electromagnetic induction is the broader phenomenon and Lenz’s law gives the direction, the specific operating principle of a transformer is mutual inductance.

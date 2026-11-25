@@ -1,0 +1,91 @@
+CHEMISTRY – 10 QUESTIONS WITH DETAILED EXPLANATIONS
+
+Q1: At constant volume, the heat transferred to or from a system is equal to the change in ______.
+A) Internal Energy
+B) Enthalpy
+C) Entropy
+D) Gibbs free energy
+ANSWER: A
+EXPLANATION: From the first law of thermodynamics, ΔU = q + w. At constant volume, no expansion work is done (w = 0), therefore q_v = ΔU. Enthalpy change equals heat at constant pressure; entropy and Gibbs free energy are state functions related to other conditions.
+
+Q2: The reaction between hydrogen and iodine may be represented by the equation H₂(g) + I₂(g) ⇌ 2HI(g) and is exothermic. Therefore
+A) an increase in temperature favours the forward reaction
+B) an increase in pressure favours the backward reaction
+C) both pressure and temperature must be increased to favour the forward reaction
+D) a decrease in temperature will favour the forward reaction
+E) a decrease in pressure and an increase in temperature will favour the forward reaction
+ANSWER: D
+EXPLANATION: By Le Chatelier’s principle, an exothermic reaction is favoured by a decrease in temperature (heat is treated as a product). The number of gas molecules is the same on both sides (2 = 2), so pressure has no effect on the position of equilibrium. Only option D correctly identifies the temperature effect.
+
+Q3: The alloy duralumin is used for the building of aeroplanes because it
+A) absorbs heat readily from the sun thereby preventing the inside of the plane from getting too cold at high altitudes
+B) reflects sunlight readily, thereby keeping the inside of the plane cool
+C) is extremely durable and possesses reflective ability
+D) is easily the lightest building material
+E) possesses both strength and lightness
+ANSWER: E
+EXPLANATION: Duralumin (an aluminium-copper alloy) combines high tensile strength with low density. This strength-to-weight ratio is the principal reason it is used in aircraft construction. The other options either misstate physical properties or are secondary considerations.
+
+Q4: Calculate the mass, in kilograms, of magnesium produced by the electrolysis of magnesium(II) chloride in a cell operating for 24 hours at 500 amperes.
+[Faraday = 96 500 C mol⁻¹, Mg = 24]
+A) 2.7
+B) 5.4
+C) 10.8
+D) 21.7
+ANSWER: B
+EXPLANATION: Quantity of electricity Q = I × t = 500 A × 24 h × 3600 s h⁻¹ = 43 200 000 C.
+Moles of electrons = Q / F = 43 200 000 / 96 500 ≈ 447.67 mol.
+The half-equation is Mg²⁺ + 2e⁻ → Mg, so moles of Mg = 447.67 / 2 ≈ 223.835 mol.
+Mass = 223.835 × 24 g mol⁻¹ ≈ 5372 g = 5.372 kg ≈ 5.4 kg.
+
+Q5: Two elements have the same mass number but different atomic numbers; they are ____
+A) Isobars
+B) Isotones
+C) Allotropes
+D) Isotopes
+ANSWER: A
+EXPLANATION: Isobars are atoms of different elements (different atomic numbers) that have the same mass number. Isotopes have the same atomic number but different mass numbers; isotones have the same number of neutrons; allotropes are different forms of the same element.
+
+Q6: In the electrolysis of molten CuSO₄, what is produced at the cathode?
+A) Copper
+B) Hydrogen
+C) Oxygen
+D) Sulphur
+ANSWER: A
+EXPLANATION: In molten copper(II) sulphate the only cations present are Cu²⁺. These ions migrate to the cathode and are reduced: Cu²⁺ + 2e⁻ → Cu. Hydrogen would appear only if water were present (aqueous solution); oxygen is liberated at the anode; sulphur is not produced.
+
+Q7: Which of the following has the lowest pH at standard conditions?
+A) HI
+B) HBr
+C) HF
+D) CH₃COOH
+ANSWER: A
+EXPLANATION: Acid strength of the hydrogen halides increases down the group (HI > HBr > HCl > HF) because of decreasing H–X bond strength. HI is therefore the strongest acid among the options and has the lowest pH. Acetic acid is a weak organic acid.
+
+Q8: A gas X diffuses twice as fast as gas Y with relative molecular mass of 112. Calculate the relative molecular mass of gas X.
+A) 28
+B) 14
+C) 56
+D) 120
+ANSWER: A
+EXPLANATION: Graham’s law: rate ∝ 1/√M.  
+(rate X / rate Y) = √(M_Y / M_X)  
+2 = √(112 / M_X)  
+4 = 112 / M_X  
+M_X = 112 / 4 = 28.
+
+Q9: How many sub-orbitals are found in a p-orbital?
+A) 2
+B) 4
+C) 3
+D) 5
+ANSWER: C
+EXPLANATION: A p sub-shell consists of three degenerate orbitals (p_x, p_y, p_z), each of which can hold two electrons. The question asks for the number of orbitals (sub-orbitals) within the p sub-shell, which is three.
+
+Q10: If 5 drops of 2 mol dm⁻³ HCl is added to 10 cm³ of a solution of pH 5, the resulting solution will be
+A) Greater than 5
+B) Less than 5
+C) Equal to 5
+D) Will not change
+ANSWER: B
+EXPLANATION: Adding a strong acid (HCl) increases the concentration of H⁺ ions. The original solution has [H⁺] = 10⁻⁵ mol dm⁻³. Even a few drops of 2 mol dm⁻³ acid raise [H⁺] substantially, lowering the pH below 5.
